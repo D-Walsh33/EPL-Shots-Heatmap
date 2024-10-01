@@ -341,8 +341,10 @@ def shotPlot(data, name):
         ha='center'
     )
     plt.show()
+
 # Now we have a list of the top 10 shooters shot information. need to program tkiter and buttons.
 root = Tk()
+
 root.title("Top Premier League Shooters 2024")
 
 label = ttk.Label(root, text="Click on a player!")
