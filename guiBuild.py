@@ -6,13 +6,34 @@ import asyncio
 import aiohttp
 import pandas as pd
 import matplotlib.pyplot as plt
+from matplotlib.backends.backend_tkagg import FigureCanvasTkAgg
 
 from understat import Understat
 from mplsoccer import VerticalPitch
 
+class heatMapWindow(Toplevel):
+    def __init__(self, figs, names):
+        super().__init__()
+        self.title('Heat Map Window')
+        self.figs = figs
+        self.names = names
+        self.geometry('900x900')
+        players_frame = Frame(self, bg='grey')
+        players_frame.pack(side=LEFT)
+        players_frame.pack_propagate(False)
+        players_frame.configure(width=100, height=400)
 
+        #need to make this display and delete old plots
+        for player in self.names:
+            playerButton = Button(players_frame, text=player, font=('Bold', 8), bd=0, bg='grey')
+            playerButton.pack()
 
-
+        #this is how to make a plot appear!
+        canvas = FigureCanvasTkAgg(self.figs[0], master = self)
+        canvas.draw()
+        canvas.get_tk_widget().pack()
+        
+        
 
 def test():
     year_label.config(text=year_combo.get())
@@ -304,7 +325,8 @@ def shotPlot(data, name):
         color='red',
         ha='center'
     )
-    plt.show()
+    #plt.show()
+    return fig
 
 
 async def get_players():
@@ -333,17 +355,25 @@ def call():
     top_10 = playersDF.nlargest(10, 'shots')
     shotData = []
     top_dic = top_10.to_dict(orient='records')
+    # list of top 10 player names
+    top_player_names = [x['player_name'] for x in top_dic]
     for x in top_dic:
         loop = asyncio.get_event_loop()
         data = loop.run_until_complete(get_shots_24(x['id']))
         dataDF = pd.DataFrame(data)
         dataDF[['xG', 'X', 'Y']] = dataDF[['xG', 'X', 'Y']].apply(pd.to_numeric)
         shotData.append(dataDF)
-    # build new window with buttons of players
-    new_window = Toplevel()
+    
+    #create a list of figures
+    figs = []
     for i in range(len(top_dic)):
-        button = ttk.Button(new_window, text=top_dic[i]['player_name'], command=lambda i=i: shotPlot(shotData[i], top_dic[i]['player_name']))
-        button.pack()
+        #button = ttk.Button(new_window, text=top_dic[i]['player_name'], command=lambda i=i: shotPlot(shotData[i], top_dic[i]['player_name']))
+        #button.pack()
+        figs.append(shotPlot(shotData[i], top_player_names[i]))
+    # build new window with buttons of players
+    new_window = heatMapWindow(figs, top_player_names)
+
+
 
 
 
