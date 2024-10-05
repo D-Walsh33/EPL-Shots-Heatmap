@@ -39,9 +39,10 @@ def test():
     year_label.config(text=year_combo.get())
 
 def shotPlot(data, name):
-    data['X'] = data['X'] * 100
-    data['Y'] = data['Y'] * 100
-
+    #data['X'] = data['X'] * 100
+    #data['Y'] = data['Y'] * 100
+    data.loc[:, 'X'] *= 100
+    data.loc[:, 'Y'] *= 100
     total_shots = data.shape[0]
     total_goals = data[data['result'] == 'Goal'].shape[0]
     total_xG = data['xG'].sum()
@@ -329,51 +330,21 @@ def shotPlot(data, name):
     return fig
 
 
-async def get_players():
-    async with aiohttp.ClientSession() as session:
-        understat = Understat(session)
-        players = await understat.get_league_players(
-            'epl', year_combo.get()
-        )
-        return players
-
-async def get_shots_24(player_id):
-    async with aiohttp.ClientSession() as session:
-        understat = Understat(session)
-        player_shots = await understat.get_player_shots(
-            player_id, {'season': str(year_combo.get())}
-        )
-        return player_shots
-
 def call():
-    loop = asyncio.get_event_loop()
-    players = loop.run_until_complete(get_players())
-    # turn that data into a DataFrame
-    playersDF = pd.DataFrame(players)
-    playersDF['shots'] = playersDF['shots'].apply(pd.to_numeric)
-    # find the top ten players with the most shots
-    top_10 = playersDF.nlargest(10, 'shots')
+    shotDataDF = pd.read_csv(f'./data/topShooters{year_combo.get()}.csv')
+    shotDataDF[['xG', 'X', 'Y']] = shotDataDF[['xG', 'X', 'Y']].apply(pd.to_numeric)
+    top_player_names = []
     shotData = []
-    top_dic = top_10.to_dict(orient='records')
-    # list of top 10 player names
-    top_player_names = [x['player_name'] for x in top_dic]
-    for x in top_dic:
-        loop = asyncio.get_event_loop()
-        data = loop.run_until_complete(get_shots_24(x['id']))
-        dataDF = pd.DataFrame(data)
-        dataDF[['xG', 'X', 'Y']] = dataDF[['xG', 'X', 'Y']].apply(pd.to_numeric)
-        shotData.append(dataDF)
-    
-    #create a list of figures
     figs = []
-    for i in range(len(top_dic)):
-        #button = ttk.Button(new_window, text=top_dic[i]['player_name'], command=lambda i=i: shotPlot(shotData[i], top_dic[i]['player_name']))
-        #button.pack()
+    # list of top 10 shooters dataFrames
+    for i in range(10):
+        df = shotDataDF[shotDataDF['player'] == shotDataDF['player'].value_counts().index[i]]
+        name = shotDataDF['player'].value_counts().index[i]
+        shotData.append(df)
+        top_player_names.append(name)    
         figs.append(shotPlot(shotData[i], top_player_names[i]))
     # build new window with buttons of players
     new_window = heatMapWindow(figs, top_player_names)
-
-
 
 
 
@@ -382,7 +353,8 @@ root.title("Premier League Shooters!")
 root.geometry('600x400')
 
 # Create a ComboBox
-year_list = [2018, 2019,
+year_list = [2015, 2016, 2017,
+            2018, 2019,
              2020, 2021,
              2022, 2023,
              2024]

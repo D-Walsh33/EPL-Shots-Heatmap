@@ -1,0 +1,1026 @@
+,id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+0,309898,18,Goal,0.933000030517578,0.3670000076293945,0.3668169975280761,Mohamed Salah,h,1250,OpenPlay,2019,LeftFoot,11643,Liverpool,Norwich,4,1,2019-08-09 20:00:00,Roberto Firmino,Pass
+1,309908,53,MissedShots,0.88,0.3390000152587891,0.0779922977089881,Mohamed Salah,h,1250,OpenPlay,2019,LeftFoot,11643,Liverpool,Norwich,4,1,2019-08-09 20:00:00,Fabinho,BallRecovery
+2,310445,32,MissedShots,0.9390000152587892,0.720999984741211,0.0417416989803314,Mohamed Salah,a,1250,OpenPlay,2019,LeftFoot,11658,Southampton,Liverpool,1,2,2019-08-17 15:00:00,Alex Oxlade-Chamberlain,Chipped
+3,310449,49,BlockedShot,0.8009999847412109,0.31,0.0711997970938682,Mohamed Salah,a,1250,DirectFreekick,2019,LeftFoot,11658,Southampton,Liverpool,1,2,2019-08-17 15:00:00,,Standard
+4,310454,55,SavedShot,0.9230000305175782,0.3570000076293945,0.3007830083370209,Mohamed Salah,a,1250,OpenPlay,2019,LeftFoot,11658,Southampton,Liverpool,1,2,2019-08-17 15:00:00,Sadio Mané,Chipped
+5,312712,38,MissedShots,0.875,0.2920000076293945,0.0451099015772342,Mohamed Salah,h,1250,OpenPlay,2019,LeftFoot,11670,Liverpool,Arsenal,3,1,2019-08-24 17:30:00,Trent Alexander-Arnold,Pass
+6,312718,48,Goal,0.885,0.5,0.7611690163612366,Mohamed Salah,h,1250,Penalty,2019,LeftFoot,11670,Liverpool,Arsenal,3,1,2019-08-24 17:30:00,,Standard
+7,312719,50,BlockedShot,0.8069999694824219,0.2579999923706054,0.0320192985236644,Mohamed Salah,h,1250,OpenPlay,2019,LeftFoot,11670,Liverpool,Arsenal,3,1,2019-08-24 17:30:00,Sadio Mané,Chipped
+8,312724,55,MissedShots,0.9469999694824218,0.525,0.5426520109176636,Mohamed Salah,h,1250,OpenPlay,2019,Head,11670,Liverpool,Arsenal,3,1,2019-08-24 17:30:00,Andrew Robertson,Cross
+9,312725,58,Goal,0.8569999694824219,0.349000015258789,0.2207230031490326,Mohamed Salah,h,1250,OpenPlay,2019,LeftFoot,11670,Liverpool,Arsenal,3,1,2019-08-24 17:30:00,Fabinho,TakeOn
+10,316005,4,SavedShot,0.87,0.3270000076293945,0.0600182004272937,Mohamed Salah,a,1250,OpenPlay,2019,LeftFoot,11680,Burnley,Liverpool,0,3,2019-08-31 17:30:00,Sadio Mané,Pass
+11,316016,59,BlockedShot,0.855999984741211,0.4520000076293945,0.0865631029009819,Mohamed Salah,a,1250,SetPiece,2019,LeftFoot,11680,Burnley,Liverpool,0,3,2019-08-31 17:30:00,Trent Alexander-Arnold,Pass
+12,316017,60,SavedShot,0.8109999847412109,0.5070000076293946,0.1046539992094039,Mohamed Salah,a,1250,OpenPlay,2019,RightFoot,11680,Burnley,Liverpool,0,3,2019-08-31 17:30:00,Fabinho,BallRecovery
+13,317029,25,BlockedShot,0.88,0.6880000305175781,0.0299215000122785,Mohamed Salah,h,1250,OpenPlay,2019,RightFoot,11683,Liverpool,Newcastle United,3,1,2019-09-14 11:30:00,Trent Alexander-Arnold,Cross
+14,317041,61,BlockedShot,0.89,0.5629999923706055,0.1282369941473007,Mohamed Salah,h,1250,OpenPlay,2019,LeftFoot,11683,Liverpool,Newcastle United,3,1,2019-09-14 11:30:00,Roberto Firmino,Pass
+15,317048,71,Goal,0.9290000152587892,0.615,0.3955729901790619,Mohamed Salah,h,1250,OpenPlay,2019,LeftFoot,11683,Liverpool,Newcastle United,3,1,2019-09-14 11:30:00,Roberto Firmino,Pass
+16,321267,38,BlockedShot,0.8780000305175781,0.365,0.1024399995803833,Mohamed Salah,a,1250,OpenPlay,2019,LeftFoot,11701,Chelsea,Liverpool,1,2,2019-09-22 15:30:00,Trent Alexander-Arnold,Chipped
+17,322358,25,MissedShots,0.8640000152587891,0.31,0.0433585010468959,Mohamed Salah,a,1250,OpenPlay,2019,LeftFoot,11703,Sheffield United,Liverpool,0,1,2019-09-28 11:30:00,,None
+18,322373,71,SavedShot,0.85,0.415,0.1178750023245811,Mohamed Salah,a,1250,OpenPlay,2019,LeftFoot,11703,Sheffield United,Liverpool,0,1,2019-09-28 11:30:00,,TakeOn
+19,322374,77,SavedShot,0.889000015258789,0.5629999923706055,0.4135200083255768,Mohamed Salah,a,1250,OpenPlay,2019,LeftFoot,11703,Sheffield United,Liverpool,0,1,2019-09-28 11:30:00,,None
+20,322379,89,BlockedShot,0.865999984741211,0.404000015258789,0.162102997303009,Mohamed Salah,a,1250,OpenPlay,2019,LeftFoot,11703,Sheffield United,Liverpool,0,1,2019-09-28 11:30:00,Fabinho,TakeOn
+21,324090,3,SavedShot,0.909000015258789,0.2639999961853027,0.0378746017813682,Mohamed Salah,h,1250,OpenPlay,2019,LeftFoot,11715,Liverpool,Leicester,2,1,2019-10-05 15:00:00,,None
+22,324098,45,BlockedShot,0.938000030517578,0.4609999847412109,0.1326960027217865,Mohamed Salah,h,1250,OpenPlay,2019,LeftFoot,11715,Liverpool,Leicester,2,1,2019-10-05 15:00:00,Trent Alexander-Arnold,Foul
+23,324097,45,SavedShot,0.9569999694824218,0.4659999847412109,0.6358140110969543,Mohamed Salah,h,1250,OpenPlay,2019,LeftFoot,11715,Liverpool,Leicester,2,1,2019-10-05 15:00:00,,None
+24,324099,53,BlockedShot,0.8080000305175781,0.2610000038146973,0.059094201773405,Mohamed Salah,h,1250,DirectFreekick,2019,LeftFoot,11715,Liverpool,Leicester,2,1,2019-10-05 15:00:00,,Standard
+25,324100,56,BlockedShot,0.825,0.509000015258789,0.0857236012816429,Mohamed Salah,h,1250,OpenPlay,2019,LeftFoot,11715,Liverpool,Leicester,2,1,2019-10-05 15:00:00,Sadio Mané,Pass
+26,328005,20,SavedShot,0.7909999847412109,0.4059999847412109,0.0306927002966403,Mohamed Salah,h,1250,OpenPlay,2019,LeftFoot,11736,Liverpool,Tottenham,2,1,2019-10-27 16:30:00,Sadio Mané,HeadPass
+27,328008,26,SavedShot,0.8230000305175781,0.484000015258789,0.0479919016361236,Mohamed Salah,h,1250,OpenPlay,2019,LeftFoot,11736,Liverpool,Tottenham,2,1,2019-10-27 16:30:00,Roberto Firmino,Pass
+28,328012,29,BlockedShot,0.8830000305175781,0.3970000076293945,0.0634706020355224,Mohamed Salah,h,1250,OpenPlay,2019,LeftFoot,11736,Liverpool,Tottenham,2,1,2019-10-27 16:30:00,Jordan Henderson,HeadPass
+29,328020,53,SavedShot,0.8680000305175781,0.5840000152587891,0.0759703963994979,Mohamed Salah,h,1250,OpenPlay,2019,LeftFoot,11736,Liverpool,Tottenham,2,1,2019-10-27 16:30:00,Fabinho,Chipped
+30,328023,65,SavedShot,0.8909999847412109,0.3,0.0517297014594078,Mohamed Salah,h,1250,OpenPlay,2019,LeftFoot,11736,Liverpool,Tottenham,2,1,2019-10-27 16:30:00,Trent Alexander-Arnold,Pass
+31,328024,69,MissedShots,0.8569999694824219,0.325,0.0326834991574287,Mohamed Salah,h,1250,FromCorner,2019,LeftFoot,11736,Liverpool,Tottenham,2,1,2019-10-27 16:30:00,Trent Alexander-Arnold,Cross
+32,328027,74,Goal,0.885,0.5,0.7611690163612366,Mohamed Salah,h,1250,Penalty,2019,LeftFoot,11736,Liverpool,Tottenham,2,1,2019-10-27 16:30:00,,Standard
+33,329245,17,SavedShot,0.953000030517578,0.3359999847412109,0.0620126016438007,Mohamed Salah,a,1250,OpenPlay,2019,RightFoot,11744,Aston Villa,Liverpool,1,2,2019-11-02 15:00:00,Virgil van Dijk,Chipped
+34,329250,42,MissedShots,0.8819999694824219,0.5279999923706055,0.1401360034942627,Mohamed Salah,a,1250,OpenPlay,2019,LeftFoot,11744,Aston Villa,Liverpool,1,2,2019-11-02 15:00:00,Sadio Mané,Pass
+35,329254,55,MissedShots,0.795,0.3060000038146973,0.0229544006288051,Mohamed Salah,a,1250,OpenPlay,2019,LeftFoot,11744,Aston Villa,Liverpool,1,2,2019-11-02 15:00:00,Adam Lallana,Pass
+36,329257,64,MissedShots,0.968000030517578,0.4370000076293945,0.0756411030888557,Mohamed Salah,a,1250,OpenPlay,2019,Head,11744,Aston Villa,Liverpool,1,2,2019-11-02 15:00:00,,Aerial
+37,331548,12,Goal,0.9130000305175782,0.3979999923706054,0.1846569925546646,Mohamed Salah,h,1250,OpenPlay,2019,Head,11755,Liverpool,Manchester City,3,1,2019-11-10 16:30:00,Andrew Robertson,Cross
+38,331558,44,SavedShot,0.7780000305175782,0.5359999847412109,0.0392162017524242,Mohamed Salah,h,1250,OpenPlay,2019,LeftFoot,11755,Liverpool,Manchester City,3,1,2019-11-10 16:30:00,Roberto Firmino,Pass
+39,331568,63,BlockedShot,0.921999969482422,0.3470000076293945,0.1072909981012344,Mohamed Salah,h,1250,OpenPlay,2019,RightFoot,11755,Liverpool,Manchester City,3,1,2019-11-10 16:30:00,Sadio Mané,Pass
+40,333656,57,MissedShots,0.840999984741211,0.575999984741211,0.0974086001515388,Mohamed Salah,h,1250,OpenPlay,2019,LeftFoot,11776,Liverpool,Brighton,2,1,2019-11-30 15:00:00,Sadio Mané,Pass
+41,333658,64,BlockedShot,0.906999969482422,0.5129999923706055,0.126007005572319,Mohamed Salah,h,1250,OpenPlay,2019,RightFoot,11776,Liverpool,Brighton,2,1,2019-11-30 15:00:00,,None
+42,335672,6,SavedShot,0.8969999694824219,0.3179999923706054,0.0673723965883255,Mohamed Salah,a,1250,OpenPlay,2019,LeftFoot,11794,Bournemouth,Liverpool,0,3,2019-12-07 15:00:00,Joseph Gomez,Pass
+43,335676,26,SavedShot,0.963000030517578,0.3220000076293945,0.0082574198022484,Mohamed Salah,a,1250,OpenPlay,2019,Head,11794,Bournemouth,Liverpool,0,3,2019-12-07 15:00:00,Joseph Gomez,Cross
+44,335684,47,MissedShots,0.9669999694824218,0.5540000152587891,0.5943099856376648,Mohamed Salah,a,1250,FromCorner,2019,LeftFoot,11794,Bournemouth,Liverpool,0,3,2019-12-07 15:00:00,Roberto Firmino,Rebound
+45,335687,53,Goal,0.9,0.5879999923706055,0.482134997844696,Mohamed Salah,a,1250,OpenPlay,2019,LeftFoot,11794,Bournemouth,Liverpool,0,3,2019-12-07 15:00:00,Naby Keita,Throughball
+46,335690,68,SavedShot,0.865,0.3479999923706054,0.0984048992395401,Mohamed Salah,a,1250,OpenPlay,2019,LeftFoot,11794,Bournemouth,Liverpool,0,3,2019-12-07 15:00:00,Jordan Henderson,Chipped
+47,336792,24,MissedShots,0.8859999847412109,0.3010000038146972,0.0499369017779827,Mohamed Salah,h,1250,OpenPlay,2019,LeftFoot,11808,Liverpool,Watford,2,0,2019-12-14 12:30:00,Roberto Firmino,TakeOn
+48,336794,37,Goal,0.8490000152587891,0.59,0.0991901978850364,Mohamed Salah,h,1250,OpenPlay,2019,RightFoot,11808,Liverpool,Watford,2,0,2019-12-14 12:30:00,Sadio Mané,Pass
+49,336798,48,BlockedShot,0.8469999694824218,0.4909999847412109,0.0870682001113891,Mohamed Salah,h,1250,OpenPlay,2019,LeftFoot,11808,Liverpool,Watford,2,0,2019-12-14 12:30:00,,None
+50,336801,63,MissedShots,0.8580000305175781,0.2679999923706054,0.0445754006505012,Mohamed Salah,h,1250,OpenPlay,2019,RightFoot,11808,Liverpool,Watford,2,0,2019-12-14 12:30:00,Jordan Henderson,Chipped
+51,336806,75,BlockedShot,0.8769999694824219,0.4270000076293945,0.1209509968757629,Mohamed Salah,h,1250,OpenPlay,2019,LeftFoot,11808,Liverpool,Watford,2,0,2019-12-14 12:30:00,James Milner,Pass
+52,336808,83,SavedShot,0.904000015258789,0.4909999847412109,0.1303029954433441,Mohamed Salah,h,1250,OpenPlay,2019,RightFoot,11808,Liverpool,Watford,2,0,2019-12-14 12:30:00,,None
+53,336811,89,Goal,0.963000030517578,0.5790000152587891,0.4562200009822845,Mohamed Salah,h,1250,OpenPlay,2019,RightFoot,11808,Liverpool,Watford,2,0,2019-12-14 12:30:00,Divock Origi,Rebound
+54,339675,4,MissedShots,0.8130000305175781,0.4779999923706055,0.0643220022320747,Mohamed Salah,a,1250,OpenPlay,2019,LeftFoot,11828,Leicester,Liverpool,0,4,2019-12-26 20:00:00,Roberto Firmino,Pass
+55,339676,10,MissedShots,0.963000030517578,0.754000015258789,0.1476590037345886,Mohamed Salah,a,1250,OpenPlay,2019,LeftFoot,11828,Leicester,Liverpool,0,4,2019-12-26 20:00:00,Naby Keita,TakeOn
+56,339682,52,MissedShots,0.8780000305175781,0.3179999923706054,0.0190731007605791,Mohamed Salah,a,1250,FromCorner,2019,LeftFoot,11828,Leicester,Liverpool,0,4,2019-12-26 20:00:00,Sadio Mané,HeadPass
+57,339685,68,BlockedShot,0.8159999847412109,0.434000015258789,0.0855337977409362,Mohamed Salah,a,1250,OpenPlay,2019,LeftFoot,11828,Leicester,Liverpool,0,4,2019-12-26 20:00:00,Sadio Mané,Pass
+58,339927,3,MissedShots,0.9159999847412108,0.424000015258789,0.4237020015716553,Mohamed Salah,h,1250,OpenPlay,2019,LeftFoot,11836,Liverpool,Wolverhampton Wanderers,1,0,2019-12-29 16:30:00,Trent Alexander-Arnold,Pass
+59,339930,20,SavedShot,0.8130000305175781,0.545,0.0430915988981723,Mohamed Salah,h,1250,OpenPlay,2019,LeftFoot,11836,Liverpool,Wolverhampton Wanderers,1,0,2019-12-29 16:30:00,Sadio Mané,HeadPass
+60,351611,3,Goal,0.9209999847412108,0.555,0.4668189883232116,Mohamed Salah,h,1250,OpenPlay,2019,LeftFoot,11847,Liverpool,Sheffield United,2,0,2020-01-02 20:00:00,Andrew Robertson,Pass
+61,351614,10,SavedShot,0.879000015258789,0.4820000076293945,0.1143520027399063,Mohamed Salah,h,1250,OpenPlay,2019,RightFoot,11847,Liverpool,Sheffield United,2,0,2020-01-02 20:00:00,Jordan Henderson,Chipped
+62,351616,29,SavedShot,0.865,0.5879999923706055,0.0843217000365257,Mohamed Salah,h,1250,OpenPlay,2019,LeftFoot,11847,Liverpool,Sheffield United,2,0,2020-01-02 20:00:00,Trent Alexander-Arnold,Chipped
+63,351618,32,BlockedShot,0.855,0.4720000076293945,0.1108120009303093,Mohamed Salah,h,1250,OpenPlay,2019,RightFoot,11847,Liverpool,Sheffield United,2,0,2020-01-02 20:00:00,Jordan Henderson,Pass
+64,351629,68,SavedShot,0.8519999694824218,0.31,0.0263918004930019,Mohamed Salah,h,1250,OpenPlay,2019,LeftFoot,11847,Liverpool,Sheffield United,2,0,2020-01-02 20:00:00,,Rebound
+65,351780,42,MissedShots,0.875,0.4059999847412109,0.0968948975205421,Mohamed Salah,a,1250,OpenPlay,2019,LeftFoot,11854,Tottenham,Liverpool,0,1,2020-01-11 17:30:00,,BallRecovery
+66,352076,23,MissedShots,0.840999984741211,0.4629999923706054,0.0242723003029823,Mohamed Salah,h,1250,FromCorner,2019,LeftFoot,11865,Liverpool,Manchester United,2,0,2020-01-19 16:30:00,,Aerial
+67,352083,46,MissedShots,0.925,0.5270000076293946,0.4023280143737793,Mohamed Salah,h,1250,OpenPlay,2019,LeftFoot,11865,Liverpool,Manchester United,2,0,2020-01-19 16:30:00,Andrew Robertson,Cross
+68,352086,48,BlockedShot,0.8909999847412109,0.6020000076293945,0.1124949976801872,Mohamed Salah,h,1250,OpenPlay,2019,LeftFoot,11865,Liverpool,Manchester United,2,0,2020-01-19 16:30:00,Sadio Mané,Pass
+69,352097,92,Goal,0.8930000305175781,0.649000015258789,0.2629149854183197,Mohamed Salah,h,1250,OpenPlay,2019,LeftFoot,11865,Liverpool,Manchester United,2,0,2020-01-19 16:30:00,Alisson,Pass
+70,352329,17,BlockedShot,0.8969999694824219,0.495,0.1096519976854324,Mohamed Salah,a,1250,OpenPlay,2019,LeftFoot,11874,Wolverhampton Wanderers,Liverpool,1,2,2020-01-23 20:00:00,Sadio Mané,Cross
+71,352330,18,BlockedShot,0.7809999847412109,0.3359999847412109,0.03592099994421,Mohamed Salah,a,1250,OpenPlay,2019,LeftFoot,11874,Wolverhampton Wanderers,Liverpool,1,2,2020-01-23 20:00:00,Roberto Firmino,BallRecovery
+72,352334,46,SavedShot,0.899000015258789,0.674000015258789,0.0763967037200927,Mohamed Salah,a,1250,OpenPlay,2019,LeftFoot,11874,Wolverhampton Wanderers,Liverpool,1,2,2020-01-23 20:00:00,,BallRecovery
+73,352333,46,BlockedShot,0.865,0.5529999923706055,0.1472740024328231,Mohamed Salah,a,1250,OpenPlay,2019,LeftFoot,11874,Wolverhampton Wanderers,Liverpool,1,2,2020-01-23 20:00:00,Roberto Firmino,TakeOn
+74,352336,50,SavedShot,0.8819999694824219,0.67,0.0683951005339622,Mohamed Salah,a,1250,OpenPlay,2019,RightFoot,11874,Wolverhampton Wanderers,Liverpool,1,2,2020-01-23 20:00:00,,None
+75,352342,69,MissedShots,0.8780000305175781,0.5729999923706055,0.105504997074604,Mohamed Salah,a,1250,OpenPlay,2019,LeftFoot,11874,Wolverhampton Wanderers,Liverpool,1,2,2020-01-23 20:00:00,Jordan Henderson,Pass
+76,352351,34,Goal,0.885,0.5,0.7611690163612366,Mohamed Salah,a,1250,Penalty,2019,LeftFoot,11822,West Ham,Liverpool,0,2,2020-01-29 19:45:00,,Standard
+77,352355,43,BlockedShot,0.750999984741211,0.364000015258789,0.0134453000500798,Mohamed Salah,a,1250,SetPiece,2019,RightFoot,11822,West Ham,Liverpool,0,2,2020-01-29 19:45:00,,Rebound
+78,352354,43,BlockedShot,0.7430000305175781,0.3570000076293945,0.0484296008944511,Mohamed Salah,a,1250,DirectFreekick,2019,LeftFoot,11822,West Ham,Liverpool,0,2,2020-01-29 19:45:00,,Standard
+79,352364,72,MissedShots,0.9080000305175782,0.4959999847412109,0.114546999335289,Mohamed Salah,a,1250,OpenPlay,2019,Head,11822,West Ham,Liverpool,0,2,2020-01-29 19:45:00,Trent Alexander-Arnold,Cross
+80,352365,77,ShotOnPost,0.8159999847412109,0.5179999923706055,0.0872559994459152,Mohamed Salah,a,1250,OpenPlay,2019,LeftFoot,11822,West Ham,Liverpool,0,2,2020-01-29 19:45:00,Georginio Wijnaldum,Pass
+81,352537,19,BlockedShot,0.860999984741211,0.5929999923706055,0.0307346992194652,Mohamed Salah,h,1250,OpenPlay,2019,LeftFoot,11887,Liverpool,Southampton,4,0,2020-02-01 15:00:00,Alex Oxlade-Chamberlain,Aerial
+82,352544,30,BlockedShot,0.875999984741211,0.39,0.0672501996159553,Mohamed Salah,h,1250,FromCorner,2019,LeftFoot,11887,Liverpool,Southampton,4,0,2020-02-01 15:00:00,,TakeOn
+83,352561,71,Goal,0.94,0.385,0.3839550018310547,Mohamed Salah,h,1250,OpenPlay,2019,LeftFoot,11887,Liverpool,Southampton,4,0,2020-02-01 15:00:00,Jordan Henderson,Pass
+84,352567,89,Goal,0.9619999694824218,0.499000015258789,0.9348369836807252,Mohamed Salah,h,1250,OpenPlay,2019,LeftFoot,11887,Liverpool,Southampton,4,0,2020-02-01 15:00:00,Roberto Firmino,Pass
+85,352764,37,BlockedShot,0.875999984741211,0.3859999847412109,0.0930916965007782,Mohamed Salah,a,1250,OpenPlay,2019,LeftFoot,11899,Norwich,Liverpool,0,1,2020-02-15 17:30:00,Naby Keita,Pass
+86,352771,58,SavedShot,0.8769999694824219,0.3859999847412109,0.0693458020687103,Mohamed Salah,a,1250,OpenPlay,2019,RightFoot,11899,Norwich,Liverpool,0,1,2020-02-15 17:30:00,,None
+87,352773,64,BlockedShot,0.906999969482422,0.55,0.1091490015387535,Mohamed Salah,a,1250,OpenPlay,2019,RightFoot,11899,Norwich,Liverpool,0,1,2020-02-15 17:30:00,Andrew Robertson,Cross
+88,352774,64,MissedShots,0.925,0.5690000152587891,0.1336809992790222,Mohamed Salah,a,1250,OpenPlay,2019,RightFoot,11899,Norwich,Liverpool,0,1,2020-02-15 17:30:00,,Rebound
+89,353141,15,SavedShot,0.8580000305175781,0.2889999961853027,0.0326149016618728,Mohamed Salah,h,1250,OpenPlay,2019,LeftFoot,11911,Liverpool,West Ham,3,2,2020-02-24 20:00:00,Andrew Robertson,Pass
+90,353146,34,MissedShots,0.973000030517578,0.629000015258789,0.0222874991595745,Mohamed Salah,h,1250,SetPiece,2019,Head,11911,Liverpool,West Ham,3,2,2020-02-24 20:00:00,Trent Alexander-Arnold,Cross
+91,353150,48,BlockedShot,0.855999984741211,0.3120000076293945,0.0438456982374191,Mohamed Salah,h,1250,OpenPlay,2019,LeftFoot,11911,Liverpool,West Ham,3,2,2020-02-24 20:00:00,Fabinho,TakeOn
+92,353157,67,Goal,0.8680000305175781,0.539000015258789,0.0936966985464096,Mohamed Salah,h,1250,OpenPlay,2019,LeftFoot,11911,Liverpool,West Ham,3,2,2020-02-24 20:00:00,Andrew Robertson,Pass
+93,353159,73,SavedShot,0.958000030517578,0.3940000152587891,0.0577001981437206,Mohamed Salah,h,1250,FromCorner,2019,RightFoot,11911,Liverpool,West Ham,3,2,2020-02-24 20:00:00,Andrew Robertson,Cross
+94,353319,19,MissedShots,0.95,0.31,0.0318970009684562,Mohamed Salah,a,1250,FromCorner,2019,RightFoot,11921,Watford,Liverpool,3,0,2020-02-29 17:30:00,Alex Oxlade-Chamberlain,Chipped
+95,353325,48,BlockedShot,0.7909999847412109,0.4079999923706054,0.0270095001906156,Mohamed Salah,a,1250,OpenPlay,2019,LeftFoot,11921,Watford,Liverpool,3,0,2020-02-29 17:30:00,Alex Oxlade-Chamberlain,Pass
+96,353397,24,Goal,0.8590000152587891,0.419000015258789,0.0814893022179603,Mohamed Salah,h,1250,OpenPlay,2019,LeftFoot,11928,Liverpool,Bournemouth,2,1,2020-03-07 12:30:00,Sadio Mané,Pass
+97,353411,76,SavedShot,0.8669999694824219,0.2979999923706055,0.0569112002849578,Mohamed Salah,h,1250,OpenPlay,2019,LeftFoot,11928,Liverpool,Bournemouth,2,1,2020-03-07 12:30:00,Alex Oxlade-Chamberlain,Pass
+98,366426,7,BlockedShot,0.9180000305175782,0.49,0.0594215989112854,Mohamed Salah,h,1250,OpenPlay,2019,Head,11951,Liverpool,Crystal Palace,4,0,2020-06-24 19:15:00,,None
+99,366437,39,MissedShots,0.63,0.3379999923706054,0.0084598800167441,Mohamed Salah,h,1250,OpenPlay,2019,LeftFoot,11951,Liverpool,Crystal Palace,4,0,2020-06-24 19:15:00,,None
+100,366439,43,Goal,0.9080000305175782,0.4609999847412109,0.3309729993343353,Mohamed Salah,h,1250,OpenPlay,2019,LeftFoot,11951,Liverpool,Crystal Palace,4,0,2020-06-24 19:15:00,Fabinho,Chipped
+101,366444,62,MissedShots,0.8080000305175781,0.3309999847412109,0.0446049012243747,Mohamed Salah,h,1250,OpenPlay,2019,LeftFoot,11951,Liverpool,Crystal Palace,4,0,2020-06-24 19:15:00,Sadio Mané,Pass
+102,366447,91,BlockedShot,0.943000030517578,0.3370000076293945,0.0761374980211258,Mohamed Salah,h,1250,OpenPlay,2019,RightFoot,11951,Liverpool,Crystal Palace,4,0,2020-06-24 19:15:00,,None
+103,368400,3,SavedShot,0.7809999847412109,0.5670000076293945,0.0386998988687992,Mohamed Salah,a,1250,OpenPlay,2019,LeftFoot,11959,Manchester City,Liverpool,4,0,2020-07-02 19:15:00,Virgil van Dijk,Chipped
+104,368404,18,ShotOnPost,0.8380000305175781,0.4729999923706054,0.084806703031063,Mohamed Salah,a,1250,OpenPlay,2019,LeftFoot,11959,Manchester City,Liverpool,4,0,2020-07-02 19:15:00,Roberto Firmino,Pass
+105,368422,75,SavedShot,0.895,0.3020000076293945,0.0206205993890762,Mohamed Salah,a,1250,OpenPlay,2019,LeftFoot,11959,Manchester City,Liverpool,4,0,2020-07-02 19:15:00,Neco Williams,Cross
+106,368425,89,BlockedShot,0.8480000305175781,0.529000015258789,0.069200299680233,Mohamed Salah,a,1250,OpenPlay,2019,LeftFoot,11959,Manchester City,Liverpool,4,0,2020-07-02 19:15:00,Divock Origi,BallTouch
+107,369030,36,SavedShot,0.9230000305175782,0.345,0.0675650015473365,Mohamed Salah,h,1250,OpenPlay,2019,LeftFoot,11966,Liverpool,Aston Villa,2,0,2020-07-05 15:30:00,Naby Keita,Chipped
+108,369870,5,Goal,0.9059999847412108,0.4220000076293945,0.4088110029697418,Mohamed Salah,a,1250,OpenPlay,2019,LeftFoot,11976,Brighton,Liverpool,1,3,2020-07-08 19:15:00,Naby Keita,Pass
+109,369873,13,SavedShot,0.941999969482422,0.3279999923706054,0.1358689963817596,Mohamed Salah,a,1250,OpenPlay,2019,RightFoot,11976,Brighton,Liverpool,1,3,2020-07-08 19:15:00,Naby Keita,Throughball
+110,369881,38,MissedShots,0.8690000152587891,0.325,0.0704372003674507,Mohamed Salah,a,1250,OpenPlay,2019,LeftFoot,11976,Brighton,Liverpool,1,3,2020-07-08 19:15:00,Naby Keita,Pass
+111,369885,53,SavedShot,0.926999969482422,0.3840000152587891,0.4285260140895843,Mohamed Salah,a,1250,OpenPlay,2019,LeftFoot,11976,Brighton,Liverpool,1,3,2020-07-08 19:15:00,Naby Keita,Pass
+112,369890,62,BlockedShot,0.950999984741211,0.6409999847412109,0.1892820000648498,Mohamed Salah,a,1250,OpenPlay,2019,LeftFoot,11976,Brighton,Liverpool,1,3,2020-07-08 19:15:00,Fabinho,TakeOn
+113,369893,75,Goal,0.933000030517578,0.375,0.0237617995589971,Mohamed Salah,a,1250,FromCorner,2019,Head,11976,Brighton,Liverpool,1,3,2020-07-08 19:15:00,Andrew Robertson,Cross
+114,369898,93,SavedShot,0.9619999694824218,0.6220000076293946,0.4378460049629211,Mohamed Salah,a,1250,OpenPlay,2019,RightFoot,11976,Brighton,Liverpool,1,3,2020-07-08 19:15:00,,None
+115,369899,95,MissedShots,0.93,0.4109999847412109,0.1789460033178329,Mohamed Salah,a,1250,OpenPlay,2019,Head,11976,Brighton,Liverpool,1,3,2020-07-08 19:15:00,Andrew Robertson,Cross
+116,370417,13,MissedShots,0.78,0.4029999923706054,0.0823957994580268,Mohamed Salah,h,1250,DirectFreekick,2019,LeftFoot,11986,Liverpool,Burnley,1,1,2020-07-11 14:00:00,,Standard
+117,370419,17,SavedShot,0.905,0.445,0.1322419941425323,Mohamed Salah,h,1250,OpenPlay,2019,RightFoot,11986,Liverpool,Burnley,1,1,2020-07-11 14:00:00,Roberto Firmino,Pass
+118,370421,32,SavedShot,0.9230000305175782,0.4270000076293945,0.4595839977264404,Mohamed Salah,h,1250,OpenPlay,2019,LeftFoot,11986,Liverpool,Burnley,1,1,2020-07-11 14:00:00,Sadio Mané,None
+119,370435,61,MissedShots,0.901999969482422,0.4209999847412109,0.3604989945888519,Mohamed Salah,h,1250,FromCorner,2019,LeftFoot,11986,Liverpool,Burnley,1,1,2020-07-11 14:00:00,,Rebound
+120,370441,84,SavedShot,0.8019999694824219,0.3340000152587891,0.0232724007219076,Mohamed Salah,h,1250,OpenPlay,2019,LeftFoot,11986,Liverpool,Burnley,1,1,2020-07-11 14:00:00,Alex Oxlade-Chamberlain,Pass
+121,370444,92,SavedShot,0.8880000305175781,0.4509999847412109,0.0909394994378089,Mohamed Salah,h,1250,OpenPlay,2019,RightFoot,11986,Liverpool,Burnley,1,1,2020-07-11 14:00:00,Trent Alexander-Arnold,Cross
+122,371634,41,BlockedShot,0.8880000305175781,0.3979999923706054,0.1039400026202201,Mohamed Salah,a,1250,OpenPlay,2019,LeftFoot,11993,Arsenal,Liverpool,2,1,2020-07-15 19:15:00,Roberto Firmino,Pass
+123,371640,48,BlockedShot,0.9130000305175782,0.4540000152587891,0.1155600026249885,Mohamed Salah,a,1250,OpenPlay,2019,LeftFoot,11993,Arsenal,Liverpool,2,1,2020-07-15 19:15:00,,Rebound
+124,371642,53,SavedShot,0.905,0.4759999847412109,0.3948830068111419,Mohamed Salah,a,1250,OpenPlay,2019,LeftFoot,11993,Arsenal,Liverpool,2,1,2020-07-15 19:15:00,Trent Alexander-Arnold,TakeOn
+125,371646,69,SavedShot,0.931999969482422,0.4359999847412109,0.2380400002002716,Mohamed Salah,a,1250,OpenPlay,2019,Head,11993,Arsenal,Liverpool,2,1,2020-07-15 19:15:00,Sadio Mané,Cross
+126,373312,49,MissedShots,0.86,0.4490000152587891,0.0986934974789619,Mohamed Salah,h,1250,OpenPlay,2019,LeftFoot,12006,Liverpool,Chelsea,5,3,2020-07-22 19:15:00,Roberto Firmino,TakeOn
+127,373313,52,SavedShot,0.8980000305175782,0.5609999847412109,0.0749936029314994,Mohamed Salah,h,1250,FromCorner,2019,LeftFoot,12006,Liverpool,Chelsea,5,3,2020-07-22 19:15:00,Andrew Robertson,Pass
+128,373315,56,BlockedShot,0.904000015258789,0.3470000076293945,0.0814495980739593,Mohamed Salah,h,1250,OpenPlay,2019,LeftFoot,12006,Liverpool,Chelsea,5,3,2020-07-22 19:15:00,,BallRecovery
+129,373785,65,ShotOnPost,0.8819999694824219,0.3390000152587891,0.051596499979496,Mohamed Salah,a,1250,SetPiece,2019,LeftFoot,12016,Newcastle United,Liverpool,1,3,2020-07-26 15:00:00,,None
+130,373787,71,BlockedShot,0.8780000305175781,0.3629999923706055,0.076767697930336,Mohamed Salah,a,1250,OpenPlay,2019,LeftFoot,12016,Newcastle United,Liverpool,1,3,2020-07-26 15:00:00,Roberto Firmino,Chipped
+131,373788,77,MissedShots,0.8390000152587891,0.3120000076293945,0.0685952976346015,Mohamed Salah,a,1250,OpenPlay,2019,LeftFoot,12016,Newcastle United,Liverpool,1,3,2020-07-26 15:00:00,,TakeOn
+0,310231,46,SavedShot,0.8830000305175781,0.3840000152587891,0.1711789965629577,Raúl Jiménez,a,4105,OpenPlay,2019,RightFoot,11651,Leicester,Wolverhampton Wanderers,0,0,2019-08-11 14:00:00,Rúben Neves,TakeOn
+1,310241,82,SavedShot,0.8030000305175782,0.565,0.0442367009818553,Raúl Jiménez,a,4105,OpenPlay,2019,RightFoot,11651,Leicester,Wolverhampton Wanderers,0,0,2019-08-11 14:00:00,Jonny,Pass
+2,311296,31,BlockedShot,0.8690000152587891,0.59,0.0620054006576538,Raúl Jiménez,h,4105,FromCorner,2019,RightFoot,11662,Wolverhampton Wanderers,Manchester United,1,1,2019-08-19 20:00:00,,None
+3,311298,53,ShotOnPost,0.8830000305175781,0.44,0.0450652986764907,Raúl Jiménez,h,4105,SetPiece,2019,Head,11662,Wolverhampton Wanderers,Manchester United,1,1,2019-08-19 20:00:00,João Moutinho,Cross
+4,313096,46,BlockedShot,0.805,0.5170000076293946,0.051383301615715,Raúl Jiménez,h,4105,OpenPlay,2019,LeftFoot,11668,Wolverhampton Wanderers,Burnley,1,1,2019-08-25 16:30:00,Willy Boly,Pass
+5,313097,47,MissedShots,0.8519999694824218,0.5120000076293946,0.0653909966349601,Raúl Jiménez,h,4105,OpenPlay,2019,RightFoot,11668,Wolverhampton Wanderers,Burnley,1,1,2019-08-25 16:30:00,Ryan Bennett,Cross
+6,313109,92,ShotOnPost,0.870999984741211,0.509000015258789,0.0413227006793022,Raúl Jiménez,h,4105,OpenPlay,2019,RightFoot,11668,Wolverhampton Wanderers,Burnley,1,1,2019-08-25 16:30:00,,Aerial
+7,313112,96,Goal,0.885,0.5,0.7611690163612366,Raúl Jiménez,h,4105,Penalty,2019,RightFoot,11668,Wolverhampton Wanderers,Burnley,1,1,2019-08-25 16:30:00,,Standard
+8,316299,23,SavedShot,0.86,0.7330000305175781,0.0251515004783868,Raúl Jiménez,a,4105,OpenPlay,2019,RightFoot,11681,Everton,Wolverhampton Wanderers,3,2,2019-09-01 14:00:00,Ryan Bennett,Chipped
+9,316306,74,Goal,0.9569999694824218,0.499000015258789,0.4760420024394989,Raúl Jiménez,a,4105,OpenPlay,2019,Head,11681,Everton,Wolverhampton Wanderers,3,2,2019-09-01 14:00:00,Willy Boly,HeadPass
+10,317304,46,MissedShots,0.895,0.4429999923706054,0.049967598170042,Raúl Jiménez,h,4105,OpenPlay,2019,Head,11688,Wolverhampton Wanderers,Chelsea,2,5,2019-09-14 14:00:00,Adama Traoré,Cross
+11,317308,57,MissedShots,0.9690000152587892,0.3820000076293945,0.0478498004376888,Raúl Jiménez,h,4105,FromCorner,2019,RightFoot,11688,Wolverhampton Wanderers,Chelsea,2,5,2019-09-14 14:00:00,João Moutinho,Cross
+12,321497,51,MissedShots,0.9030000305175782,0.4470000076293945,0.0330098010599613,Raúl Jiménez,a,4105,OpenPlay,2019,Head,11697,Crystal Palace,Wolverhampton Wanderers,1,1,2019-09-22 13:00:00,Adama Traoré,Aerial
+13,321502,62,SavedShot,0.879000015258789,0.549000015258789,0.0771178975701332,Raúl Jiménez,a,4105,OpenPlay,2019,RightFoot,11697,Crystal Palace,Wolverhampton Wanderers,1,1,2019-09-22 13:00:00,Jonny,Cross
+14,322699,1,MissedShots,0.8830000305175781,0.285,0.044022798538208,Raúl Jiménez,h,4105,OpenPlay,2019,RightFoot,11705,Wolverhampton Wanderers,Watford,2,0,2019-09-28 14:00:00,Willy Boly,Chipped
+15,322700,8,MissedShots,0.97,0.6029999923706054,0.1438249945640564,Raúl Jiménez,h,4105,OpenPlay,2019,RightFoot,11705,Wolverhampton Wanderers,Watford,2,0,2019-09-28 14:00:00,Pedro Neto,Pass
+16,324655,18,BlockedShot,0.8690000152587891,0.4409999847412109,0.1133280023932457,Raúl Jiménez,a,4105,OpenPlay,2019,RightFoot,11716,Manchester City,Wolverhampton Wanderers,0,2,2019-10-06 14:00:00,,TakeOn
+17,324662,62,MissedShots,0.931999969482422,0.6090000152587891,0.0148571003228425,Raúl Jiménez,a,4105,FromCorner,2019,Head,11716,Manchester City,Wolverhampton Wanderers,0,2,2019-10-06 14:00:00,João Moutinho,Aerial
+18,325678,60,Goal,0.885,0.5,0.7611690163612366,Raúl Jiménez,h,4105,Penalty,2019,RightFoot,11732,Wolverhampton Wanderers,Southampton,1,1,2019-10-19 15:00:00,,Standard
+19,327871,85,MissedShots,0.8830000305175781,0.7190000152587891,0.0268564000725746,Raúl Jiménez,a,4105,FromCorner,2019,RightFoot,11738,Newcastle United,Wolverhampton Wanderers,1,1,2019-10-27 14:00:00,Romain Saiss,BallTouch
+20,327875,95,SavedShot,0.7659999847412109,0.3509999847412109,0.0208962000906467,Raúl Jiménez,a,4105,OpenPlay,2019,RightFoot,11738,Newcastle United,Wolverhampton Wanderers,1,1,2019-10-27 14:00:00,Matt Doherty,Pass
+21,329134,3,BlockedShot,0.759000015258789,0.4759999847412109,0.0271611995995044,Raúl Jiménez,a,4105,OpenPlay,2019,RightFoot,11743,Arsenal,Wolverhampton Wanderers,1,1,2019-11-02 15:00:00,Rúben Neves,Pass
+22,329136,8,BlockedShot,0.87,0.2760000038146972,0.0382715016603469,Raúl Jiménez,a,4105,OpenPlay,2019,RightFoot,11743,Arsenal,Wolverhampton Wanderers,1,1,2019-11-02 15:00:00,,BallRecovery
+23,329149,43,SavedShot,0.9080000305175782,0.44,0.03349170088768,Raúl Jiménez,a,4105,OpenPlay,2019,Head,11743,Arsenal,Wolverhampton Wanderers,1,1,2019-11-02 15:00:00,,Aerial
+24,329150,46,BlockedShot,0.7480000305175781,0.4609999847412109,0.0227787997573614,Raúl Jiménez,a,4105,OpenPlay,2019,RightFoot,11743,Arsenal,Wolverhampton Wanderers,1,1,2019-11-02 15:00:00,Jonny,Pass
+25,329153,49,SavedShot,0.899000015258789,0.580999984741211,0.0137986000627279,Raúl Jiménez,a,4105,FromCorner,2019,Head,11743,Arsenal,Wolverhampton Wanderers,1,1,2019-11-02 15:00:00,João Moutinho,Aerial
+26,329157,57,BlockedShot,0.799000015258789,0.580999984741211,0.0407845005393028,Raúl Jiménez,a,4105,OpenPlay,2019,RightFoot,11743,Arsenal,Wolverhampton Wanderers,1,1,2019-11-02 15:00:00,Jonny,Pass
+27,329160,70,SavedShot,0.865,0.7630000305175781,0.0785807967185974,Raúl Jiménez,a,4105,OpenPlay,2019,LeftFoot,11743,Arsenal,Wolverhampton Wanderers,1,1,2019-11-02 15:00:00,Diogo Jota,Chipped
+28,329161,75,Goal,0.914000015258789,0.5220000076293946,0.0390883982181549,Raúl Jiménez,a,4105,OpenPlay,2019,Head,11743,Arsenal,Wolverhampton Wanderers,1,1,2019-11-02 15:00:00,João Moutinho,Aerial
+29,331416,18,MissedShots,0.8969999694824219,0.5279999923706055,0.1008360013365745,Raúl Jiménez,h,4105,OpenPlay,2019,LeftFoot,11760,Wolverhampton Wanderers,Aston Villa,2,1,2019-11-10 14:00:00,,None
+30,331419,27,MissedShots,0.865999984741211,0.6029999923706054,0.0736458972096443,Raúl Jiménez,h,4105,OpenPlay,2019,LeftFoot,11760,Wolverhampton Wanderers,Aston Villa,2,1,2019-11-10 14:00:00,Rúben Neves,BallRecovery
+31,331428,50,MissedShots,0.8540000152587891,0.3940000152587891,0.1268250048160553,Raúl Jiménez,h,4105,OpenPlay,2019,LeftFoot,11760,Wolverhampton Wanderers,Aston Villa,2,1,2019-11-10 14:00:00,Rúben Neves,Chipped
+32,331435,67,MissedShots,0.9030000305175782,0.419000015258789,0.1234470009803772,Raúl Jiménez,h,4105,OpenPlay,2019,RightFoot,11760,Wolverhampton Wanderers,Aston Villa,2,1,2019-11-10 14:00:00,,Rebound
+33,331441,83,Goal,0.85,0.504000015258789,0.1323529928922653,Raúl Jiménez,h,4105,OpenPlay,2019,RightFoot,11760,Wolverhampton Wanderers,Aston Villa,2,1,2019-11-10 14:00:00,Adama Traoré,Pass
+34,332146,11,BlockedShot,0.8469999694824218,0.575999984741211,0.0471524000167846,Raúl Jiménez,a,4105,OpenPlay,2019,LeftFoot,11765,Bournemouth,Wolverhampton Wanderers,1,2,2019-11-23 15:00:00,Diogo Jota,Cross
+35,332149,30,Goal,0.9259999847412108,0.4520000076293945,0.5425599813461304,Raúl Jiménez,a,4105,SetPiece,2019,LeftFoot,11765,Bournemouth,Wolverhampton Wanderers,1,2,2019-11-23 15:00:00,Adama Traoré,Pass
+36,332159,61,MissedShots,0.919000015258789,0.4509999847412109,0.0321430005133152,Raúl Jiménez,a,4105,FromCorner,2019,Head,11765,Bournemouth,Wolverhampton Wanderers,1,2,2019-11-23 15:00:00,João Moutinho,Aerial
+37,332161,71,SavedShot,0.925,0.4820000076293945,0.0757644027471542,Raúl Jiménez,a,4105,OpenPlay,2019,Head,11765,Bournemouth,Wolverhampton Wanderers,1,2,2019-11-23 15:00:00,Diogo Jota,Aerial
+38,332167,85,SavedShot,0.8159999847412109,0.354000015258789,0.09947170317173,Raúl Jiménez,a,4105,OpenPlay,2019,RightFoot,11765,Bournemouth,Wolverhampton Wanderers,1,2,2019-11-23 15:00:00,Rúben Neves,BallRecovery
+39,332168,90,MissedShots,0.575999984741211,0.2310000038146972,0.0084104696288704,Raúl Jiménez,a,4105,OpenPlay,2019,RightFoot,11765,Bournemouth,Wolverhampton Wanderers,1,2,2019-11-23 15:00:00,,BallRecovery
+40,334176,12,SavedShot,0.914000015258789,0.475,0.3719559907913208,Raúl Jiménez,h,4105,OpenPlay,2019,Head,11780,Wolverhampton Wanderers,Sheffield United,1,1,2019-12-01 14:00:00,,Aerial
+41,334177,13,BlockedShot,0.9009999847412108,0.5170000076293946,0.0327376015484333,Raúl Jiménez,h,4105,FromCorner,2019,Head,11780,Wolverhampton Wanderers,Sheffield United,1,1,2019-12-01 14:00:00,João Moutinho,Rebound
+42,334180,33,BlockedShot,0.948000030517578,0.4759999847412109,0.0786608979105949,Raúl Jiménez,h,4105,FromCorner,2019,Head,11780,Wolverhampton Wanderers,Sheffield United,1,1,2019-12-01 14:00:00,João Moutinho,Aerial
+43,334194,90,BlockedShot,0.8530000305175781,0.66,0.0478619001805782,Raúl Jiménez,h,4105,SetPiece,2019,RightFoot,11780,Wolverhampton Wanderers,Sheffield United,1,1,2019-12-01 14:00:00,Jonny,BallTouch
+44,335031,11,MissedShots,0.9,0.265,0.0588660985231399,Raúl Jiménez,h,4105,OpenPlay,2019,RightFoot,11787,Wolverhampton Wanderers,West Ham,2,0,2019-12-04 19:30:00,Adama Traoré,Pass
+45,335032,21,SavedShot,0.9259999847412108,0.580999984741211,0.1352590024471283,Raúl Jiménez,h,4105,OpenPlay,2019,RightFoot,11787,Wolverhampton Wanderers,West Ham,2,0,2019-12-04 19:30:00,Diogo Jota,Pass
+46,335044,63,MissedShots,0.925,0.669000015258789,0.1315169930458068,Raúl Jiménez,h,4105,OpenPlay,2019,LeftFoot,11787,Wolverhampton Wanderers,West Ham,2,0,2019-12-04 19:30:00,João Moutinho,Throughball
+47,335045,72,SavedShot,0.874000015258789,0.645,0.1119029968976974,Raúl Jiménez,h,4105,OpenPlay,2019,RightFoot,11787,Wolverhampton Wanderers,West Ham,2,0,2019-12-04 19:30:00,Adama Traoré,Pass
+48,337489,20,MissedShots,0.885,0.3709999847412109,0.0160872004926204,Raúl Jiménez,h,4105,OpenPlay,2019,Head,11812,Wolverhampton Wanderers,Tottenham,1,2,2019-12-15 14:00:00,João Moutinho,Cross
+49,337491,25,MissedShots,0.88,0.6229999923706054,0.0770315006375312,Raúl Jiménez,h,4105,OpenPlay,2019,RightFoot,11812,Wolverhampton Wanderers,Tottenham,1,2,2019-12-15 14:00:00,Diogo Jota,Pass
+50,337495,33,BlockedShot,0.7930000305175782,0.5,0.0399051010608673,Raúl Jiménez,h,4105,OpenPlay,2019,LeftFoot,11812,Wolverhampton Wanderers,Tottenham,1,2,2019-12-15 14:00:00,João Moutinho,Pass
+51,337499,48,SavedShot,0.825,0.335,0.0332565009593963,Raúl Jiménez,h,4105,OpenPlay,2019,RightFoot,11812,Wolverhampton Wanderers,Tottenham,1,2,2019-12-15 14:00:00,,TakeOn
+52,337505,78,BlockedShot,0.7759999847412109,0.500999984741211,0.0319858007133007,Raúl Jiménez,h,4105,OpenPlay,2019,RightFoot,11812,Wolverhampton Wanderers,Tottenham,1,2,2019-12-15 14:00:00,Adama Traoré,TakeOn
+53,338646,25,SavedShot,0.84,0.3459999847412109,0.048208400607109,Raúl Jiménez,a,4105,OpenPlay,2019,LeftFoot,11819,Norwich,Wolverhampton Wanderers,1,2,2019-12-21 15:00:00,Adama Traoré,Pass
+54,338655,59,BlockedShot,0.8859999847412109,0.3160000038146973,0.050459299236536,Raúl Jiménez,a,4105,OpenPlay,2019,RightFoot,11819,Norwich,Wolverhampton Wanderers,1,2,2019-12-21 15:00:00,Adama Traoré,Pass
+55,338659,68,MissedShots,0.8519999694824218,0.3709999847412109,0.0614655017852783,Raúl Jiménez,a,4105,OpenPlay,2019,RightFoot,11819,Norwich,Wolverhampton Wanderers,1,2,2019-12-21 15:00:00,,BallRecovery
+56,338664,80,Goal,0.8880000305175781,0.534000015258789,0.3706870079040527,Raúl Jiménez,a,4105,OpenPlay,2019,RightFoot,11819,Norwich,Wolverhampton Wanderers,1,2,2019-12-21 15:00:00,,Rebound
+57,339692,19,BlockedShot,0.960999984741211,0.3970000076293945,0.0166223999112844,Raúl Jiménez,h,4105,FromCorner,2019,Head,11832,Wolverhampton Wanderers,Manchester City,3,2,2019-12-27 19:45:00,João Moutinho,Aerial
+58,339699,43,SavedShot,0.779000015258789,0.6819999694824219,0.0185129009187221,Raúl Jiménez,h,4105,OpenPlay,2019,RightFoot,11832,Wolverhampton Wanderers,Manchester City,3,2,2019-12-27 19:45:00,João Moutinho,Chipped
+59,339704,52,MissedShots,0.8230000305175781,0.499000015258789,0.0575738996267318,Raúl Jiménez,h,4105,OpenPlay,2019,RightFoot,11832,Wolverhampton Wanderers,Manchester City,3,2,2019-12-27 19:45:00,Jonny,BallRecovery
+60,339706,61,BlockedShot,0.8530000305175781,0.539000015258789,0.0584948994219303,Raúl Jiménez,h,4105,OpenPlay,2019,RightFoot,11832,Wolverhampton Wanderers,Manchester City,3,2,2019-12-27 19:45:00,Adama Traoré,Cross
+61,339713,81,Goal,0.9569999694824218,0.494000015258789,0.6489449739456177,Raúl Jiménez,h,4105,OpenPlay,2019,LeftFoot,11832,Wolverhampton Wanderers,Manchester City,3,2,2019-12-27 19:45:00,Adama Traoré,Pass
+62,339941,82,BlockedShot,0.8830000305175781,0.6140000152587891,0.0667349994182586,Raúl Jiménez,a,4105,OpenPlay,2019,RightFoot,11836,Liverpool,Wolverhampton Wanderers,1,0,2019-12-29 16:30:00,Romain Saiss,Chipped
+63,351456,15,MissedShots,0.855,0.500999984741211,0.0818649008870124,Raúl Jiménez,a,4105,OpenPlay,2019,RightFoot,11852,Watford,Wolverhampton Wanderers,2,1,2020-01-01 15:00:00,Leander Dendoncker,Chipped
+64,351459,27,MissedShots,0.6919999694824219,0.46,0.0123768001794815,Raúl Jiménez,a,4105,OpenPlay,2019,RightFoot,11852,Watford,Wolverhampton Wanderers,2,1,2020-01-01 15:00:00,Pedro Neto,GoodSkill
+65,351465,47,MissedShots,0.7390000152587891,0.4970000076293945,0.0106244999915361,Raúl Jiménez,a,4105,OpenPlay,2019,RightFoot,11852,Watford,Wolverhampton Wanderers,2,1,2020-01-01 15:00:00,,Aerial
+66,351471,62,BlockedShot,0.8859999847412109,0.374000015258789,0.0587114989757537,Raúl Jiménez,a,4105,FromCorner,2019,RightFoot,11852,Watford,Wolverhampton Wanderers,2,1,2020-01-01 15:00:00,Leander Dendoncker,None
+67,351669,16,BlockedShot,0.805,0.3220000076293945,0.0489577017724514,Raúl Jiménez,h,4105,OpenPlay,2019,RightFoot,11853,Wolverhampton Wanderers,Newcastle United,1,1,2020-01-11 15:00:00,Adama Traoré,Pass
+68,351671,33,SavedShot,0.965999984741211,0.539000015258789,0.5981379747390747,Raúl Jiménez,h,4105,OpenPlay,2019,Head,11853,Wolverhampton Wanderers,Newcastle United,1,1,2020-01-11 15:00:00,Adama Traoré,Cross
+69,351676,46,BlockedShot,0.85,0.4309999847412109,0.0615545995533466,Raúl Jiménez,h,4105,OpenPlay,2019,RightFoot,11853,Wolverhampton Wanderers,Newcastle United,1,1,2020-01-11 15:00:00,,Rebound
+70,351941,22,SavedShot,0.953000030517578,0.4579999923706054,0.1037359982728958,Raúl Jiménez,a,4105,OpenPlay,2019,RightFoot,11870,Southampton,Wolverhampton Wanderers,2,3,2020-01-18 15:00:00,,None
+71,351943,26,MissedShots,0.889000015258789,0.359000015258789,0.0285227000713348,Raúl Jiménez,a,4105,SetPiece,2019,RightFoot,11870,Southampton,Wolverhampton Wanderers,2,3,2020-01-18 15:00:00,João Moutinho,Cross
+72,351945,32,MissedShots,0.9469999694824218,0.4720000076293945,0.5550569891929626,Raúl Jiménez,a,4105,OpenPlay,2019,LeftFoot,11870,Southampton,Wolverhampton Wanderers,2,3,2020-01-18 15:00:00,Pedro Neto,Cross
+73,351951,64,Goal,0.885,0.5,0.7611690163612366,Raúl Jiménez,a,4105,Penalty,2019,RightFoot,11870,Southampton,Wolverhampton Wanderers,2,3,2020-01-18 15:00:00,,Standard
+74,351955,75,Goal,0.865999984741211,0.5259999847412109,0.3526209890842438,Raúl Jiménez,a,4105,OpenPlay,2019,RightFoot,11870,Southampton,Wolverhampton Wanderers,2,3,2020-01-18 15:00:00,Adama Traoré,Pass
+75,352331,37,MissedShots,0.86,0.6120000076293945,0.0545752011239528,Raúl Jiménez,h,4105,OpenPlay,2019,RightFoot,11874,Wolverhampton Wanderers,Liverpool,1,2,2020-01-23 20:00:00,,None
+76,352332,42,BlockedShot,0.8230000305175781,0.524000015258789,0.0515819005668163,Raúl Jiménez,h,4105,OpenPlay,2019,RightFoot,11874,Wolverhampton Wanderers,Liverpool,1,2,2020-01-23 20:00:00,Romain Saiss,BallTouch
+77,352337,50,Goal,0.9059999847412108,0.46,0.3125329911708832,Raúl Jiménez,h,4105,OpenPlay,2019,Head,11874,Wolverhampton Wanderers,Liverpool,1,2,2020-01-23 20:00:00,Adama Traoré,Cross
+78,352341,67,SavedShot,0.9640000152587892,0.355,0.3148800134658813,Raúl Jiménez,h,4105,OpenPlay,2019,RightFoot,11874,Wolverhampton Wanderers,Liverpool,1,2,2020-01-23 20:00:00,Adama Traoré,Throughball
+79,352587,68,SavedShot,0.9359999847412108,0.3220000076293945,0.0994838997721672,Raúl Jiménez,a,4105,OpenPlay,2019,RightFoot,11888,Manchester United,Wolverhampton Wanderers,0,0,2020-02-01 17:30:00,Adama Traoré,Pass
+80,352725,41,MissedShots,0.919000015258789,0.4570000076293945,0.2993240058422088,Raúl Jiménez,h,4105,OpenPlay,2019,Head,11902,Wolverhampton Wanderers,Leicester,0,0,2020-02-14 20:00:00,Jonny,Cross
+81,352732,80,MissedShots,0.870999984741211,0.53,0.0316581986844539,Raúl Jiménez,h,4105,OpenPlay,2019,Head,11902,Wolverhampton Wanderers,Leicester,0,0,2020-02-14 20:00:00,Adama Traoré,Cross
+82,352733,82,MissedShots,0.8719999694824219,0.469000015258789,0.0132510000839829,Raúl Jiménez,h,4105,SetPiece,2019,Head,11902,Wolverhampton Wanderers,Leicester,0,0,2020-02-14 20:00:00,João Moutinho,Aerial
+83,352735,89,MissedShots,0.9159999847412108,0.4640000152587891,0.2660819888114929,Raúl Jiménez,h,4105,FromCorner,2019,Head,11902,Wolverhampton Wanderers,Leicester,0,0,2020-02-14 20:00:00,João Moutinho,Cross
+84,352739,94,BlockedShot,0.8719999694824219,0.445,0.0997200980782508,Raúl Jiménez,h,4105,OpenPlay,2019,RightFoot,11902,Wolverhampton Wanderers,Leicester,0,0,2020-02-14 20:00:00,Adama Traoré,Pass
+85,353092,36,MissedShots,0.9519999694824218,0.44,0.1198690012097358,Raúl Jiménez,h,4105,FromCorner,2019,Head,11912,Wolverhampton Wanderers,Norwich,3,0,2020-02-23 14:00:00,João Moutinho,Cross
+86,353097,48,MissedShots,0.8130000305175781,0.2870000076293945,0.0377051010727882,Raúl Jiménez,h,4105,OpenPlay,2019,LeftFoot,11912,Wolverhampton Wanderers,Norwich,3,0,2020-02-23 14:00:00,Diogo Jota,Pass
+87,353099,49,Goal,0.9769999694824218,0.51,0.975928008556366,Raúl Jiménez,h,4105,OpenPlay,2019,RightFoot,11912,Wolverhampton Wanderers,Norwich,3,0,2020-02-23 14:00:00,,Rebound
+88,353102,57,MissedShots,0.8930000305175781,0.4779999923706055,0.1265079975128173,Raúl Jiménez,h,4105,OpenPlay,2019,RightFoot,11912,Wolverhampton Wanderers,Norwich,3,0,2020-02-23 14:00:00,Matt Doherty,Rebound
+89,353371,11,BlockedShot,0.935,0.615999984741211,0.0517309010028839,Raúl Jiménez,a,4105,FromCorner,2019,RightFoot,11920,Tottenham,Wolverhampton Wanderers,2,3,2020-03-01 14:00:00,João Moutinho,Cross
+90,353369,11,BlockedShot,0.7190000152587891,0.3820000076293945,0.017535900697112,Raúl Jiménez,a,4105,OpenPlay,2019,RightFoot,11920,Tottenham,Wolverhampton Wanderers,2,3,2020-03-01 14:00:00,Rúben Neves,Pass
+91,353383,46,MissedShots,0.9230000305175782,0.555,0.042714599519968,Raúl Jiménez,a,4105,FromCorner,2019,OtherBodyPart,11920,Tottenham,Wolverhampton Wanderers,2,3,2020-03-01 14:00:00,João Moutinho,Aerial
+92,353390,72,Goal,0.9059999847412108,0.4270000076293945,0.3800329864025116,Raúl Jiménez,a,4105,OpenPlay,2019,LeftFoot,11920,Tottenham,Wolverhampton Wanderers,2,3,2020-03-01 14:00:00,Diogo Jota,Pass
+93,353391,88,MissedShots,0.845999984741211,0.4970000076293945,0.155581995844841,Raúl Jiménez,a,4105,OpenPlay,2019,LeftFoot,11920,Tottenham,Wolverhampton Wanderers,2,3,2020-03-01 14:00:00,Pedro Neto,TakeOn
+94,353477,7,MissedShots,0.825999984741211,0.3709999847412109,0.079561099410057,Raúl Jiménez,h,4105,OpenPlay,2019,RightFoot,11931,Wolverhampton Wanderers,Brighton,0,0,2020-03-07 15:00:00,Rúben Neves,Pass
+95,353480,28,MissedShots,0.7609999847412109,0.3529999923706055,0.0145345004275441,Raúl Jiménez,h,4105,OpenPlay,2019,RightFoot,11931,Wolverhampton Wanderers,Brighton,0,0,2020-03-07 15:00:00,Leander Dendoncker,HeadPass
+96,353481,32,MissedShots,0.9030000305175782,0.3179999923706054,0.3184640109539032,Raúl Jiménez,h,4105,OpenPlay,2019,RightFoot,11931,Wolverhampton Wanderers,Brighton,0,0,2020-03-07 15:00:00,,None
+97,353490,75,SavedShot,0.865999984741211,0.5479999923706055,0.0773584023118019,Raúl Jiménez,h,4105,OpenPlay,2019,RightFoot,11931,Wolverhampton Wanderers,Brighton,0,0,2020-03-07 15:00:00,Daniel Podence,Rebound
+98,365569,12,SavedShot,0.92,0.4370000076293945,0.0347993001341819,Raúl Jiménez,a,4105,FromCorner,2019,Head,11934,West Ham,Wolverhampton Wanderers,0,2,2020-06-20 16:30:00,Jonny,Aerial
+99,365573,32,BlockedShot,0.909000015258789,0.72,0.0486483015120029,Raúl Jiménez,a,4105,OpenPlay,2019,RightFoot,11934,West Ham,Wolverhampton Wanderers,0,2,2020-06-20 16:30:00,Diogo Jota,Pass
+100,365575,35,BlockedShot,0.8119999694824219,0.5070000076293946,0.0391524992883205,Raúl Jiménez,a,4105,OpenPlay,2019,RightFoot,11934,West Ham,Wolverhampton Wanderers,0,2,2020-06-20 16:30:00,Matt Doherty,Chipped
+101,365579,72,Goal,0.973000030517578,0.5059999847412109,0.7120950222015381,Raúl Jiménez,a,4105,OpenPlay,2019,Head,11934,West Ham,Wolverhampton Wanderers,0,2,2020-06-20 16:30:00,Adama Traoré,Cross
+102,366335,59,Goal,0.9540000152587892,0.54,0.1500869989395141,Raúl Jiménez,h,4105,OpenPlay,2019,Head,11947,Wolverhampton Wanderers,Bournemouth,1,0,2020-06-24 17:00:00,Adama Traoré,Cross
+103,366783,18,SavedShot,0.921999969482422,0.3570000076293945,0.0114529998973011,Raúl Jiménez,a,4105,SetPiece,2019,Head,11954,Aston Villa,Wolverhampton Wanderers,0,1,2020-06-27 11:30:00,João Moutinho,Aerial
+104,366787,36,MissedShots,0.8209999847412109,0.3379999923706054,0.0394060015678405,Raúl Jiménez,a,4105,SetPiece,2019,RightFoot,11954,Aston Villa,Wolverhampton Wanderers,0,1,2020-06-27 11:30:00,Rúben Neves,Chipped
+105,366788,39,MissedShots,0.875,0.2989999961853027,0.0511083006858825,Raúl Jiménez,a,4105,OpenPlay,2019,RightFoot,11954,Aston Villa,Wolverhampton Wanderers,0,1,2020-06-27 11:30:00,Leander Dendoncker,Pass
+106,368715,51,MissedShots,0.936999969482422,0.5509999847412109,0.1067619994282722,Raúl Jiménez,h,4105,OpenPlay,2019,Head,11972,Wolverhampton Wanderers,Arsenal,0,2,2020-07-04 16:30:00,Adama Traoré,Cross
+107,370704,26,SavedShot,0.88,0.59,0.0701559036970138,Raúl Jiménez,h,4105,FromCorner,2019,RightFoot,11992,Wolverhampton Wanderers,Everton,3,0,2020-07-12 11:00:00,Willy Boly,HeadPass
+108,370705,46,Goal,0.885,0.5,0.7611690163612366,Raúl Jiménez,h,4105,Penalty,2019,RightFoot,11992,Wolverhampton Wanderers,Everton,3,0,2020-07-12 11:00:00,,Standard
+109,370711,64,BlockedShot,0.958000030517578,0.645,0.1094039976596832,Raúl Jiménez,h,4105,OpenPlay,2019,RightFoot,11992,Wolverhampton Wanderers,Everton,3,0,2020-07-12 11:00:00,,Rebound
+110,371438,9,SavedShot,0.9540000152587892,0.5220000076293946,0.1128289997577667,Raúl Jiménez,a,4105,OpenPlay,2019,Head,11994,Burnley,Wolverhampton Wanderers,1,1,2020-07-15 17:00:00,Adama Traoré,Aerial
+111,371448,52,MissedShots,0.874000015258789,0.3340000152587891,0.0921088010072708,Raúl Jiménez,a,4105,OpenPlay,2019,RightFoot,11994,Burnley,Wolverhampton Wanderers,1,1,2020-07-15 17:00:00,,None
+112,371454,75,Goal,0.8469999694824218,0.5329999923706055,0.0640576034784317,Raúl Jiménez,a,4105,OpenPlay,2019,RightFoot,11994,Burnley,Wolverhampton Wanderers,1,1,2020-07-15 17:00:00,,Rebound
+113,372931,12,SavedShot,0.9469999694824218,0.3139999961853027,0.0541766993701458,Raúl Jiménez,h,4105,OpenPlay,2019,RightFoot,12012,Wolverhampton Wanderers,Crystal Palace,2,0,2020-07-20 19:15:00,,None
+114,372937,47,BlockedShot,0.73,0.6309999847412109,0.0203687995672225,Raúl Jiménez,h,4105,OpenPlay,2019,LeftFoot,12012,Wolverhampton Wanderers,Crystal Palace,2,0,2020-07-20 19:15:00,Rúben Neves,Pass
+115,372940,67,MissedShots,0.8819999694824219,0.41,0.1084749996662139,Raúl Jiménez,h,4105,OpenPlay,2019,RightFoot,12012,Wolverhampton Wanderers,Crystal Palace,2,0,2020-07-20 19:15:00,Adama Traoré,Pass
+116,373676,13,BlockedShot,0.6859999847412109,0.534000015258789,0.0134506998583674,Raúl Jiménez,a,4105,OpenPlay,2019,LeftFoot,12021,Chelsea,Wolverhampton Wanderers,2,0,2020-07-26 15:00:00,Matt Doherty,Pass
+0,309924,24,Goal,0.9490000152587892,0.4370000076293945,0.1451919972896576,Gabriel Jesus,a,5543,OpenPlay,2019,LeftFoot,11644,West Ham,Manchester City,0,5,2019-08-10 12:30:00,Kyle Walker,Pass
+1,309928,45,SavedShot,0.8130000305175781,0.5709999847412109,0.0613017007708549,Gabriel Jesus,a,5543,OpenPlay,2019,RightFoot,11644,West Ham,Manchester City,0,5,2019-08-10 12:30:00,,None
+2,310796,68,BlockedShot,0.8630000305175781,0.4620000076293945,0.0763650014996528,Gabriel Jesus,h,5543,OpenPlay,2019,RightFoot,11659,Manchester City,Tottenham,2,2,2019-08-17 17:30:00,,Rebound
+3,310795,68,BlockedShot,0.8690000152587891,0.505,0.116577997803688,Gabriel Jesus,h,5543,OpenPlay,2019,RightFoot,11659,Manchester City,Tottenham,2,2,2019-08-17 17:30:00,Kevin De Bruyne,Pass
+4,310797,71,MissedShots,0.931999969482422,0.555,0.2544179856777191,Gabriel Jesus,h,5543,OpenPlay,2019,RightFoot,11659,Manchester City,Tottenham,2,2,2019-08-17 17:30:00,Bernardo Silva,TakeOn
+5,310798,78,MissedShots,0.901999969482422,0.49,0.0543497018516063,Gabriel Jesus,h,5543,OpenPlay,2019,Head,11659,Manchester City,Tottenham,2,2,2019-08-17 17:30:00,,Aerial
+6,317540,81,BlockedShot,0.8969999694824219,0.4670000076293945,0.0902232974767685,Gabriel Jesus,a,5543,OpenPlay,2019,Head,11689,Norwich,Manchester City,3,2,2019-09-14 16:30:00,Riyad Mahrez,Cross
+7,317542,85,MissedShots,0.919000015258789,0.6020000076293945,0.0234104003757238,Gabriel Jesus,a,5543,OpenPlay,2019,Head,11689,Norwich,Manchester City,3,2,2019-09-14 16:30:00,,Rebound
+8,317548,92,SavedShot,0.8480000305175781,0.5020000076293946,0.0803819000720977,Gabriel Jesus,a,5543,OpenPlay,2019,LeftFoot,11689,Norwich,Manchester City,3,2,2019-09-14 16:30:00,Raheem Sterling,Pass
+9,322841,23,Goal,0.960999984741211,0.5259999847412109,0.576632022857666,Gabriel Jesus,a,5543,OpenPlay,2019,Head,11711,Everton,Manchester City,1,3,2019-09-28 16:30:00,Kevin De Bruyne,Chipped
+10,322847,35,MissedShots,0.9209999847412108,0.4220000076293945,0.0933981016278266,Gabriel Jesus,a,5543,OpenPlay,2019,Head,11711,Everton,Manchester City,1,3,2019-09-28 16:30:00,Oleksandr Zinchenko,Cross
+11,322850,43,MissedShots,0.9030000305175782,0.69,0.0623716004192829,Gabriel Jesus,a,5543,OpenPlay,2019,LeftFoot,11711,Everton,Manchester City,1,3,2019-09-28 16:30:00,Riyad Mahrez,Pass
+12,322851,47,BlockedShot,0.935,0.555,0.0669671967625618,Gabriel Jesus,a,5543,OpenPlay,2019,Head,11711,Everton,Manchester City,1,3,2019-09-28 16:30:00,Raheem Sterling,Aerial
+13,324673,91,BlockedShot,0.8109999847412109,0.6359999847412109,0.0326138995587825,Gabriel Jesus,h,5543,OpenPlay,2019,RightFoot,11716,Manchester City,Wolverhampton Wanderers,0,2,2019-10-06 14:00:00,,BallTouch
+14,325871,4,MissedShots,0.973000030517578,0.5820000076293945,0.0594701990485191,Gabriel Jesus,a,5543,OpenPlay,2019,Head,11726,Crystal Palace,Manchester City,0,2,2019-10-19 17:30:00,Kevin De Bruyne,Aerial
+15,325873,7,BlockedShot,0.955,0.484000015258789,0.1505019962787628,Gabriel Jesus,a,5543,OpenPlay,2019,Head,11726,Crystal Palace,Manchester City,0,2,2019-10-19 17:30:00,João Cancelo,Cross
+16,325876,15,MissedShots,0.981999969482422,0.5729999923706055,0.0477119982242584,Gabriel Jesus,a,5543,FromCorner,2019,Head,11726,Crystal Palace,Manchester City,0,2,2019-10-19 17:30:00,,Rebound
+17,325878,20,SavedShot,0.941999969482422,0.4929999923706055,0.0983558967709541,Gabriel Jesus,a,5543,OpenPlay,2019,Head,11726,Crystal Palace,Manchester City,0,2,2019-10-19 17:30:00,João Cancelo,Aerial
+18,325881,33,MissedShots,0.8569999694824219,0.54,0.0304393004626035,Gabriel Jesus,a,5543,OpenPlay,2019,Head,11726,Crystal Palace,Manchester City,0,2,2019-10-19 17:30:00,Ilkay Gündogan,Chipped
+19,325882,38,Goal,0.9230000305175782,0.4859999847412109,0.372175008058548,Gabriel Jesus,a,5543,OpenPlay,2019,Head,11726,Crystal Palace,Manchester City,0,2,2019-10-19 17:30:00,Bernardo Silva,Cross
+20,325888,67,SavedShot,0.874000015258789,0.3979999923706054,0.09772390127182,Gabriel Jesus,a,5543,OpenPlay,2019,LeftFoot,11726,Crystal Palace,Manchester City,0,2,2019-10-19 17:30:00,João Cancelo,Pass
+21,325892,75,SavedShot,0.95,0.6040000152587891,0.6319190263748169,Gabriel Jesus,a,5543,OpenPlay,2019,RightFoot,11726,Crystal Palace,Manchester City,0,2,2019-10-19 17:30:00,Raheem Sterling,Throughball
+22,326916,4,MissedShots,0.921999969482422,0.5220000076293946,0.5005109906196594,Gabriel Jesus,h,5543,OpenPlay,2019,RightFoot,11737,Manchester City,Aston Villa,3,0,2019-10-26 12:30:00,,Rebound
+23,326931,48,SavedShot,0.8819999694824219,0.5370000076293945,0.1329129934310913,Gabriel Jesus,h,5543,OpenPlay,2019,LeftFoot,11737,Manchester City,Aston Villa,3,0,2019-10-26 12:30:00,Raheem Sterling,Pass
+24,326933,54,BlockedShot,0.86,0.524000015258789,0.3517409861087799,Gabriel Jesus,h,5543,OpenPlay,2019,RightFoot,11737,Manchester City,Aston Villa,3,0,2019-10-26 12:30:00,Raheem Sterling,Pass
+25,326948,91,ShotOnPost,0.7909999847412109,0.580999984741211,0.0430049002170562,Gabriel Jesus,h,5543,OpenPlay,2019,RightFoot,11737,Manchester City,Aston Villa,3,0,2019-10-26 12:30:00,Phil Foden,Pass
+26,329223,90,SavedShot,0.924000015258789,0.5720000076293945,0.6093559861183167,Gabriel Jesus,h,5543,OpenPlay,2019,RightFoot,11749,Manchester City,Southampton,2,1,2019-11-02 15:00:00,Kevin De Bruyne,Pass
+27,333423,34,SavedShot,0.8919999694824219,0.5720000076293945,0.0818563029170036,Gabriel Jesus,a,5543,OpenPlay,2019,RightFoot,11777,Newcastle United,Manchester City,2,2,2019-11-30 12:30:00,Raheem Sterling,Cross
+28,333426,50,BlockedShot,0.9519999694824218,0.4470000076293945,0.1226610019803047,Gabriel Jesus,a,5543,OpenPlay,2019,LeftFoot,11777,Newcastle United,Manchester City,2,2,2019-11-30 12:30:00,Kevin De Bruyne,BallRecovery
+29,333430,56,MissedShots,0.980999984741211,0.424000015258789,0.1292790025472641,Gabriel Jesus,a,5543,OpenPlay,2019,Head,11777,Newcastle United,Manchester City,2,2,2019-11-30 12:30:00,David Silva,Cross
+30,333432,64,SavedShot,0.9,0.524000015258789,0.1025680005550384,Gabriel Jesus,a,5543,OpenPlay,2019,LeftFoot,11777,Newcastle United,Manchester City,2,2,2019-11-30 12:30:00,,None
+31,333433,67,SavedShot,0.924000015258789,0.5720000076293945,0.4599190056324005,Gabriel Jesus,a,5543,OpenPlay,2019,LeftFoot,11777,Newcastle United,Manchester City,2,2,2019-11-30 12:30:00,,None
+32,334866,23,Goal,0.8809999847412109,0.7180000305175781,0.0412064008414745,Gabriel Jesus,a,5543,OpenPlay,2019,RightFoot,11784,Burnley,Manchester City,1,4,2019-12-03 20:15:00,David Silva,Pass
+33,334872,49,Goal,0.95,0.489000015258789,0.5902940034866333,Gabriel Jesus,a,5543,OpenPlay,2019,RightFoot,11784,Burnley,Manchester City,1,4,2019-12-03 20:15:00,Bernardo Silva,Cross
+34,334873,52,MissedShots,0.963000030517578,0.6430000305175781,0.1772069931030273,Gabriel Jesus,a,5543,OpenPlay,2019,RightFoot,11784,Burnley,Manchester City,1,4,2019-12-03 20:15:00,Angelino,TakeOn
+35,335819,12,BlockedShot,0.9359999847412108,0.445,0.1455949991941452,Gabriel Jesus,h,5543,OpenPlay,2019,RightFoot,11797,Manchester City,Manchester United,1,2,2019-12-07 17:30:00,Bernardo Silva,Pass
+36,335821,18,BlockedShot,0.8680000305175781,0.6819999694824219,0.0523004010319709,Gabriel Jesus,h,5543,OpenPlay,2019,RightFoot,11797,Manchester City,Manchester United,1,2,2019-12-07 17:30:00,Kevin De Bruyne,Chipped
+37,335830,37,MissedShots,0.915,0.509000015258789,0.3135879933834076,Gabriel Jesus,h,5543,OpenPlay,2019,Head,11797,Manchester City,Manchester United,1,2,2019-12-07 17:30:00,Kevin De Bruyne,Cross
+38,337723,51,MissedShots,0.8830000305175781,0.6309999847412109,0.1101989969611167,Gabriel Jesus,a,5543,OpenPlay,2019,RightFoot,11803,Arsenal,Manchester City,0,3,2019-12-15 16:30:00,Raheem Sterling,Pass
+39,337725,61,SavedShot,0.850999984741211,0.495,0.3784230053424835,Gabriel Jesus,a,5543,OpenPlay,2019,LeftFoot,11803,Arsenal,Manchester City,0,3,2019-12-15 16:30:00,,BallRecovery
+40,338748,16,SavedShot,0.9009999847412108,0.4670000076293945,0.270002007484436,Gabriel Jesus,h,5543,OpenPlay,2019,Head,11817,Manchester City,Leicester,3,1,2019-12-21 17:30:00,Benjamin Mendy,Cross
+41,338747,16,SavedShot,0.9590000152587892,0.4429999923706054,0.603065013885498,Gabriel Jesus,h,5543,OpenPlay,2019,LeftFoot,11817,Manchester City,Leicester,3,1,2019-12-21 17:30:00,Riyad Mahrez,Pass
+42,338764,68,Goal,0.973000030517578,0.5690000152587891,0.5926899909973145,Gabriel Jesus,h,5543,OpenPlay,2019,LeftFoot,11817,Manchester City,Leicester,3,1,2019-12-21 17:30:00,Kevin De Bruyne,Pass
+43,338769,80,SavedShot,0.9590000152587892,0.3240000152587891,0.0951249003410339,Gabriel Jesus,h,5543,OpenPlay,2019,RightFoot,11817,Manchester City,Leicester,3,1,2019-12-21 17:30:00,Riyad Mahrez,Pass
+44,351569,23,MissedShots,0.8059999847412109,0.4759999847412109,0.0535782016813755,Gabriel Jesus,h,5543,OpenPlay,2019,RightFoot,11848,Manchester City,Everton,2,1,2020-01-01 17:30:00,Phil Foden,Pass
+45,351574,38,MissedShots,0.885,0.6220000076293946,0.0930759012699127,Gabriel Jesus,h,5543,OpenPlay,2019,LeftFoot,11848,Manchester City,Everton,2,1,2020-01-01 17:30:00,Benjamin Mendy,Pass
+46,351577,45,MissedShots,0.906999969482422,0.585,0.0499982014298439,Gabriel Jesus,h,5543,SetPiece,2019,Head,11848,Manchester City,Everton,2,1,2020-01-01 17:30:00,Kevin De Bruyne,Chipped
+47,351578,50,Goal,0.8530000305175781,0.575999984741211,0.0864377990365028,Gabriel Jesus,h,5543,OpenPlay,2019,RightFoot,11848,Manchester City,Everton,2,1,2020-01-01 17:30:00,Ilkay Gündogan,Pass
+48,351580,57,Goal,0.9059999847412108,0.5740000152587891,0.4042100012302398,Gabriel Jesus,h,5543,OpenPlay,2019,LeftFoot,11848,Manchester City,Everton,2,1,2020-01-01 17:30:00,Riyad Mahrez,Pass
+49,351584,72,SavedShot,0.916999969482422,0.5720000076293945,0.2408100068569183,Gabriel Jesus,h,5543,OpenPlay,2019,Head,11848,Manchester City,Everton,2,1,2020-01-01 17:30:00,João Cancelo,Cross
+50,351587,77,ShotOnPost,0.9109999847412108,0.66,0.2985439896583557,Gabriel Jesus,h,5543,OpenPlay,2019,LeftFoot,11848,Manchester City,Everton,2,1,2020-01-01 17:30:00,Riyad Mahrez,Pass
+51,351588,80,SavedShot,0.835999984741211,0.47,0.0977184996008873,Gabriel Jesus,h,5543,OpenPlay,2019,RightFoot,11848,Manchester City,Everton,2,1,2020-01-01 17:30:00,Phil Foden,Pass
+52,351831,25,MissedShots,0.8880000305175781,0.54,0.1363549977540969,Gabriel Jesus,a,5543,OpenPlay,2019,RightFoot,11856,Aston Villa,Manchester City,1,6,2020-01-12 16:30:00,Benjamin Mendy,Pass
+53,351837,45,Goal,0.9259999847412108,0.585,0.3828150033950805,Gabriel Jesus,a,5543,OpenPlay,2019,LeftFoot,11856,Aston Villa,Manchester City,1,6,2020-01-12 16:30:00,Kevin De Bruyne,Cross
+54,351842,63,BlockedShot,0.9230000305175782,0.5709999847412109,0.4109269976615906,Gabriel Jesus,a,5543,FromCorner,2019,RightFoot,11856,Aston Villa,Manchester City,1,6,2020-01-12 16:30:00,,Rebound
+55,351847,77,MissedShots,0.92,0.5879999923706055,0.4200299978256225,Gabriel Jesus,a,5543,FromCorner,2019,RightFoot,11856,Aston Villa,Manchester City,1,6,2020-01-12 16:30:00,,None
+56,351846,77,SavedShot,0.95,0.3259999847412109,0.0942497998476028,Gabriel Jesus,a,5543,OpenPlay,2019,RightFoot,11856,Aston Villa,Manchester City,1,6,2020-01-12 16:30:00,Phil Foden,Pass
+57,351907,62,MissedShots,0.9540000152587892,0.3570000076293945,0.0609816014766693,Gabriel Jesus,h,5543,OpenPlay,2019,RightFoot,11864,Manchester City,Crystal Palace,2,2,2020-01-18 15:00:00,,None
+58,352183,35,SavedShot,0.885,0.5,0.7611690163612366,Gabriel Jesus,a,5543,Penalty,2019,RightFoot,11875,Sheffield United,Manchester City,0,1,2020-01-21 19:30:00,,Standard
+59,352189,60,SavedShot,0.925,0.534000015258789,0.1287720054388046,Gabriel Jesus,a,5543,OpenPlay,2019,Head,11875,Sheffield United,Manchester City,0,1,2020-01-21 19:30:00,Rodri,Cross
+60,352647,89,SavedShot,0.955999984741211,0.6179999923706054,0.0228562001138925,Gabriel Jesus,a,5543,OpenPlay,2019,Head,11890,Tottenham,Manchester City,2,0,2020-02-02 16:30:00,Bernardo Silva,Chipped
+61,352877,13,BlockedShot,0.9159999847412108,0.5029999923706054,0.1456619948148727,Gabriel Jesus,h,5543,OpenPlay,2019,RightFoot,11898,Manchester City,West Ham,2,0,2020-02-19 19:30:00,,Rebound
+62,352876,13,BlockedShot,0.901999969482422,0.5359999847412109,0.4756329953670501,Gabriel Jesus,h,5543,OpenPlay,2019,RightFoot,11898,Manchester City,West Ham,2,0,2020-02-19 19:30:00,Kevin De Bruyne,Throughball
+63,352885,39,SavedShot,0.8219999694824218,0.5370000076293945,0.0712338015437126,Gabriel Jesus,h,5543,OpenPlay,2019,RightFoot,11898,Manchester City,West Ham,2,0,2020-02-19 19:30:00,Kevin De Bruyne,Pass
+64,352895,76,SavedShot,0.924000015258789,0.5690000152587891,0.3913399875164032,Gabriel Jesus,h,5543,OpenPlay,2019,RightFoot,11898,Manchester City,West Ham,2,0,2020-02-19 19:30:00,Kevin De Bruyne,Chipped
+65,353053,78,SavedShot,0.8390000152587891,0.4170000076293945,0.0759880989789962,Gabriel Jesus,a,5543,OpenPlay,2019,LeftFoot,11904,Leicester,Manchester City,0,1,2020-02-22 17:30:00,Rodri,Pass
+66,353054,79,Goal,0.9130000305175782,0.4209999847412109,0.4078069925308227,Gabriel Jesus,a,5543,OpenPlay,2019,RightFoot,11904,Leicester,Manchester City,0,1,2020-02-22 17:30:00,Riyad Mahrez,Throughball
+67,353587,74,SavedShot,0.936999969482422,0.6990000152587891,0.0456597991287708,Gabriel Jesus,a,5543,OpenPlay,2019,RightFoot,11932,Manchester United,Manchester City,2,0,2020-03-08 16:30:00,Raheem Sterling,Rebound
+68,364865,58,SavedShot,0.7719999694824219,0.4029999923706054,0.0337572991847991,Gabriel Jesus,h,5543,OpenPlay,2019,RightFoot,11917,Manchester City,Arsenal,3,0,2020-06-17 19:15:00,Kyle Walker,Pass
+69,364867,70,MissedShots,0.9,0.555,0.1354729980230331,Gabriel Jesus,h,5543,OpenPlay,2019,RightFoot,11917,Manchester City,Arsenal,3,0,2020-06-17 19:15:00,Kyle Walker,Cross
+70,366010,45,MissedShots,0.9159999847412108,0.4540000152587891,0.1158910021185875,Gabriel Jesus,h,5543,OpenPlay,2019,Head,11939,Manchester City,Burnley,5,0,2020-06-22 19:00:00,David Silva,Cross
+71,366015,62,MissedShots,0.87,0.505,0.1319189965724945,Gabriel Jesus,h,5543,OpenPlay,2019,RightFoot,11939,Manchester City,Burnley,5,0,2020-06-22 19:00:00,Bernardo Silva,Pass
+72,366017,65,MissedShots,0.8640000152587891,0.349000015258789,0.0870402976870536,Gabriel Jesus,h,5543,OpenPlay,2019,RightFoot,11939,Manchester City,Burnley,5,0,2020-06-22 19:00:00,Phil Foden,Pass
+73,368406,28,MissedShots,0.97,0.3359999847412109,0.0991149023175239,Gabriel Jesus,h,5543,OpenPlay,2019,RightFoot,11959,Manchester City,Liverpool,4,0,2020-07-02 19:15:00,Kevin De Bruyne,TakeOn
+74,368409,48,SavedShot,0.8109999847412109,0.5259999847412109,0.053702600300312,Gabriel Jesus,h,5543,OpenPlay,2019,RightFoot,11959,Manchester City,Liverpool,4,0,2020-07-02 19:15:00,,None
+75,369218,22,MissedShots,0.9690000152587892,0.57,0.5273069739341736,Gabriel Jesus,a,5543,OpenPlay,2019,LeftFoot,11970,Southampton,Manchester City,1,0,2020-07-05 18:00:00,João Cancelo,Rebound
+76,369228,47,MissedShots,0.9230000305175782,0.445,0.0827725008130073,Gabriel Jesus,a,5543,FromCorner,2019,Head,11970,Southampton,Manchester City,1,0,2020-07-05 18:00:00,Riyad Mahrez,Cross
+77,369230,49,SavedShot,0.9359999847412108,0.499000015258789,0.4235840141773224,Gabriel Jesus,a,5543,OpenPlay,2019,Head,11970,Southampton,Manchester City,1,0,2020-07-05 18:00:00,,Aerial
+78,369233,54,BlockedShot,0.914000015258789,0.585,0.0857006013393402,Gabriel Jesus,a,5543,OpenPlay,2019,RightFoot,11970,Southampton,Manchester City,1,0,2020-07-05 18:00:00,João Cancelo,Cross
+79,369234,55,BlockedShot,0.8530000305175781,0.5790000152587891,0.0702657997608184,Gabriel Jesus,a,5543,OpenPlay,2019,RightFoot,11970,Southampton,Manchester City,1,0,2020-07-05 18:00:00,David Silva,Pass
+80,369237,65,SavedShot,0.9230000305175782,0.4759999847412109,0.3317849934101105,Gabriel Jesus,a,5543,FromCorner,2019,Head,11970,Southampton,Manchester City,1,0,2020-07-05 18:00:00,Oleksandr Zinchenko,Cross
+81,369696,9,Goal,0.9180000305175782,0.4909999847412109,0.5063380002975464,Gabriel Jesus,h,5543,OpenPlay,2019,RightFoot,11979,Manchester City,Newcastle United,5,0,2020-07-08 17:00:00,David Silva,Pass
+82,369700,21,BlockedShot,0.909000015258789,0.4309999847412109,0.1382199972867965,Gabriel Jesus,h,5543,OpenPlay,2019,RightFoot,11979,Manchester City,Newcastle United,5,0,2020-07-08 17:00:00,Riyad Mahrez,Pass
+83,370569,5,MissedShots,0.9,0.4929999923706055,0.0860626995563507,Gabriel Jesus,a,5543,OpenPlay,2019,Head,11985,Brighton,Manchester City,0,5,2020-07-11 19:00:00,Benjamin Mendy,Cross
+84,370570,6,BlockedShot,0.875999984741211,0.4570000076293945,0.1158000007271766,Gabriel Jesus,a,5543,OpenPlay,2019,RightFoot,11985,Brighton,Manchester City,0,5,2020-07-11 19:00:00,Kyle Walker,Pass
+85,370577,27,BlockedShot,0.905,0.3579999923706055,0.1083320006728172,Gabriel Jesus,a,5543,OpenPlay,2019,RightFoot,11985,Brighton,Manchester City,0,5,2020-07-11 19:00:00,Raheem Sterling,Pass
+86,370579,31,MissedShots,0.9259999847412108,0.5409999847412109,0.3337830007076263,Gabriel Jesus,a,5543,OpenPlay,2019,Head,11985,Brighton,Manchester City,0,5,2020-07-11 19:00:00,Kevin De Bruyne,Chipped
+87,370580,35,BlockedShot,0.901999969482422,0.649000015258789,0.0926001965999603,Gabriel Jesus,a,5543,OpenPlay,2019,RightFoot,11985,Brighton,Manchester City,0,5,2020-07-11 19:00:00,Kevin De Bruyne,Pass
+88,370584,42,BlockedShot,0.953000030517578,0.4270000076293945,0.1484420001506805,Gabriel Jesus,a,5543,OpenPlay,2019,RightFoot,11985,Brighton,Manchester City,0,5,2020-07-11 19:00:00,Kyle Walker,Pass
+89,370586,43,Goal,0.988000030517578,0.539000015258789,0.9443690180778505,Gabriel Jesus,a,5543,FromCorner,2019,LeftFoot,11985,Brighton,Manchester City,0,5,2020-07-11 19:00:00,Rodri,Rebound
+90,371472,38,Goal,0.89,0.6120000076293945,0.2429970055818557,Gabriel Jesus,h,5543,OpenPlay,2019,RightFoot,11999,Manchester City,Bournemouth,2,1,2020-07-15 17:00:00,David Silva,TakeOn
+91,371473,42,SavedShot,0.9,0.4870000076293945,0.0842510983347892,Gabriel Jesus,h,5543,OpenPlay,2019,OtherBodyPart,11999,Manchester City,Bournemouth,2,1,2020-07-15 17:00:00,Bernardo Silva,Aerial
+92,371475,75,MissedShots,0.895,0.3609999847412109,0.1079190000891685,Gabriel Jesus,h,5543,OpenPlay,2019,RightFoot,11999,Manchester City,Bournemouth,2,1,2020-07-15 17:00:00,Phil Foden,Pass
+93,372990,45,SavedShot,0.8209999847412109,0.435,0.0730675011873245,Gabriel Jesus,a,5543,OpenPlay,2019,RightFoot,12011,Watford,Manchester City,0,4,2020-07-21 17:00:00,,BallRecovery
+94,372999,69,MissedShots,0.860999984741211,0.345,0.309349000453949,Gabriel Jesus,a,5543,OpenPlay,2019,RightFoot,12011,Watford,Manchester City,0,4,2020-07-21 17:00:00,João Cancelo,Chipped
+95,373000,74,BlockedShot,0.875,0.5220000076293946,0.1209459975361824,Gabriel Jesus,a,5543,OpenPlay,2019,RightFoot,12011,Watford,Manchester City,0,4,2020-07-21 17:00:00,Oleksandr Zinchenko,Cross
+96,373739,10,Goal,0.955999984741211,0.479000015258789,0.6257280111312866,Gabriel Jesus,h,5543,OpenPlay,2019,RightFoot,12017,Manchester City,Norwich,5,0,2020-07-26 15:00:00,,None
+97,373740,15,MissedShots,0.9259999847412108,0.6769999694824219,0.0803524032235145,Gabriel Jesus,h,5543,OpenPlay,2019,LeftFoot,12017,Manchester City,Norwich,5,0,2020-07-26 15:00:00,Phil Foden,BallRecovery
+98,373744,30,BlockedShot,0.9180000305175782,0.4759999847412109,0.125109001994133,Gabriel Jesus,h,5543,OpenPlay,2019,RightFoot,12017,Manchester City,Norwich,5,0,2020-07-26 15:00:00,,None
+99,373763,73,SavedShot,0.8190000152587891,0.6329999923706054,0.0254050008952617,Gabriel Jesus,h,5543,OpenPlay,2019,RightFoot,12017,Manchester City,Norwich,5,0,2020-07-26 15:00:00,,Rebound
+100,373764,74,SavedShot,0.865,0.3459999847412109,0.0859633982181549,Gabriel Jesus,h,5543,OpenPlay,2019,RightFoot,12017,Manchester City,Norwich,5,0,2020-07-26 15:00:00,Riyad Mahrez,Pass
+0,309929,49,SavedShot,0.889000015258789,0.55,0.0407373011112213,Raheem Sterling,a,618,OpenPlay,2019,Head,11644,West Ham,Manchester City,0,5,2019-08-10 12:30:00,Oleksandr Zinchenko,Aerial
+1,309930,50,Goal,0.8819999694824219,0.605999984741211,0.4330689907073974,Raheem Sterling,a,618,OpenPlay,2019,LeftFoot,11644,West Ham,Manchester City,0,5,2019-08-10 12:30:00,Kevin De Bruyne,Pass
+2,309935,74,Goal,0.92,0.4540000152587891,0.5830140113830566,Raheem Sterling,a,618,OpenPlay,2019,RightFoot,11644,West Ham,Manchester City,0,5,2019-08-10 12:30:00,Riyad Mahrez,Throughball
+3,309937,90,Goal,0.9109999847412108,0.4209999847412109,0.5324270129203796,Raheem Sterling,a,618,OpenPlay,2019,RightFoot,11644,West Ham,Manchester City,0,5,2019-08-10 12:30:00,Riyad Mahrez,Throughball
+4,310767,6,BlockedShot,0.8919999694824219,0.5420000076293945,0.1273930072784423,Raheem Sterling,h,618,OpenPlay,2019,RightFoot,11659,Manchester City,Tottenham,2,2,2019-08-17 17:30:00,Kyle Walker,Pass
+5,310770,8,MissedShots,0.8580000305175781,0.6759999847412109,0.0530424006283283,Raheem Sterling,h,618,OpenPlay,2019,LeftFoot,11659,Manchester City,Tottenham,2,2,2019-08-17 17:30:00,Oleksandr Zinchenko,Pass
+6,310772,19,Goal,0.9740000152587892,0.595999984741211,0.2065179944038391,Raheem Sterling,h,618,OpenPlay,2019,Head,11659,Manchester City,Tottenham,2,2,2019-08-17 17:30:00,Kevin De Bruyne,Cross
+7,310786,53,SavedShot,0.8590000152587891,0.565,0.3572730123996734,Raheem Sterling,h,618,OpenPlay,2019,RightFoot,11659,Manchester City,Tottenham,2,2,2019-08-17 17:30:00,Kevin De Bruyne,Throughball
+8,310789,59,BlockedShot,0.87,0.6309999847412109,0.0679150000214576,Raheem Sterling,h,618,OpenPlay,2019,RightFoot,11659,Manchester City,Tottenham,2,2,2019-08-17 17:30:00,,BallRecovery
+9,310799,95,BlockedShot,0.8780000305175781,0.615999984741211,0.0680119022727012,Raheem Sterling,h,618,OpenPlay,2019,LeftFoot,11659,Manchester City,Tottenham,2,2,2019-08-17 17:30:00,,None
+10,312926,42,Goal,0.9130000305175782,0.5570000076293945,0.4474839866161346,Raheem Sterling,a,618,OpenPlay,2019,RightFoot,11671,Bournemouth,Manchester City,1,3,2019-08-25 14:00:00,David Silva,Throughball
+11,312931,50,BlockedShot,0.9590000152587892,0.51,0.1829539984464645,Raheem Sterling,a,618,OpenPlay,2019,RightFoot,11671,Bournemouth,Manchester City,1,3,2019-08-25 14:00:00,,Rebound
+12,317519,11,BlockedShot,0.906999969482422,0.6719999694824219,0.0727362036705017,Raheem Sterling,a,618,OpenPlay,2019,RightFoot,11689,Norwich,Manchester City,3,2,2019-09-14 16:30:00,Sergio Agüero,Pass
+13,317521,20,BlockedShot,0.774000015258789,0.6229999923706054,0.0238588992506265,Raheem Sterling,a,618,OpenPlay,2019,RightFoot,11689,Norwich,Manchester City,3,2,2019-09-14 16:30:00,,None
+14,317524,30,ShotOnPost,0.915,0.5629999923706055,0.5551549792289734,Raheem Sterling,a,618,OpenPlay,2019,Head,11689,Norwich,Manchester City,3,2,2019-09-14 16:30:00,Bernardo Silva,Aerial
+15,317533,54,BlockedShot,0.9130000305175782,0.5120000076293946,0.0607645995914936,Raheem Sterling,a,618,OpenPlay,2019,Head,11689,Norwich,Manchester City,3,2,2019-09-14 16:30:00,,Aerial
+16,317541,85,BlockedShot,0.8230000305175781,0.5029999923706054,0.0417172014713287,Raheem Sterling,a,618,OpenPlay,2019,RightFoot,11689,Norwich,Manchester City,3,2,2019-09-14 16:30:00,John Stones,Chipped
+17,317549,93,SavedShot,0.885,0.6509999847412109,0.0605749003589153,Raheem Sterling,a,618,SetPiece,2019,RightFoot,11689,Norwich,Manchester City,3,2,2019-09-14 16:30:00,Rodri,Chipped
+18,322857,59,MissedShots,0.905,0.4970000076293945,0.4367479979991913,Raheem Sterling,a,618,OpenPlay,2019,RightFoot,11711,Everton,Manchester City,1,3,2019-09-28 16:30:00,Riyad Mahrez,Throughball
+19,322859,68,SavedShot,0.9180000305175782,0.519000015258789,0.112816996872425,Raheem Sterling,a,618,OpenPlay,2019,RightFoot,11711,Everton,Manchester City,1,3,2019-09-28 16:30:00,Kyle Walker,Cross
+20,322858,68,BlockedShot,0.8419999694824218,0.5159999847412109,0.0665004029870033,Raheem Sterling,a,618,OpenPlay,2019,RightFoot,11711,Everton,Manchester City,1,3,2019-09-28 16:30:00,,None
+21,322867,83,Goal,0.925,0.5570000076293945,0.1242469996213913,Raheem Sterling,a,618,OpenPlay,2019,LeftFoot,11711,Everton,Manchester City,1,3,2019-09-28 16:30:00,,None
+22,324659,32,SavedShot,0.8209999847412109,0.6509999847412109,0.0410435013473033,Raheem Sterling,h,618,OpenPlay,2019,RightFoot,11716,Manchester City,Wolverhampton Wanderers,0,2,2019-10-06 14:00:00,David Silva,Pass
+23,324663,62,BlockedShot,0.88,0.7269999694824218,0.0368086993694305,Raheem Sterling,h,618,OpenPlay,2019,RightFoot,11716,Manchester City,Wolverhampton Wanderers,0,2,2019-10-06 14:00:00,Oleksandr Zinchenko,Pass
+24,324667,67,BlockedShot,0.840999984741211,0.5379999923706055,0.0711065009236335,Raheem Sterling,h,618,OpenPlay,2019,RightFoot,11716,Manchester City,Wolverhampton Wanderers,0,2,2019-10-06 14:00:00,Sergio Agüero,BallTouch
+25,325885,51,ShotOnPost,0.8690000152587891,0.634000015258789,0.0949145033955574,Raheem Sterling,a,618,OpenPlay,2019,RightFoot,11726,Crystal Palace,Manchester City,0,2,2019-10-19 17:30:00,Gabriel Jesus,Pass
+26,325887,54,MissedShots,0.8619999694824219,0.6270000076293946,0.0986447036266326,Raheem Sterling,a,618,OpenPlay,2019,LeftFoot,11726,Crystal Palace,Manchester City,0,2,2019-10-19 17:30:00,David Silva,TakeOn
+27,325893,78,MissedShots,0.915,0.5840000152587891,0.5050609707832336,Raheem Sterling,a,618,OpenPlay,2019,LeftFoot,11726,Crystal Palace,Manchester City,0,2,2019-10-19 17:30:00,David Silva,Pass
+28,325896,86,MissedShots,0.905,0.46,0.5329030156135559,Raheem Sterling,a,618,OpenPlay,2019,RightFoot,11726,Crystal Palace,Manchester City,0,2,2019-10-19 17:30:00,João Cancelo,Pass
+29,326919,12,BlockedShot,0.8530000305175781,0.5570000076293945,0.0925662964582443,Raheem Sterling,h,618,OpenPlay,2019,RightFoot,11737,Manchester City,Aston Villa,3,0,2019-10-26 12:30:00,Kevin De Bruyne,Pass
+30,326920,18,BlockedShot,0.875999984741211,0.5879999923706055,0.1030270010232925,Raheem Sterling,h,618,OpenPlay,2019,RightFoot,11737,Manchester City,Aston Villa,3,0,2019-10-26 12:30:00,Ilkay Gündogan,Pass
+31,326928,37,MissedShots,0.905,0.515,0.0588353015482425,Raheem Sterling,h,618,OpenPlay,2019,Head,11737,Manchester City,Aston Villa,3,0,2019-10-26 12:30:00,Ilkay Gündogan,Chipped
+32,326930,45,Goal,0.91,0.605999984741211,0.3636910021305084,Raheem Sterling,h,618,OpenPlay,2019,LeftFoot,11737,Manchester City,Aston Villa,3,0,2019-10-26 12:30:00,,None
+33,329214,64,MissedShots,0.8809999847412109,0.5690000152587891,0.0805784985423088,Raheem Sterling,h,618,FromCorner,2019,RightFoot,11749,Manchester City,Southampton,2,1,2019-11-02 15:00:00,Gabriel Jesus,LayOff
+34,331547,8,MissedShots,0.9109999847412108,0.5879999923706055,0.1476889997720718,Raheem Sterling,a,618,SetPiece,2019,Head,11755,Liverpool,Manchester City,3,1,2019-11-10 16:30:00,Kevin De Bruyne,Cross
+35,331564,52,BlockedShot,0.8159999847412109,0.5070000076293946,0.0805805027484893,Raheem Sterling,a,618,OpenPlay,2019,RightFoot,11755,Liverpool,Manchester City,3,1,2019-11-10 16:30:00,Bernardo Silva,TakeOn
+36,331569,76,MissedShots,0.8530000305175781,0.5540000152587891,0.083185002207756,Raheem Sterling,a,618,OpenPlay,2019,LeftFoot,11755,Liverpool,Manchester City,3,1,2019-11-10 16:30:00,Ilkay Gündogan,Pass
+37,331572,82,BlockedShot,0.8819999694824219,0.715999984741211,0.043987900018692,Raheem Sterling,a,618,OpenPlay,2019,RightFoot,11755,Liverpool,Manchester City,3,1,2019-11-10 16:30:00,Angelino,Pass
+38,333416,17,BlockedShot,0.865,0.669000015258789,0.0492400005459785,Raheem Sterling,a,618,OpenPlay,2019,RightFoot,11777,Newcastle United,Manchester City,2,2,2019-11-30 12:30:00,,None
+39,333419,21,Goal,0.88,0.534000015258789,0.3792409896850586,Raheem Sterling,a,618,OpenPlay,2019,RightFoot,11777,Newcastle United,Manchester City,2,2,2019-11-30 12:30:00,David Silva,Pass
+40,333422,32,SavedShot,0.81,0.66,0.0319606997072696,Raheem Sterling,a,618,OpenPlay,2019,RightFoot,11777,Newcastle United,Manchester City,2,2,2019-11-30 12:30:00,Benjamin Mendy,Pass
+41,333443,91,SavedShot,0.960999984741211,0.404000015258789,0.3087680041790008,Raheem Sterling,a,618,OpenPlay,2019,RightFoot,11777,Newcastle United,Manchester City,2,2,2019-11-30 12:30:00,Kevin De Bruyne,Chipped
+42,334865,17,BlockedShot,0.889000015258789,0.6270000076293946,0.0930517017841339,Raheem Sterling,a,618,OpenPlay,2019,RightFoot,11784,Burnley,Manchester City,1,4,2019-12-03 20:15:00,Angelino,Pass
+43,334867,31,SavedShot,0.9619999694824218,0.4929999923706055,0.6334459781646729,Raheem Sterling,a,618,OpenPlay,2019,RightFoot,11784,Burnley,Manchester City,1,4,2019-12-03 20:15:00,Kevin De Bruyne,Cross
+44,334877,65,BlockedShot,0.875999984741211,0.655,0.0824010968208313,Raheem Sterling,a,618,OpenPlay,2019,RightFoot,11784,Burnley,Manchester City,1,4,2019-12-03 20:15:00,Kevin De Bruyne,Pass
+45,335824,24,BlockedShot,0.973000030517578,0.6840000152587891,0.0399710014462471,Raheem Sterling,h,618,FromCorner,2019,RightFoot,11797,Manchester City,Manchester United,1,2,2019-12-07 17:30:00,,None
+46,335837,64,BlockedShot,0.84,0.66,0.0515573993325233,Raheem Sterling,h,618,OpenPlay,2019,RightFoot,11797,Manchester City,Manchester United,1,2,2019-12-07 17:30:00,David Silva,Pass
+47,337715,14,Goal,0.9309999847412108,0.44,0.5176650285720825,Raheem Sterling,a,618,OpenPlay,2019,LeftFoot,11803,Arsenal,Manchester City,0,3,2019-12-15 16:30:00,Kevin De Bruyne,Pass
+48,337726,61,BlockedShot,0.8430000305175781,0.5820000076293945,0.0871729999780654,Raheem Sterling,a,618,OpenPlay,2019,RightFoot,11803,Arsenal,Manchester City,0,3,2019-12-15 16:30:00,Kevin De Bruyne,Pass
+49,337728,74,BlockedShot,0.7609999847412109,0.5670000076293945,0.0414609983563423,Raheem Sterling,a,618,OpenPlay,2019,RightFoot,11803,Arsenal,Manchester City,0,3,2019-12-15 16:30:00,Bernardo Silva,Pass
+50,337731,89,MissedShots,0.8819999694824219,0.6140000152587891,0.1124460026621818,Raheem Sterling,a,618,OpenPlay,2019,LeftFoot,11803,Arsenal,Manchester City,0,3,2019-12-15 16:30:00,Kevin De Bruyne,Pass
+51,338750,24,SavedShot,0.981999969482422,0.4109999847412109,0.0594260990619659,Raheem Sterling,h,618,FromCorner,2019,RightFoot,11817,Manchester City,Leicester,3,1,2019-12-21 17:30:00,Kevin De Bruyne,Cross
+52,338759,55,BlockedShot,0.875999984741211,0.429000015258789,0.1069319993257522,Raheem Sterling,h,618,OpenPlay,2019,RightFoot,11817,Manchester City,Leicester,3,1,2019-12-21 17:30:00,Kyle Walker,Pass
+53,339694,24,Goal,0.9390000152587892,0.4779999923706055,0.6059219837188721,Raheem Sterling,a,618,SetPiece,2019,RightFoot,11832,Wolverhampton Wanderers,Manchester City,3,2,2019-12-27 19:45:00,,Rebound
+54,339693,24,SavedShot,0.885,0.5,0.7611690163612366,Raheem Sterling,a,618,Penalty,2019,RightFoot,11832,Wolverhampton Wanderers,Manchester City,3,2,2019-12-27 19:45:00,,Standard
+55,339695,28,MissedShots,0.8780000305175781,0.32,0.0639135986566543,Raheem Sterling,a,618,OpenPlay,2019,RightFoot,11832,Wolverhampton Wanderers,Manchester City,3,2,2019-12-27 19:45:00,Fernandinho,Chipped
+56,339703,49,Goal,0.874000015258789,0.6,0.3409189879894256,Raheem Sterling,a,618,OpenPlay,2019,RightFoot,11832,Wolverhampton Wanderers,Manchester City,3,2,2019-12-27 19:45:00,Kevin De Bruyne,Throughball
+57,339717,92,ShotOnPost,0.8030000305175782,0.5690000152587891,0.1221769973635673,Raheem Sterling,a,618,DirectFreekick,2019,RightFoot,11832,Wolverhampton Wanderers,Manchester City,3,2,2019-12-27 19:45:00,,Standard
+58,339953,35,BlockedShot,0.769000015258789,0.7319999694824219,0.0149831995368003,Raheem Sterling,h,618,OpenPlay,2019,RightFoot,11837,Manchester City,Sheffield United,2,0,2019-12-29 18:00:00,Bernardo Silva,Pass
+59,351891,15,MissedShots,0.960999984741211,0.515,0.1376039981842041,Raheem Sterling,h,618,FromCorner,2019,Head,11864,Manchester City,Crystal Palace,2,2,2020-01-18 15:00:00,Kevin De Bruyne,Cross
+60,351893,27,MissedShots,0.965,0.5720000076293945,0.0824446007609367,Raheem Sterling,h,618,OpenPlay,2019,Head,11864,Manchester City,Crystal Palace,2,2,2020-01-18 15:00:00,Bernardo Silva,Aerial
+61,351897,50,MissedShots,0.8830000305175781,0.595999984741211,0.0883257985115051,Raheem Sterling,h,618,OpenPlay,2019,RightFoot,11864,Manchester City,Crystal Palace,2,2,2020-01-18 15:00:00,David Silva,Pass
+62,351902,55,BlockedShot,0.865,0.349000015258789,0.1026130020618438,Raheem Sterling,h,618,OpenPlay,2019,RightFoot,11864,Manchester City,Crystal Palace,2,2,2020-01-18 15:00:00,Kevin De Bruyne,Throughball
+63,352179,18,SavedShot,0.8859999847412109,0.4670000076293945,0.5194889903068542,Raheem Sterling,a,618,OpenPlay,2019,RightFoot,11875,Sheffield United,Manchester City,0,1,2020-01-21 19:30:00,Riyad Mahrez,Pass
+64,352181,25,MissedShots,0.7909999847412109,0.6930000305175781,0.0190456993877887,Raheem Sterling,a,618,FromCorner,2019,RightFoot,11875,Sheffield United,Manchester City,0,1,2020-01-21 19:30:00,Fernandinho,Pass
+65,352191,64,MissedShots,0.9540000152587892,0.2770000076293945,0.0360395982861518,Raheem Sterling,a,618,OpenPlay,2019,RightFoot,11875,Sheffield United,Manchester City,0,1,2020-01-21 19:30:00,Fernandinho,Pass
+66,352196,84,MissedShots,0.914000015258789,0.575,0.0874854996800422,Raheem Sterling,a,618,FromCorner,2019,RightFoot,11875,Sheffield United,Manchester City,0,1,2020-01-21 19:30:00,Nicolás Otamendi,Pass
+67,352197,87,BlockedShot,0.8909999847412109,0.3359999847412109,0.1036859974265098,Raheem Sterling,a,618,OpenPlay,2019,RightFoot,11875,Sheffield United,Manchester City,0,1,2020-01-21 19:30:00,Riyad Mahrez,Pass
+68,352634,35,BlockedShot,0.921999969482422,0.4820000076293945,0.536873996257782,Raheem Sterling,a,618,OpenPlay,2019,RightFoot,11890,Tottenham,Manchester City,2,0,2020-02-02 16:30:00,Ilkay Gündogan,Pass
+69,353571,9,SavedShot,0.9,0.6580000305175782,0.0552625991404056,Raheem Sterling,a,618,OpenPlay,2019,RightFoot,11932,Manchester United,Manchester City,2,0,2020-03-08 16:30:00,Phil Foden,Chipped
+70,353586,74,MissedShots,0.919000015258789,0.5220000076293946,0.4008010029792785,Raheem Sterling,a,618,OpenPlay,2019,LeftFoot,11932,Manchester United,Manchester City,2,0,2020-03-08 16:30:00,Riyad Mahrez,Cross
+71,353588,89,SavedShot,0.8130000305175781,0.5720000076293945,0.029840599745512,Raheem Sterling,a,618,OpenPlay,2019,RightFoot,11932,Manchester United,Manchester City,2,0,2020-03-08 16:30:00,João Cancelo,Chipped
+72,364857,33,SavedShot,0.865,0.7119999694824218,0.0374873988330364,Raheem Sterling,h,618,OpenPlay,2019,RightFoot,11917,Manchester City,Arsenal,3,0,2020-06-17 19:15:00,David Silva,Pass
+73,364860,38,MissedShots,0.925,0.4,0.1280100047588348,Raheem Sterling,h,618,OpenPlay,2019,RightFoot,11917,Manchester City,Arsenal,3,0,2020-06-17 19:15:00,Kevin De Bruyne,Throughball
+74,364861,46,Goal,0.965,0.385,0.084349900484085,Raheem Sterling,h,618,OpenPlay,2019,RightFoot,11917,Manchester City,Arsenal,3,0,2020-06-17 19:15:00,,None
+75,366625,56,ShotOnPost,0.8109999847412109,0.5459999847412109,0.2823379933834076,Raheem Sterling,a,618,OpenPlay,2019,RightFoot,11946,Chelsea,Manchester City,2,1,2020-06-25 19:15:00,Riyad Mahrez,Pass
+76,366627,66,MissedShots,0.870999984741211,0.6819999694824219,0.0340030007064342,Raheem Sterling,a,618,FromCorner,2019,RightFoot,11946,Chelsea,Manchester City,2,1,2020-06-25 19:15:00,Aymeric Laporte,None
+77,368407,34,Goal,0.905,0.5540000152587891,0.1586350053548813,Raheem Sterling,h,618,OpenPlay,2019,RightFoot,11959,Manchester City,Liverpool,4,0,2020-07-02 19:15:00,Phil Foden,Pass
+78,368410,49,BlockedShot,0.8119999694824219,0.57,0.1538240015506744,Raheem Sterling,h,618,OpenPlay,2019,LeftFoot,11959,Manchester City,Liverpool,4,0,2020-07-02 19:15:00,Phil Foden,TakeOn
+79,368418,65,MissedShots,0.8969999694824219,0.419000015258789,0.3439289927482605,Raheem Sterling,h,618,OpenPlay,2019,LeftFoot,11959,Manchester City,Liverpool,4,0,2020-07-02 19:15:00,Kevin De Bruyne,Pass
+80,369222,29,MissedShots,0.8909999847412109,0.615,0.0649243965744972,Raheem Sterling,a,618,OpenPlay,2019,RightFoot,11970,Southampton,Manchester City,1,0,2020-07-05 18:00:00,,Rebound
+81,369219,29,SavedShot,0.889000015258789,0.6759999847412109,0.0592772997915744,Raheem Sterling,a,618,OpenPlay,2019,LeftFoot,11970,Southampton,Manchester City,1,0,2020-07-05 18:00:00,Gabriel Jesus,Pass
+82,369717,63,BlockedShot,0.8619999694824219,0.6359999847412109,0.0849571973085403,Raheem Sterling,h,618,OpenPlay,2019,LeftFoot,11979,Manchester City,Newcastle United,5,0,2020-07-08 17:00:00,Kevin De Bruyne,Pass
+83,369724,90,Goal,0.8819999694824219,0.4959999847412109,0.4355820119380951,Raheem Sterling,h,618,OpenPlay,2019,RightFoot,11979,Manchester City,Newcastle United,5,0,2020-07-08 17:00:00,David Silva,Pass
+84,370573,20,Goal,0.7730000305175782,0.5690000152587891,0.0299695990979671,Raheem Sterling,a,618,OpenPlay,2019,RightFoot,11985,Brighton,Manchester City,0,5,2020-07-11 19:00:00,Gabriel Jesus,HeadPass
+85,370589,50,SavedShot,0.945,0.505,0.6308919787406921,Raheem Sterling,a,618,SetPiece,2019,RightFoot,11985,Brighton,Manchester City,0,5,2020-07-11 19:00:00,Bernardo Silva,Rebound
+86,370590,52,Goal,0.958000030517578,0.519000015258789,0.6215029954910278,Raheem Sterling,a,618,OpenPlay,2019,Head,11985,Brighton,Manchester City,0,5,2020-07-11 19:00:00,Riyad Mahrez,Cross
+87,370593,60,MissedShots,0.749000015258789,0.4970000076293945,0.0293093007057905,Raheem Sterling,a,618,OpenPlay,2019,RightFoot,11985,Brighton,Manchester City,0,5,2020-07-11 19:00:00,Kevin De Bruyne,Pass
+88,370596,80,Goal,0.9590000152587892,0.5820000076293945,0.0534864999353885,Raheem Sterling,a,618,OpenPlay,2019,Head,11985,Brighton,Manchester City,0,5,2020-07-11 19:00:00,,Aerial
+89,372979,21,BlockedShot,0.8190000152587891,0.7269999694824218,0.0251898001879453,Raheem Sterling,a,618,OpenPlay,2019,RightFoot,12011,Watford,Manchester City,0,4,2020-07-21 17:00:00,Rodri,Pass
+90,372985,30,Goal,0.89,0.3670000076293945,0.050255998969078,Raheem Sterling,a,618,OpenPlay,2019,RightFoot,12011,Watford,Manchester City,0,4,2020-07-21 17:00:00,Kyle Walker,Cross
+91,372987,39,Goal,0.9519999694824218,0.5220000076293946,0.6477680206298828,Raheem Sterling,a,618,SetPiece,2019,LeftFoot,12011,Watford,Manchester City,0,4,2020-07-21 17:00:00,,Rebound
+92,372986,39,SavedShot,0.885,0.5,0.7611690163612366,Raheem Sterling,a,618,Penalty,2019,RightFoot,12011,Watford,Manchester City,0,4,2020-07-21 17:00:00,,Standard
+93,372992,46,SavedShot,0.8230000305175781,0.2789999961853027,0.0357359014451503,Raheem Sterling,a,618,OpenPlay,2019,RightFoot,12011,Watford,Manchester City,0,4,2020-07-21 17:00:00,Kevin De Bruyne,Pass
+94,372996,62,SavedShot,0.8809999847412109,0.34,0.2263070046901703,Raheem Sterling,a,618,OpenPlay,2019,RightFoot,12011,Watford,Manchester City,0,4,2020-07-21 17:00:00,Kevin De Bruyne,Pass
+95,373738,6,MissedShots,0.8719999694824219,0.4670000076293945,0.1108250021934509,Raheem Sterling,h,618,OpenPlay,2019,LeftFoot,12017,Manchester City,Norwich,5,0,2020-07-26 15:00:00,David Silva,Pass
+96,373741,22,MissedShots,0.950999984741211,0.4779999923706055,0.1183879971504211,Raheem Sterling,h,618,OpenPlay,2019,Head,12017,Manchester City,Norwich,5,0,2020-07-26 15:00:00,Phil Foden,Aerial
+97,373759,58,MissedShots,0.894000015258789,0.649000015258789,0.1215609982609748,Raheem Sterling,h,618,OpenPlay,2019,LeftFoot,12017,Manchester City,Norwich,5,0,2020-07-26 15:00:00,Gabriel Jesus,Pass
+98,373762,73,BlockedShot,0.8959999847412109,0.5929999923706055,0.1334789991378784,Raheem Sterling,h,618,OpenPlay,2019,RightFoot,12017,Manchester City,Norwich,5,0,2020-07-26 15:00:00,Kyle Walker,Pass
+99,373765,78,Goal,0.938000030517578,0.5879999923706055,0.5438349843025208,Raheem Sterling,h,618,OpenPlay,2019,LeftFoot,12017,Manchester City,Norwich,5,0,2020-07-26 15:00:00,Kevin De Bruyne,Throughball
+0,309927,37,SavedShot,0.855,0.67,0.048480600118637,Kevin De Bruyne,a,447,OpenPlay,2019,RightFoot,11644,West Ham,Manchester City,0,5,2019-08-10 12:30:00,David Silva,Pass
+1,310769,7,SavedShot,0.8490000152587891,0.3139999961853027,0.0419046990573406,Kevin De Bruyne,h,447,OpenPlay,2019,LeftFoot,11659,Manchester City,Tottenham,2,2,2019-08-17 17:30:00,Rodri,Pass
+2,310777,35,MissedShots,0.926999969482422,0.3160000038146973,0.0993940010666847,Kevin De Bruyne,h,447,OpenPlay,2019,RightFoot,11659,Manchester City,Tottenham,2,2,2019-08-17 17:30:00,,TakeOn
+3,310781,47,BlockedShot,0.8130000305175781,0.4879999923706055,0.0716644003987312,Kevin De Bruyne,h,447,OpenPlay,2019,RightFoot,11659,Manchester City,Tottenham,2,2,2019-08-17 17:30:00,Kyle Walker,Pass
+4,310783,50,MissedShots,0.815,0.3570000076293945,0.0530720986425876,Kevin De Bruyne,h,447,OpenPlay,2019,LeftFoot,11659,Manchester City,Tottenham,2,2,2019-08-17 17:30:00,Sergio Agüero,Pass
+5,312918,14,MissedShots,0.8630000305175781,0.565,0.0982932969927787,Kevin De Bruyne,a,447,OpenPlay,2019,LeftFoot,11671,Bournemouth,Manchester City,1,3,2019-08-25 14:00:00,Oleksandr Zinchenko,Pass
+6,312922,23,BlockedShot,0.784000015258789,0.4029999923706054,0.0376351997256279,Kevin De Bruyne,a,447,OpenPlay,2019,RightFoot,11671,Bournemouth,Manchester City,1,3,2019-08-25 14:00:00,Sergio Agüero,Pass
+7,312933,52,MissedShots,0.874000015258789,0.424000015258789,0.1144189983606338,Kevin De Bruyne,a,447,OpenPlay,2019,RightFoot,11671,Bournemouth,Manchester City,1,3,2019-08-25 14:00:00,Sergio Agüero,Pass
+8,315851,1,Goal,0.9209999847412108,0.524000015258789,0.5261250138282776,Kevin De Bruyne,h,447,OpenPlay,2019,RightFoot,11678,Manchester City,Brighton,4,0,2019-08-31 15:00:00,David Silva,Pass
+9,315855,20,MissedShots,0.7780000305175782,0.385,0.037339698523283,Kevin De Bruyne,h,447,OpenPlay,2019,RightFoot,11678,Manchester City,Brighton,4,0,2019-08-31 15:00:00,David Silva,Pass
+10,315863,50,MissedShots,0.769000015258789,0.4,0.0256932005286216,Kevin De Bruyne,h,447,OpenPlay,2019,LeftFoot,11678,Manchester City,Brighton,4,0,2019-08-31 15:00:00,Riyad Mahrez,Pass
+11,315867,65,MissedShots,0.8919999694824219,0.3659999847412109,0.1079529970884323,Kevin De Bruyne,h,447,OpenPlay,2019,RightFoot,11678,Manchester City,Brighton,4,0,2019-08-31 15:00:00,Riyad Mahrez,Chipped
+12,320447,27,MissedShots,0.8540000152587891,0.3479999923706054,0.0673452988266944,Kevin De Bruyne,h,447,OpenPlay,2019,LeftFoot,11695,Manchester City,Watford,8,0,2019-09-21 14:00:00,Riyad Mahrez,Pass
+13,320454,53,MissedShots,0.7290000152587891,0.64,0.0426798984408378,Kevin De Bruyne,h,447,DirectFreekick,2019,RightFoot,11695,Manchester City,Watford,8,0,2019-09-21 14:00:00,,Standard
+14,320463,84,Goal,0.8540000152587891,0.6880000305175781,0.0624203011393547,Kevin De Bruyne,h,447,OpenPlay,2019,RightFoot,11695,Manchester City,Watford,8,0,2019-09-21 14:00:00,Riyad Mahrez,Pass
+15,320464,87,MissedShots,0.865,0.555,0.4266420006752014,Kevin De Bruyne,h,447,OpenPlay,2019,RightFoot,11695,Manchester City,Watford,8,0,2019-09-21 14:00:00,Sergio Agüero,TakeOn
+16,322848,37,BlockedShot,0.7669999694824219,0.5890000152587891,0.0276292003691196,Kevin De Bruyne,a,447,OpenPlay,2019,RightFoot,11711,Everton,Manchester City,1,3,2019-09-28 16:30:00,Rodri,Pass
+17,322854,48,MissedShots,0.955,0.3459999847412109,0.0986687019467353,Kevin De Bruyne,a,447,OpenPlay,2019,RightFoot,11711,Everton,Manchester City,1,3,2019-09-28 16:30:00,Riyad Mahrez,TakeOn
+18,325894,80,ShotOnPost,0.9569999694824218,0.4329999923706055,0.5020130276679993,Kevin De Bruyne,a,447,OpenPlay,2019,Head,11726,Crystal Palace,Manchester City,0,2,2019-10-19 17:30:00,Ilkay Gündogan,Cross
+19,326918,9,MissedShots,0.735,0.6090000152587891,0.0131040001288056,Kevin De Bruyne,h,447,OpenPlay,2019,RightFoot,11737,Manchester City,Aston Villa,3,0,2019-10-26 12:30:00,,None
+20,326934,59,MissedShots,0.82,0.3060000038146973,0.0289002992212772,Kevin De Bruyne,h,447,OpenPlay,2019,LeftFoot,11737,Manchester City,Aston Villa,3,0,2019-10-26 12:30:00,Gabriel Jesus,Pass
+21,326936,64,Goal,0.8109999847412109,0.8669999694824219,0.0209651999175548,Kevin De Bruyne,h,447,FromCorner,2019,RightFoot,11737,Manchester City,Aston Villa,3,0,2019-10-26 12:30:00,Benjamin Mendy,Pass
+22,329197,10,BlockedShot,0.8580000305175781,0.3070000076293945,0.0164512004703283,Kevin De Bruyne,h,447,OpenPlay,2019,RightFoot,11749,Manchester City,Southampton,2,1,2019-11-02 15:00:00,,Aerial
+23,329200,18,BlockedShot,0.750999984741211,0.6090000152587891,0.0573576018214225,Kevin De Bruyne,h,447,DirectFreekick,2019,RightFoot,11749,Manchester City,Southampton,2,1,2019-11-02 15:00:00,,Standard
+24,329204,25,BlockedShot,0.8569999694824219,0.4379999923706055,0.027930399402976,Kevin De Bruyne,h,447,OpenPlay,2019,LeftFoot,11749,Manchester City,Southampton,2,1,2019-11-02 15:00:00,,Aerial
+25,329218,79,MissedShots,0.8540000152587891,0.5879999923706055,0.0744372978806495,Kevin De Bruyne,h,447,SetPiece,2019,RightFoot,11749,Manchester City,Southampton,2,1,2019-11-02 15:00:00,Ilkay Gündogan,Pass
+26,331561,47,BlockedShot,0.8830000305175781,0.7280000305175781,0.0248949006199836,Kevin De Bruyne,a,447,FromCorner,2019,RightFoot,11755,Liverpool,Manchester City,3,1,2019-11-10 16:30:00,Bernardo Silva,Pass
+27,331566,58,BlockedShot,0.7880000305175782,0.649000015258789,0.0270665995776653,Kevin De Bruyne,a,447,OpenPlay,2019,RightFoot,11755,Liverpool,Manchester City,3,1,2019-11-10 16:30:00,Ilkay Gündogan,Pass
+28,332397,3,MissedShots,0.916999969482422,0.3240000152587891,0.0688145011663436,Kevin De Bruyne,h,447,OpenPlay,2019,RightFoot,11769,Manchester City,Chelsea,2,1,2019-11-23 17:30:00,Sergio Agüero,Pass
+29,332406,28,Goal,0.8219999694824218,0.4709999847412109,0.1446319967508316,Kevin De Bruyne,h,447,OpenPlay,2019,LeftFoot,11769,Manchester City,Chelsea,2,1,2019-11-23 17:30:00,,TakeOn
+30,332408,35,MissedShots,0.799000015258789,0.3670000076293945,0.0281038992106914,Kevin De Bruyne,h,447,OpenPlay,2019,LeftFoot,11769,Manchester City,Chelsea,2,1,2019-11-23 17:30:00,Riyad Mahrez,Pass
+31,333425,46,SavedShot,0.8219999694824218,0.54,0.0645261034369468,Kevin De Bruyne,a,447,OpenPlay,2019,RightFoot,11777,Newcastle United,Manchester City,2,2,2019-11-30 12:30:00,Raheem Sterling,Pass
+32,333429,54,MissedShots,0.7859999847412109,0.6990000152587891,0.0209026001393795,Kevin De Bruyne,a,447,OpenPlay,2019,RightFoot,11777,Newcastle United,Manchester City,2,2,2019-11-30 12:30:00,David Silva,Pass
+33,333434,67,SavedShot,0.9159999847412108,0.6120000076293945,0.0893651992082595,Kevin De Bruyne,a,447,OpenPlay,2019,LeftFoot,11777,Newcastle United,Manchester City,2,2,2019-11-30 12:30:00,,Rebound
+34,333438,76,BlockedShot,0.7680000305175781,0.5029999923706054,0.0280856993049383,Kevin De Bruyne,a,447,OpenPlay,2019,LeftFoot,11777,Newcastle United,Manchester City,2,2,2019-11-30 12:30:00,Phil Foden,Pass
+35,333439,78,BlockedShot,0.7559999847412109,0.489000015258789,0.0245667994022369,Kevin De Bruyne,a,447,OpenPlay,2019,LeftFoot,11777,Newcastle United,Manchester City,2,2,2019-11-30 12:30:00,Ilkay Gündogan,Pass
+36,333440,81,Goal,0.785,0.5990000152587891,0.0316679999232292,Kevin De Bruyne,a,447,OpenPlay,2019,RightFoot,11777,Newcastle United,Manchester City,2,2,2019-11-30 12:30:00,,None
+37,334864,11,SavedShot,0.7909999847412109,0.575,0.0798929035663604,Kevin De Bruyne,a,447,OpenPlay,2019,LeftFoot,11784,Burnley,Manchester City,1,4,2019-12-03 20:15:00,David Silva,BallTouch
+38,334868,35,SavedShot,0.77,0.4579999923706054,0.0341600999236106,Kevin De Bruyne,a,447,OpenPlay,2019,LeftFoot,11784,Burnley,Manchester City,1,4,2019-12-03 20:15:00,David Silva,Chipped
+39,334875,57,MissedShots,0.754000015258789,0.419000015258789,0.027165699750185,Kevin De Bruyne,a,447,OpenPlay,2019,RightFoot,11784,Burnley,Manchester City,1,4,2019-12-03 20:15:00,Angelino,Pass
+40,335815,1,BlockedShot,0.9130000305175782,0.664000015258789,0.1022239997982978,Kevin De Bruyne,h,447,OpenPlay,2019,LeftFoot,11797,Manchester City,Manchester United,1,2,2019-12-07 17:30:00,Raheem Sterling,Pass
+41,335817,6,MissedShots,0.8809999847412109,0.3390000152587891,0.0559550002217292,Kevin De Bruyne,h,447,OpenPlay,2019,RightFoot,11797,Manchester City,Manchester United,1,2,2019-12-07 17:30:00,Bernardo Silva,Pass
+42,335831,39,MissedShots,0.8180000305175781,0.79,0.0486155003309249,Kevin De Bruyne,h,447,DirectFreekick,2019,RightFoot,11797,Manchester City,Manchester United,1,2,2019-12-07 17:30:00,,Standard
+43,335834,54,BlockedShot,0.91,0.38,0.10275399684906,Kevin De Bruyne,h,447,OpenPlay,2019,RightFoot,11797,Manchester City,Manchester United,1,2,2019-12-07 17:30:00,Rodri,Pass
+44,337713,1,Goal,0.875,0.3729999923706055,0.076793797314167,Kevin De Bruyne,a,447,OpenPlay,2019,RightFoot,11803,Arsenal,Manchester City,0,3,2019-12-15 16:30:00,Gabriel Jesus,Pass
+45,337718,39,Goal,0.805,0.4979999923706055,0.0676603019237518,Kevin De Bruyne,a,447,OpenPlay,2019,LeftFoot,11803,Arsenal,Manchester City,0,3,2019-12-15 16:30:00,Phil Foden,TakeOn
+46,337719,42,SavedShot,0.7559999847412109,0.4929999923706055,0.0291223004460334,Kevin De Bruyne,a,447,OpenPlay,2019,RightFoot,11803,Arsenal,Manchester City,0,3,2019-12-15 16:30:00,Phil Foden,BallTouch
+47,337724,54,BlockedShot,0.8330000305175781,0.5429999923706055,0.090022400021553,Kevin De Bruyne,a,447,OpenPlay,2019,LeftFoot,11803,Arsenal,Manchester City,0,3,2019-12-15 16:30:00,Ilkay Gündogan,HeadPass
+48,337729,76,SavedShot,0.765,0.4929999923706055,0.0444708988070488,Kevin De Bruyne,a,447,OpenPlay,2019,RightFoot,11803,Arsenal,Manchester City,0,3,2019-12-15 16:30:00,Rodri,Pass
+49,338745,13,ShotOnPost,0.845999984741211,0.3160000038146973,0.0337167009711265,Kevin De Bruyne,h,447,OpenPlay,2019,RightFoot,11817,Manchester City,Leicester,3,1,2019-12-21 17:30:00,Riyad Mahrez,Pass
+50,338754,36,BlockedShot,0.8430000305175781,0.4679999923706054,0.0719349011778831,Kevin De Bruyne,h,447,OpenPlay,2019,RightFoot,11817,Manchester City,Leicester,3,1,2019-12-21 17:30:00,Raheem Sterling,Pass
+51,338755,39,SavedShot,0.8109999847412109,0.4959999847412109,0.0617786012589931,Kevin De Bruyne,h,447,OpenPlay,2019,RightFoot,11817,Manchester City,Leicester,3,1,2019-12-21 17:30:00,Raheem Sterling,Pass
+52,338767,74,SavedShot,0.924000015258789,0.7290000152587891,0.0626766011118888,Kevin De Bruyne,h,447,OpenPlay,2019,LeftFoot,11817,Manchester City,Leicester,3,1,2019-12-21 17:30:00,Benjamin Mendy,Pass
+53,339708,65,MissedShots,0.8430000305175781,0.7340000152587891,0.0491356998682022,Kevin De Bruyne,a,447,OpenPlay,2019,RightFoot,11832,Wolverhampton Wanderers,Manchester City,3,2,2019-12-27 19:45:00,Benjamin Mendy,TakeOn
+54,339948,20,BlockedShot,0.7580000305175781,0.4459999847412109,0.0237473007291555,Kevin De Bruyne,h,447,OpenPlay,2019,LeftFoot,11837,Manchester City,Sheffield United,2,0,2019-12-29 18:00:00,Oleksandr Zinchenko,Pass
+55,339958,46,MissedShots,0.7069999694824218,0.519000015258789,0.0144734000787138,Kevin De Bruyne,h,447,OpenPlay,2019,RightFoot,11837,Manchester City,Sheffield United,2,0,2019-12-29 18:00:00,Bernardo Silva,Pass
+56,339962,54,SavedShot,0.74,0.5020000076293946,0.0257616993039846,Kevin De Bruyne,h,447,OpenPlay,2019,RightFoot,11837,Manchester City,Sheffield United,2,0,2019-12-29 18:00:00,Riyad Mahrez,Pass
+57,339964,74,MissedShots,0.7769999694824219,0.515,0.0916929021477699,Kevin De Bruyne,h,447,DirectFreekick,2019,RightFoot,11837,Manchester City,Sheffield United,2,0,2019-12-29 18:00:00,,Standard
+58,339966,81,Goal,0.86,0.5620000076293945,0.1124399974942207,Kevin De Bruyne,h,447,OpenPlay,2019,RightFoot,11837,Manchester City,Sheffield United,2,0,2019-12-29 18:00:00,Riyad Mahrez,Pass
+59,351589,80,BlockedShot,0.7569999694824219,0.3209999847412109,0.0190979000180959,Kevin De Bruyne,h,447,OpenPlay,2019,LeftFoot,11848,Manchester City,Everton,2,1,2020-01-01 17:30:00,João Cancelo,Pass
+60,351885,2,MissedShots,0.769000015258789,0.6029999923706054,0.0224054995924234,Kevin De Bruyne,h,447,OpenPlay,2019,LeftFoot,11864,Manchester City,Crystal Palace,2,2,2020-01-18 15:00:00,Benjamin Mendy,Pass
+61,351888,13,ShotOnPost,0.7519999694824219,0.590999984741211,0.0603669993579387,Kevin De Bruyne,h,447,DirectFreekick,2019,RightFoot,11864,Manchester City,Crystal Palace,2,2,2020-01-18 15:00:00,,Standard
+62,351903,56,BlockedShot,0.7090000152587891,0.415,0.014305300079286,Kevin De Bruyne,h,447,OpenPlay,2019,RightFoot,11864,Manchester City,Crystal Palace,2,2,2020-01-18 15:00:00,Ilkay Gündogan,Pass
+63,351906,59,BlockedShot,0.7880000305175782,0.33,0.0257188007235527,Kevin De Bruyne,h,447,OpenPlay,2019,LeftFoot,11864,Manchester City,Crystal Palace,2,2,2020-01-18 15:00:00,João Cancelo,Pass
+64,351909,69,BlockedShot,0.774000015258789,0.61,0.0261663999408483,Kevin De Bruyne,h,447,OpenPlay,2019,RightFoot,11864,Manchester City,Crystal Palace,2,2,2020-01-18 15:00:00,Ilkay Gündogan,Pass
+65,351912,84,MissedShots,0.735999984741211,0.5790000152587891,0.018912699073553,Kevin De Bruyne,h,447,OpenPlay,2019,RightFoot,11864,Manchester City,Crystal Palace,2,2,2020-01-18 15:00:00,John Stones,Pass
+66,352182,30,BlockedShot,0.7680000305175781,0.515,0.0229518990963697,Kevin De Bruyne,a,447,OpenPlay,2019,RightFoot,11875,Sheffield United,Manchester City,0,1,2020-01-21 19:30:00,Gabriel Jesus,Pass
+67,352186,44,MissedShots,0.779000015258789,0.6630000305175782,0.0212277993559837,Kevin De Bruyne,a,447,OpenPlay,2019,RightFoot,11875,Sheffield United,Manchester City,0,1,2020-01-21 19:30:00,Oleksandr Zinchenko,Pass
+68,352628,7,MissedShots,0.955,0.3270000076293945,0.0780633017420768,Kevin De Bruyne,a,447,OpenPlay,2019,RightFoot,11890,Tottenham,Manchester City,2,0,2020-02-02 16:30:00,Riyad Mahrez,Pass
+69,352631,24,SavedShot,0.7390000152587891,0.5220000076293946,0.0215840991586446,Kevin De Bruyne,a,447,OpenPlay,2019,RightFoot,11890,Tottenham,Manchester City,2,0,2020-02-02 16:30:00,Riyad Mahrez,Pass
+70,352646,88,SavedShot,0.9309999847412108,0.8319999694824218,0.0103700002655386,Kevin De Bruyne,a,447,OpenPlay,2019,RightFoot,11890,Tottenham,Manchester City,2,0,2020-02-02 16:30:00,,Rebound
+71,352649,94,BlockedShot,0.9230000305175782,0.7090000152587891,0.0333985984325408,Kevin De Bruyne,a,447,OpenPlay,2019,RightFoot,11890,Tottenham,Manchester City,2,0,2020-02-02 16:30:00,,None
+72,352875,12,SavedShot,0.7680000305175781,0.4,0.0242503006011247,Kevin De Bruyne,h,447,OpenPlay,2019,RightFoot,11898,Manchester City,West Ham,2,0,2020-02-19 19:30:00,Gabriel Jesus,Pass
+73,352892,61,Goal,0.9309999847412108,0.3390000152587891,0.1016120016574859,Kevin De Bruyne,h,447,OpenPlay,2019,RightFoot,11898,Manchester City,West Ham,2,0,2020-02-19 19:30:00,Bernardo Silva,Pass
+74,353033,23,MissedShots,0.8130000305175781,0.47,0.0497207008302211,Kevin De Bruyne,a,447,OpenPlay,2019,RightFoot,11904,Leicester,Manchester City,0,1,2020-02-22 17:30:00,Riyad Mahrez,Pass
+75,353035,32,MissedShots,0.7069999694824218,0.5640000152587891,0.0393562987446785,Kevin De Bruyne,a,447,DirectFreekick,2019,RightFoot,11904,Leicester,Manchester City,0,1,2020-02-22 17:30:00,,Standard
+76,353042,52,SavedShot,0.85,0.6140000152587891,0.0736572965979576,Kevin De Bruyne,a,447,OpenPlay,2019,RightFoot,11904,Leicester,Manchester City,0,1,2020-02-22 17:30:00,Rodri,Pass
+77,364852,3,SavedShot,0.8130000305175781,0.6309999847412109,0.1087500005960464,Kevin De Bruyne,h,447,DirectFreekick,2019,RightFoot,11917,Manchester City,Arsenal,3,0,2020-06-17 19:15:00,,Standard
+78,364856,31,BlockedShot,0.735,0.5990000152587891,0.0186515003442764,Kevin De Bruyne,h,447,OpenPlay,2019,RightFoot,11917,Manchester City,Arsenal,3,0,2020-06-17 19:15:00,Ilkay Gündogan,Pass
+79,364863,47,BlockedShot,0.855999984741211,0.3029999923706055,0.0515197999775409,Kevin De Bruyne,h,447,OpenPlay,2019,RightFoot,11917,Manchester City,Arsenal,3,0,2020-06-17 19:15:00,Raheem Sterling,Pass
+80,364864,50,Goal,0.885,0.5,0.7611690163612366,Kevin De Bruyne,h,447,Penalty,2019,RightFoot,11917,Manchester City,Arsenal,3,0,2020-06-17 19:15:00,,Standard
+81,364866,68,SavedShot,0.906999969482422,0.3659999847412109,0.1135609969496727,Kevin De Bruyne,h,447,OpenPlay,2019,RightFoot,11917,Manchester City,Arsenal,3,0,2020-06-17 19:15:00,Raheem Sterling,Pass
+82,366018,67,MissedShots,0.7609999847412109,0.62,0.0322310999035835,Kevin De Bruyne,h,447,OpenPlay,2019,RightFoot,11939,Manchester City,Burnley,5,0,2020-06-22 19:00:00,Oleksandr Zinchenko,Pass
+83,366613,24,BlockedShot,0.7440000152587891,0.3879999923706054,0.0168002005666494,Kevin De Bruyne,a,447,SetPiece,2019,LeftFoot,11946,Chelsea,Manchester City,2,1,2020-06-25 19:15:00,Riyad Mahrez,Pass
+84,366623,54,Goal,0.7119999694824218,0.5309999847412109,0.0423895008862018,Kevin De Bruyne,a,447,DirectFreekick,2019,RightFoot,11946,Chelsea,Manchester City,2,1,2020-06-25 19:15:00,,Standard
+85,368402,9,BlockedShot,0.8590000152587891,0.3509999847412109,0.0804395005106926,Kevin De Bruyne,h,447,OpenPlay,2019,RightFoot,11959,Manchester City,Liverpool,4,0,2020-07-02 19:15:00,,TakeOn
+86,368405,24,Goal,0.885,0.5,0.7611690163612366,Kevin De Bruyne,h,447,Penalty,2019,RightFoot,11959,Manchester City,Liverpool,4,0,2020-07-02 19:15:00,,Standard
+87,368416,60,MissedShots,0.78,0.629000015258789,0.0261404998600482,Kevin De Bruyne,h,447,OpenPlay,2019,RightFoot,11959,Manchester City,Liverpool,4,0,2020-07-02 19:15:00,Riyad Mahrez,Pass
+88,368424,81,MissedShots,0.8440000152587891,0.5520000076293945,0.2179110050201416,Kevin De Bruyne,h,447,OpenPlay,2019,Head,11959,Manchester City,Liverpool,4,0,2020-07-02 19:15:00,Riyad Mahrez,Chipped
+89,369238,73,MissedShots,0.870999984741211,0.6020000076293945,0.0798572972416877,Kevin De Bruyne,a,447,OpenPlay,2019,RightFoot,11970,Southampton,Manchester City,1,0,2020-07-05 18:00:00,David Silva,Pass
+90,369241,76,MissedShots,0.8019999694824219,0.3370000076293945,0.0122314998880028,Kevin De Bruyne,a,447,OpenPlay,2019,RightFoot,11970,Southampton,Manchester City,1,0,2020-07-05 18:00:00,Bernardo Silva,Chipped
+91,369247,96,BlockedShot,0.7809999847412109,0.5790000152587891,0.0876538977026939,Kevin De Bruyne,a,447,DirectFreekick,2019,RightFoot,11970,Southampton,Manchester City,1,0,2020-07-05 18:00:00,,Standard
+92,369712,53,BlockedShot,0.759000015258789,0.56,0.0259217005223035,Kevin De Bruyne,h,447,OpenPlay,2019,RightFoot,11979,Manchester City,Newcastle United,5,0,2020-07-08 17:00:00,Gabriel Jesus,Pass
+93,370587,50,ShotOnPost,0.779000015258789,0.705,0.0546488985419273,Kevin De Bruyne,a,447,DirectFreekick,2019,RightFoot,11985,Brighton,Manchester City,0,5,2020-07-11 19:00:00,,Standard
+94,372988,42,BlockedShot,0.8769999694824219,0.7030000305175781,0.0668592005968093,Kevin De Bruyne,a,447,OpenPlay,2019,LeftFoot,12011,Watford,Manchester City,0,4,2020-07-21 17:00:00,João Cancelo,Pass
+95,372989,45,MissedShots,0.9130000305175782,0.6170000076293946,0.1313070058822631,Kevin De Bruyne,a,447,OpenPlay,2019,RightFoot,12011,Watford,Manchester City,0,4,2020-07-21 17:00:00,Bernardo Silva,Pass
+96,372995,60,SavedShot,0.745,0.3060000038146973,0.0423359014093875,Kevin De Bruyne,a,447,DirectFreekick,2019,RightFoot,12011,Watford,Manchester City,0,4,2020-07-21 17:00:00,,Standard
+97,373742,28,BlockedShot,0.7959999847412109,0.3420000076293945,0.0487201996147632,Kevin De Bruyne,h,447,OpenPlay,2019,LeftFoot,12017,Manchester City,Norwich,5,0,2020-07-26 15:00:00,Eric Garcia,TakeOn
+98,373752,45,Goal,0.789000015258789,0.6790000152587891,0.0300406999886035,Kevin De Bruyne,h,447,OpenPlay,2019,RightFoot,12017,Manchester City,Norwich,5,0,2020-07-26 15:00:00,Kyle Walker,Pass
+99,373771,89,Goal,0.895,0.6719999694824219,0.0456147007644176,Kevin De Bruyne,h,447,OpenPlay,2019,RightFoot,12017,Manchester City,Norwich,5,0,2020-07-26 15:00:00,,Rebound
+0,309902,30,SavedShot,0.8780000305175781,0.555,0.1120439991354942,Roberto Firmino,h,482,OpenPlay,2019,LeftFoot,11643,Liverpool,Norwich,4,1,2019-08-09 20:00:00,Trent Alexander-Arnold,Cross
+1,309905,46,BlockedShot,0.8480000305175781,0.6940000152587891,0.045728400349617,Roberto Firmino,h,482,OpenPlay,2019,LeftFoot,11643,Liverpool,Norwich,4,1,2019-08-09 20:00:00,Andrew Robertson,Pass
+2,309907,47,ShotOnPost,0.9640000152587892,0.5420000076293945,0.6854050159454346,Roberto Firmino,h,482,OpenPlay,2019,LeftFoot,11643,Liverpool,Norwich,4,1,2019-08-09 20:00:00,Trent Alexander-Arnold,Pass
+3,309914,70,BlockedShot,0.835999984741211,0.4820000076293945,0.0952764973044395,Roberto Firmino,h,482,OpenPlay,2019,RightFoot,11643,Liverpool,Norwich,4,1,2019-08-09 20:00:00,Mohamed Salah,Pass
+4,310457,64,MissedShots,0.875999984741211,0.5429999923706055,0.3586080074310303,Roberto Firmino,a,482,OpenPlay,2019,RightFoot,11658,Southampton,Liverpool,1,2,2019-08-17 15:00:00,Sadio Mané,Pass
+5,310459,70,Goal,0.835,0.505,0.0879155993461608,Roberto Firmino,a,482,OpenPlay,2019,RightFoot,11658,Southampton,Liverpool,1,2,2019-08-17 15:00:00,Sadio Mané,TakeOn
+6,312705,22,BlockedShot,0.8569999694824219,0.5879999923706055,0.0922447964549064,Roberto Firmino,h,482,OpenPlay,2019,LeftFoot,11670,Liverpool,Arsenal,3,1,2019-08-24 17:30:00,Sadio Mané,Pass
+7,312713,39,BlockedShot,0.7769999694824219,0.44,0.0346702001988887,Roberto Firmino,h,482,OpenPlay,2019,LeftFoot,11670,Liverpool,Arsenal,3,1,2019-08-24 17:30:00,Trent Alexander-Arnold,BallRecovery
+8,312717,46,BlockedShot,0.7869999694824219,0.580999984741211,0.0453631989657878,Roberto Firmino,h,482,OpenPlay,2019,RightFoot,11670,Liverpool,Arsenal,3,1,2019-08-24 17:30:00,Fabinho,Pass
+9,312723,55,BlockedShot,0.7769999694824219,0.6229999923706054,0.025043100118637,Roberto Firmino,h,482,OpenPlay,2019,RightFoot,11670,Liverpool,Arsenal,3,1,2019-08-24 17:30:00,Andrew Robertson,Pass
+10,312727,61,SavedShot,0.850999984741211,0.6430000305175781,0.0887745022773742,Roberto Firmino,h,482,OpenPlay,2019,LeftFoot,11670,Liverpool,Arsenal,3,1,2019-08-24 17:30:00,Sadio Mané,Pass
+11,312729,68,BlockedShot,0.8430000305175781,0.439000015258789,0.0761118978261947,Roberto Firmino,h,482,OpenPlay,2019,LeftFoot,11670,Liverpool,Arsenal,3,1,2019-08-24 17:30:00,,None
+12,316007,22,BlockedShot,0.8,0.5179999923706055,0.0639908984303474,Roberto Firmino,a,482,OpenPlay,2019,LeftFoot,11680,Burnley,Liverpool,0,3,2019-08-31 17:30:00,,TakeOn
+13,316009,24,SavedShot,0.8859999847412109,0.4820000076293945,0.0153847001492977,Roberto Firmino,a,482,FromCorner,2019,Head,11680,Burnley,Liverpool,0,3,2019-08-31 17:30:00,Mohamed Salah,Aerial
+14,316015,57,BlockedShot,0.915,0.4679999923706054,0.1218750029802322,Roberto Firmino,a,482,OpenPlay,2019,LeftFoot,11680,Burnley,Liverpool,0,3,2019-08-31 17:30:00,,Tackle
+15,316018,63,BlockedShot,0.911999969482422,0.61,0.1207199990749359,Roberto Firmino,a,482,OpenPlay,2019,RightFoot,11680,Burnley,Liverpool,0,3,2019-08-31 17:30:00,Jordan Henderson,Chipped
+16,316023,79,Goal,0.8119999694824219,0.4370000076293945,0.1034889966249466,Roberto Firmino,a,482,OpenPlay,2019,RightFoot,11680,Burnley,Liverpool,0,3,2019-08-31 17:30:00,Mohamed Salah,Pass
+17,317040,60,SavedShot,0.89,0.4429999923706054,0.0779187008738517,Roberto Firmino,h,482,OpenPlay,2019,Head,11683,Liverpool,Newcastle United,3,1,2019-09-14 11:30:00,Trent Alexander-Arnold,Cross
+18,317043,62,MissedShots,0.906999969482422,0.4709999847412109,0.0262270998209714,Roberto Firmino,h,482,FromCorner,2019,Head,11683,Liverpool,Newcastle United,3,1,2019-09-14 11:30:00,Trent Alexander-Arnold,Aerial
+19,321266,29,Goal,0.9459999847412108,0.505,0.4955889880657196,Roberto Firmino,a,482,SetPiece,2019,Head,11701,Chelsea,Liverpool,1,2,2019-09-22 15:30:00,Andrew Robertson,Aerial
+20,321270,46,SavedShot,0.9290000152587892,0.61,0.2197300046682357,Roberto Firmino,a,482,FromCorner,2019,RightFoot,11701,Chelsea,Liverpool,1,2,2019-09-22 15:30:00,Trent Alexander-Arnold,Cross
+21,324093,32,MissedShots,0.950999984741211,0.5479999923706055,0.4919919967651367,Roberto Firmino,h,482,OpenPlay,2019,LeftFoot,11715,Liverpool,Leicester,2,1,2019-10-05 15:00:00,Trent Alexander-Arnold,Cross
+22,324101,64,MissedShots,0.8680000305175781,0.3829999923706054,0.0970825031399726,Roberto Firmino,h,482,OpenPlay,2019,RightFoot,11715,Liverpool,Leicester,2,1,2019-10-05 15:00:00,Trent Alexander-Arnold,Pass
+23,324105,75,BlockedShot,0.8730000305175781,0.325,0.052564300596714,Roberto Firmino,h,482,OpenPlay,2019,RightFoot,11715,Liverpool,Leicester,2,1,2019-10-05 15:00:00,Mohamed Salah,Pass
+24,326441,9,MissedShots,0.9590000152587892,0.7090000152587891,0.0524241998791694,Roberto Firmino,a,482,OpenPlay,2019,LeftFoot,11729,Manchester United,Liverpool,1,1,2019-10-20 16:30:00,Sadio Mané,HeadPass
+25,326446,28,MissedShots,0.8640000152587891,0.4329999923706055,0.0736474022269249,Roberto Firmino,a,482,OpenPlay,2019,RightFoot,11729,Manchester United,Liverpool,1,1,2019-10-20 16:30:00,Trent Alexander-Arnold,Chipped
+26,326447,33,SavedShot,0.860999984741211,0.4279999923706055,0.1290169954299926,Roberto Firmino,a,482,OpenPlay,2019,RightFoot,11729,Manchester United,Liverpool,1,1,2019-10-20 16:30:00,Sadio Mané,Pass
+27,326453,76,SavedShot,0.8769999694824219,0.524000015258789,0.0511073991656303,Roberto Firmino,a,482,SetPiece,2019,Head,11729,Manchester United,Liverpool,1,1,2019-10-20 16:30:00,Trent Alexander-Arnold,Cross
+28,328009,26,SavedShot,0.9569999694824218,0.32,0.0497427992522716,Roberto Firmino,h,482,OpenPlay,2019,RightFoot,11736,Liverpool,Tottenham,2,1,2019-10-27 16:30:00,,Rebound
+29,328015,46,SavedShot,0.9690000152587892,0.4420000076293945,0.4395889937877655,Roberto Firmino,h,482,OpenPlay,2019,Head,11736,Liverpool,Tottenham,2,1,2019-10-27 16:30:00,Andrew Robertson,Cross
+30,328021,56,SavedShot,0.9769999694824218,0.4,0.112864002585411,Roberto Firmino,h,482,OpenPlay,2019,RightFoot,11736,Liverpool,Tottenham,2,1,2019-10-27 16:30:00,Trent Alexander-Arnold,Pass
+31,328026,70,BlockedShot,0.86,0.3120000076293945,0.035292599350214,Roberto Firmino,h,482,OpenPlay,2019,RightFoot,11736,Liverpool,Tottenham,2,1,2019-10-27 16:30:00,Mohamed Salah,Pass
+32,329251,46,BlockedShot,0.879000015258789,0.5690000152587891,0.0714901015162468,Roberto Firmino,a,482,OpenPlay,2019,LeftFoot,11744,Aston Villa,Liverpool,1,2,2019-11-02 15:00:00,Sadio Mané,Cross
+33,329256,62,BlockedShot,0.8530000305175781,0.754000015258789,0.0264127999544143,Roberto Firmino,a,482,OpenPlay,2019,RightFoot,11744,Aston Villa,Liverpool,1,2,2019-11-02 15:00:00,Georginio Wijnaldum,Pass
+34,331554,34,MissedShots,0.8519999694824218,0.6229999923706054,0.1036819964647293,Roberto Firmino,h,482,OpenPlay,2019,RightFoot,11755,Liverpool,Manchester City,3,1,2019-11-10 16:30:00,,TakeOn
+35,331555,37,SavedShot,0.899000015258789,0.624000015258789,0.1181219965219497,Roberto Firmino,h,482,OpenPlay,2019,LeftFoot,11755,Liverpool,Manchester City,3,1,2019-11-10 16:30:00,Trent Alexander-Arnold,Pass
+36,331565,54,MissedShots,0.8769999694824219,0.67,0.0292993001639843,Roberto Firmino,h,482,OpenPlay,2019,RightFoot,11755,Liverpool,Manchester City,3,1,2019-11-10 16:30:00,,Aerial
+37,332262,46,MissedShots,0.9209999847412108,0.3570000076293945,0.0147364996373653,Roberto Firmino,a,482,FromCorner,2019,Head,11767,Crystal Palace,Liverpool,1,2,2019-11-23 15:00:00,Trent Alexander-Arnold,Cross
+38,332271,63,MissedShots,0.784000015258789,0.7559999847412109,0.0200084000825881,Roberto Firmino,a,482,OpenPlay,2019,RightFoot,11767,Crystal Palace,Liverpool,1,2,2019-11-23 15:00:00,Sadio Mané,Pass
+39,332272,64,SavedShot,0.894000015258789,0.615,0.3259899914264679,Roberto Firmino,a,482,OpenPlay,2019,RightFoot,11767,Crystal Palace,Liverpool,1,2,2019-11-23 15:00:00,Andrew Robertson,Pass
+40,332279,84,Goal,0.9519999694824218,0.5120000076293946,0.6140030026435852,Roberto Firmino,a,482,FromCorner,2019,LeftFoot,11767,Crystal Palace,Liverpool,1,2,2019-11-23 15:00:00,,Rebound
+41,333644,15,SavedShot,0.855999984741211,0.53,0.0960381031036377,Roberto Firmino,h,482,OpenPlay,2019,RightFoot,11776,Liverpool,Brighton,2,1,2019-11-30 15:00:00,Sadio Mané,Pass
+42,333646,19,SavedShot,0.9290000152587892,0.4070000076293945,0.1143620014190673,Roberto Firmino,h,482,OpenPlay,2019,RightFoot,11776,Liverpool,Brighton,2,1,2019-11-30 15:00:00,Sadio Mané,Chipped
+43,335678,37,SavedShot,0.8,0.4970000076293945,0.063449703156948,Roberto Firmino,a,482,OpenPlay,2019,LeftFoot,11794,Bournemouth,Liverpool,0,3,2019-12-07 15:00:00,James Milner,Pass
+44,335680,40,BlockedShot,0.8540000152587891,0.49,0.1015959978103637,Roberto Firmino,a,482,OpenPlay,2019,LeftFoot,11794,Bournemouth,Liverpool,0,3,2019-12-07 15:00:00,Trent Alexander-Arnold,Pass
+45,335682,45,MissedShots,0.82,0.5220000076293946,0.0721789970993995,Roberto Firmino,a,482,OpenPlay,2019,LeftFoot,11794,Bournemouth,Liverpool,0,3,2019-12-07 15:00:00,,BallRecovery
+46,335683,47,MissedShots,0.948000030517578,0.395,0.047002900391817,Roberto Firmino,a,482,FromCorner,2019,Head,11794,Bournemouth,Liverpool,0,3,2019-12-07 15:00:00,Trent Alexander-Arnold,Cross
+47,335694,85,BlockedShot,0.8859999847412109,0.6459999847412109,0.0656123012304306,Roberto Firmino,a,482,OpenPlay,2019,LeftFoot,11794,Bournemouth,Liverpool,0,3,2019-12-07 15:00:00,Naby Keita,TakeOn
+48,336800,62,SavedShot,0.874000015258789,0.664000015258789,0.0731742978096008,Roberto Firmino,h,482,OpenPlay,2019,LeftFoot,11808,Liverpool,Watford,2,0,2019-12-14 12:30:00,,BallTouch
+49,336805,73,SavedShot,0.904000015258789,0.4970000076293945,0.1438899934291839,Roberto Firmino,h,482,OpenPlay,2019,RightFoot,11808,Liverpool,Watford,2,0,2019-12-14 12:30:00,Andrew Robertson,Pass
+50,339679,30,Goal,0.948000030517578,0.4490000152587891,0.3454470038414001,Roberto Firmino,a,482,FromCorner,2019,Head,11828,Leicester,Liverpool,0,4,2019-12-26 20:00:00,Trent Alexander-Arnold,Cross
+51,339683,54,MissedShots,0.9590000152587892,0.5570000076293945,0.5254459977149963,Roberto Firmino,a,482,OpenPlay,2019,RightFoot,11828,Leicester,Liverpool,0,4,2019-12-26 20:00:00,Andrew Robertson,Cross
+52,339687,73,Goal,0.91,0.5159999847412109,0.4499959945678711,Roberto Firmino,a,482,OpenPlay,2019,RightFoot,11828,Leicester,Liverpool,0,4,2019-12-26 20:00:00,Trent Alexander-Arnold,Cross
+53,339929,18,SavedShot,0.865,0.3659999847412109,0.1028489992022514,Roberto Firmino,h,482,OpenPlay,2019,LeftFoot,11836,Liverpool,Wolverhampton Wanderers,1,0,2019-12-29 16:30:00,Mohamed Salah,Pass
+54,339932,30,MissedShots,0.9,0.484000015258789,0.0627328976988792,Roberto Firmino,h,482,FromCorner,2019,Head,11836,Liverpool,Wolverhampton Wanderers,1,0,2019-12-29 16:30:00,Andrew Robertson,Cross
+55,339938,60,MissedShots,0.8290000152587891,0.5570000076293945,0.0878767967224121,Roberto Firmino,h,482,OpenPlay,2019,RightFoot,11836,Liverpool,Wolverhampton Wanderers,1,0,2019-12-29 16:30:00,Mohamed Salah,Pass
+56,351619,37,BlockedShot,0.8380000305175781,0.4640000152587891,0.0917294025421142,Roberto Firmino,h,482,OpenPlay,2019,LeftFoot,11847,Liverpool,Sheffield United,2,0,2020-01-02 20:00:00,Mohamed Salah,Pass
+57,351622,53,MissedShots,0.9230000305175782,0.505,0.1432780027389526,Roberto Firmino,h,482,OpenPlay,2019,Head,11847,Liverpool,Sheffield United,2,0,2020-01-02 20:00:00,Jordan Henderson,Cross
+58,351623,56,MissedShots,0.8,0.7609999847412109,0.025662999600172,Roberto Firmino,h,482,OpenPlay,2019,RightFoot,11847,Liverpool,Sheffield United,2,0,2020-01-02 20:00:00,Andrew Robertson,Pass
+59,351625,62,BlockedShot,0.8730000305175781,0.595999984741211,0.1045989990234375,Roberto Firmino,h,482,OpenPlay,2019,RightFoot,11847,Liverpool,Sheffield United,2,0,2020-01-02 20:00:00,Andrew Robertson,Pass
+60,351628,68,MissedShots,0.955999984741211,0.4540000152587891,0.6240779757499695,Roberto Firmino,h,482,OpenPlay,2019,LeftFoot,11847,Liverpool,Sheffield United,2,0,2020-01-02 20:00:00,Trent Alexander-Arnold,Pass
+61,351770,1,BlockedShot,0.9130000305175782,0.38,0.1254139989614486,Roberto Firmino,a,482,OpenPlay,2019,LeftFoot,11854,Tottenham,Liverpool,0,1,2020-01-11 17:30:00,Alex Oxlade-Chamberlain,Chipped
+62,351775,17,BlockedShot,0.85,0.5420000076293945,0.0691009983420372,Roberto Firmino,a,482,OpenPlay,2019,RightFoot,11854,Tottenham,Liverpool,0,1,2020-01-11 17:30:00,,None
+63,351779,36,Goal,0.93,0.62,0.3700920045375824,Roberto Firmino,a,482,OpenPlay,2019,LeftFoot,11854,Tottenham,Liverpool,0,1,2020-01-11 17:30:00,Mohamed Salah,Pass
+64,351787,57,SavedShot,0.850999984741211,0.5640000152587891,0.1029440015554428,Roberto Firmino,a,482,OpenPlay,2019,RightFoot,11854,Tottenham,Liverpool,0,1,2020-01-11 17:30:00,Mohamed Salah,Pass
+65,352077,26,MissedShots,0.909000015258789,0.5129999923706055,0.1450420022010803,Roberto Firmino,h,482,OpenPlay,2019,RightFoot,11865,Liverpool,Manchester United,2,0,2020-01-19 16:30:00,Mohamed Salah,Pass
+66,352088,54,BlockedShot,0.914000015258789,0.6669999694824219,0.0912740975618362,Roberto Firmino,h,482,OpenPlay,2019,RightFoot,11865,Liverpool,Manchester United,2,0,2020-01-19 16:30:00,Jordan Henderson,TakeOn
+67,352094,76,BlockedShot,0.865,0.6079999923706054,0.0931985005736351,Roberto Firmino,h,482,OpenPlay,2019,RightFoot,11865,Liverpool,Manchester United,2,0,2020-01-19 16:30:00,Sadio Mané,Pass
+68,352339,59,SavedShot,0.9030000305175782,0.3609999847412109,0.3046790063381195,Roberto Firmino,a,482,SetPiece,2019,LeftFoot,11874,Wolverhampton Wanderers,Liverpool,1,2,2020-01-23 20:00:00,,Rebound
+69,352343,71,BlockedShot,0.919000015258789,0.5770000076293945,0.1059579998254776,Roberto Firmino,a,482,OpenPlay,2019,RightFoot,11874,Wolverhampton Wanderers,Liverpool,1,2,2020-01-23 20:00:00,Andrew Robertson,Cross
+70,352346,81,SavedShot,0.9059999847412108,0.6090000152587891,0.3371840119361877,Roberto Firmino,a,482,OpenPlay,2019,LeftFoot,11874,Wolverhampton Wanderers,Liverpool,1,2,2020-01-23 20:00:00,,TakeOn
+71,352347,83,Goal,0.875,0.4540000152587891,0.1119370013475418,Roberto Firmino,a,482,OpenPlay,2019,LeftFoot,11874,Wolverhampton Wanderers,Liverpool,1,2,2020-01-23 20:00:00,Jordan Henderson,Pass
+72,352357,49,SavedShot,0.93,0.5540000152587891,0.509289026260376,Roberto Firmino,a,482,OpenPlay,2019,LeftFoot,11822,West Ham,Liverpool,0,2,2020-01-29 19:45:00,,None
+73,352361,61,MissedShots,0.911999969482422,0.3429999923706054,0.1487070024013519,Roberto Firmino,a,482,OpenPlay,2019,LeftFoot,11822,West Ham,Liverpool,0,2,2020-01-29 19:45:00,Jordan Henderson,TakeOn
+74,352543,30,SavedShot,0.911999969482422,0.4520000076293945,0.4181810021400451,Roberto Firmino,h,482,FromCorner,2019,LeftFoot,11887,Liverpool,Southampton,4,0,2020-02-01 15:00:00,,Rebound
+75,352563,77,SavedShot,0.963000030517578,0.5640000152587891,0.6444370150566101,Roberto Firmino,h,482,OpenPlay,2019,LeftFoot,11887,Liverpool,Southampton,4,0,2020-02-01 15:00:00,Naby Keita,Throughball
+76,352568,93,MissedShots,0.8830000305175781,0.3959999847412109,0.1140640005469322,Roberto Firmino,h,482,OpenPlay,2019,RightFoot,11887,Liverpool,Southampton,4,0,2020-02-01 15:00:00,Mohamed Salah,Chipped
+77,352760,4,BlockedShot,0.865,0.5790000152587891,0.0995107963681221,Roberto Firmino,a,482,OpenPlay,2019,RightFoot,11899,Norwich,Liverpool,0,1,2020-02-15 17:30:00,Alex Oxlade-Chamberlain,Pass
+78,352779,85,MissedShots,0.9540000152587892,0.534000015258789,0.5854849815368652,Roberto Firmino,a,482,OpenPlay,2019,LeftFoot,11899,Norwich,Liverpool,0,1,2020-02-15 17:30:00,Trent Alexander-Arnold,Cross
+79,353136,8,BlockedShot,0.8919999694824219,0.31,0.0489159002900123,Roberto Firmino,h,482,OpenPlay,2019,RightFoot,11911,Liverpool,West Ham,3,2,2020-02-24 20:00:00,Naby Keita,None
+80,353144,25,MissedShots,0.774000015258789,0.664000015258789,0.0226032994687557,Roberto Firmino,h,482,OpenPlay,2019,RightFoot,11911,Liverpool,West Ham,3,2,2020-02-24 20:00:00,Naby Keita,Pass
+81,353149,45,MissedShots,0.8719999694824219,0.6659999847412109,0.0607101991772651,Roberto Firmino,h,482,OpenPlay,2019,RightFoot,11911,Liverpool,West Ham,3,2,2020-02-24 20:00:00,Trent Alexander-Arnold,Pass
+82,353156,62,MissedShots,0.9159999847412108,0.5029999923706054,0.0944966003298759,Roberto Firmino,h,482,FromCorner,2019,Head,11911,Liverpool,West Ham,3,2,2020-02-24 20:00:00,Trent Alexander-Arnold,Cross
+83,353160,73,ShotOnPost,0.9890000152587892,0.5459999847412109,0.6900089979171753,Roberto Firmino,h,482,FromCorner,2019,Head,11911,Liverpool,West Ham,3,2,2020-02-24 20:00:00,,Rebound
+84,353396,16,SavedShot,0.9130000305175782,0.3940000152587891,0.2809010148048401,Roberto Firmino,h,482,OpenPlay,2019,RightFoot,11928,Liverpool,Bournemouth,2,1,2020-03-07 12:30:00,Trent Alexander-Arnold,Chipped
+85,353409,72,MissedShots,0.9640000152587892,0.3309999847412109,0.101951003074646,Roberto Firmino,h,482,OpenPlay,2019,RightFoot,11928,Liverpool,Bournemouth,2,1,2020-03-07 12:30:00,,TakeOn
+86,353413,90,MissedShots,0.8919999694824219,0.4659999847412109,0.5706189870834351,Roberto Firmino,h,482,OpenPlay,2019,RightFoot,11928,Liverpool,Bournemouth,2,1,2020-03-07 12:30:00,Mohamed Salah,Pass
+87,365868,33,MissedShots,0.8169999694824219,0.5259999847412109,0.0505153015255928,Roberto Firmino,a,482,OpenPlay,2019,LeftFoot,11940,Everton,Liverpool,0,0,2020-06-21 18:00:00,Sadio Mané,Pass
+88,366430,15,SavedShot,0.8640000152587891,0.6659999847412109,0.056224800646305,Roberto Firmino,h,482,OpenPlay,2019,RightFoot,11951,Liverpool,Crystal Palace,4,0,2020-06-24 19:15:00,Sadio Mané,Pass
+89,368401,3,SavedShot,0.9030000305175782,0.359000015258789,0.0640574991703033,Roberto Firmino,a,482,OpenPlay,2019,RightFoot,11959,Manchester City,Liverpool,4,0,2020-07-02 19:15:00,,Rebound
+90,368414,60,BlockedShot,0.8630000305175781,0.49,0.1044839993119239,Roberto Firmino,a,482,OpenPlay,2019,LeftFoot,11959,Manchester City,Liverpool,4,0,2020-07-02 19:15:00,Sadio Mané,Pass
+91,369036,75,SavedShot,0.8130000305175781,0.500999984741211,0.0596771016716957,Roberto Firmino,h,482,OpenPlay,2019,RightFoot,11966,Liverpool,Aston Villa,2,0,2020-07-05 15:30:00,Mohamed Salah,Pass
+92,369869,3,BlockedShot,0.835,0.3709999847412109,0.0490229986608028,Roberto Firmino,a,482,OpenPlay,2019,RightFoot,11976,Brighton,Liverpool,1,3,2020-07-08 19:15:00,,None
+93,369877,30,SavedShot,0.905,0.500999984741211,0.1441230028867721,Roberto Firmino,a,482,OpenPlay,2019,RightFoot,11976,Brighton,Liverpool,1,3,2020-07-08 19:15:00,Alex Oxlade-Chamberlain,Throughball
+94,370416,12,BlockedShot,0.8690000152587891,0.544000015258789,0.1096389964222908,Roberto Firmino,h,482,OpenPlay,2019,RightFoot,11986,Liverpool,Burnley,1,1,2020-07-11 14:00:00,Sadio Mané,Pass
+95,370426,44,BlockedShot,0.865999984741211,0.3329999923706054,0.0718223974108696,Roberto Firmino,h,482,OpenPlay,2019,RightFoot,11986,Liverpool,Burnley,1,1,2020-07-11 14:00:00,Sadio Mané,Pass
+96,370428,48,ShotOnPost,0.8930000305175781,0.6480000305175782,0.0827476009726524,Roberto Firmino,h,482,OpenPlay,2019,LeftFoot,11986,Liverpool,Burnley,1,1,2020-07-11 14:00:00,Mohamed Salah,BallRecovery
+97,373314,54,Goal,0.9290000152587892,0.5120000076293946,0.405034989118576,Roberto Firmino,h,482,OpenPlay,2019,Head,12006,Liverpool,Chelsea,5,3,2020-07-22 19:15:00,Trent Alexander-Arnold,Cross
+0,310010,76,Goal,0.95,0.7080000305175781,0.3946560025215149,Neal Maupay,a,3621,OpenPlay,2019,LeftFoot,11648,Watford,Brighton,0,3,2019-08-10 15:00:00,Lewis Dunk,TakeOn
+1,310519,71,MissedShots,0.909000015258789,0.515,0.4616419970989227,Neal Maupay,h,3621,OpenPlay,2019,RightFoot,11655,Brighton,West Ham,1,1,2019-08-17 15:00:00,Glenn Murray,Pass
+2,310523,90,MissedShots,0.865,0.5420000076293945,0.0581962987780571,Neal Maupay,h,3621,FromCorner,2019,RightFoot,11655,Brighton,West Ham,1,1,2019-08-17 15:00:00,Florin Andone,BallTouch
+3,312514,5,SavedShot,0.8480000305175781,0.610999984741211,0.0767865031957626,Neal Maupay,h,3621,OpenPlay,2019,RightFoot,11666,Brighton,Southampton,0,2,2019-08-24 15:00:00,Leandro Trossard,Pass
+4,312515,6,BlockedShot,0.960999984741211,0.4509999847412109,0.3113870024681091,Neal Maupay,h,3621,FromCorner,2019,Head,11666,Brighton,Southampton,0,2,2019-08-24 15:00:00,Leandro Trossard,Aerial
+5,312518,36,BlockedShot,0.938000030517578,0.4059999847412109,0.0461522005498409,Neal Maupay,h,3621,OpenPlay,2019,Head,11666,Brighton,Southampton,0,2,2019-08-24 15:00:00,Leandro Trossard,Aerial
+6,312523,56,BlockedShot,0.899000015258789,0.6309999847412109,0.0114962002262473,Neal Maupay,h,3621,FromCorner,2019,Head,11666,Brighton,Southampton,0,2,2019-08-24 15:00:00,Leandro Trossard,Aerial
+7,315865,59,MissedShots,0.9540000152587892,0.555,0.0973950996994972,Neal Maupay,a,3621,OpenPlay,2019,Head,11678,Manchester City,Brighton,4,0,2019-08-31 15:00:00,Martín Montoya,Aerial
+8,317269,48,SavedShot,0.909000015258789,0.7140000152587891,0.0686035975813865,Neal Maupay,h,3621,OpenPlay,2019,RightFoot,11685,Brighton,Burnley,1,1,2019-09-14 14:00:00,Dan Burn,Pass
+9,317270,50,Goal,0.9059999847412108,0.4509999847412109,0.1043320000171661,Neal Maupay,h,3621,OpenPlay,2019,RightFoot,11685,Brighton,Burnley,1,1,2019-09-14 14:00:00,Solly March,Chipped
+10,320611,8,SavedShot,0.9669999694824218,0.365,0.0862405970692634,Neal Maupay,a,3621,OpenPlay,2019,RightFoot,11699,Newcastle United,Brighton,0,0,2019-09-21 16:30:00,Davy Pröpper,Pass
+11,320616,25,BlockedShot,0.93,0.474000015258789,0.1488119959831237,Neal Maupay,a,3621,OpenPlay,2019,LeftFoot,11699,Newcastle United,Brighton,0,0,2019-09-21 16:30:00,,Rebound
+12,320615,25,BlockedShot,0.93,0.4620000076293945,0.1438630074262619,Neal Maupay,a,3621,OpenPlay,2019,RightFoot,11699,Newcastle United,Brighton,0,0,2019-09-21 16:30:00,Adam Webster,Pass
+13,320621,44,BlockedShot,0.845999984741211,0.7030000305175781,0.0310932993888854,Neal Maupay,a,3621,OpenPlay,2019,RightFoot,11699,Newcastle United,Brighton,0,0,2019-09-21 16:30:00,Aaron Mooy,Pass
+14,320623,53,BlockedShot,0.81,0.555,0.0667325034737587,Neal Maupay,a,3621,OpenPlay,2019,RightFoot,11699,Newcastle United,Brighton,0,0,2019-09-21 16:30:00,Dale Stephens,TakeOn
+15,320627,59,MissedShots,0.8540000152587891,0.5970000076293945,0.0692929998040199,Neal Maupay,a,3621,OpenPlay,2019,LeftFoot,11699,Newcastle United,Brighton,0,0,2019-09-21 16:30:00,Steven Alzate,BallTouch
+16,320630,68,MissedShots,0.86,0.4470000076293945,0.0817347019910812,Neal Maupay,a,3621,OpenPlay,2019,LeftFoot,11699,Newcastle United,Brighton,0,0,2019-09-21 16:30:00,Davy Pröpper,Chipped
+17,323888,2,Goal,0.99,0.474000015258789,0.9440680146217346,Neal Maupay,h,3621,OpenPlay,2019,Head,11713,Brighton,Tottenham,3,0,2019-10-05 12:30:00,,None
+18,323900,49,SavedShot,0.75,0.6880000305175781,0.0237393993884325,Neal Maupay,h,3621,OpenPlay,2019,RightFoot,11713,Brighton,Tottenham,3,0,2019-10-05 12:30:00,Dan Burn,Pass
+19,323901,53,BlockedShot,0.894000015258789,0.555,0.1356980055570602,Neal Maupay,h,3621,OpenPlay,2019,RightFoot,11713,Brighton,Tottenham,3,0,2019-10-05 12:30:00,Adam Webster,Pass
+20,325549,1,BlockedShot,0.915,0.710999984741211,0.0496034994721412,Neal Maupay,a,3621,OpenPlay,2019,LeftFoot,11723,Aston Villa,Brighton,2,1,2019-10-19 15:00:00,Dale Stephens,Pass
+21,325557,25,SavedShot,0.7909999847412109,0.46,0.0506401993334293,Neal Maupay,a,3621,OpenPlay,2019,RightFoot,11723,Aston Villa,Brighton,2,1,2019-10-19 15:00:00,Dale Stephens,Pass
+22,325561,32,MissedShots,0.8569999694824219,0.504000015258789,0.0354038998484611,Neal Maupay,a,3621,OpenPlay,2019,Head,11723,Aston Villa,Brighton,2,1,2019-10-19 15:00:00,Davy Pröpper,Cross
+23,325566,44,SavedShot,0.965999984741211,0.7230000305175781,0.0630424991250038,Neal Maupay,a,3621,OpenPlay,2019,LeftFoot,11723,Aston Villa,Brighton,2,1,2019-10-19 15:00:00,Aaron Connolly,HeadPass
+24,325574,55,MissedShots,0.8809999847412109,0.4609999847412109,0.1173430010676384,Neal Maupay,a,3621,OpenPlay,2019,RightFoot,11723,Aston Villa,Brighton,2,1,2019-10-19 15:00:00,Martín Montoya,Pass
+25,325577,62,MissedShots,0.7680000305175781,0.485,0.0293067991733551,Neal Maupay,a,3621,OpenPlay,2019,RightFoot,11723,Aston Villa,Brighton,2,1,2019-10-19 15:00:00,Pascal Groß,Pass
+26,327205,11,MissedShots,0.925,0.7440000152587891,0.0377754010260105,Neal Maupay,h,3621,OpenPlay,2019,LeftFoot,11734,Brighton,Everton,3,2,2019-10-26 15:00:00,Lewis Dunk,Chipped
+27,327219,68,MissedShots,0.9,0.38,0.0198157001286745,Neal Maupay,h,3621,OpenPlay,2019,Head,11734,Brighton,Everton,3,2,2019-10-26 15:00:00,Leandro Trossard,Cross
+28,327221,79,Goal,0.885,0.5,0.7611690163612366,Neal Maupay,h,3621,Penalty,2019,RightFoot,11734,Brighton,Everton,3,2,2019-10-26 15:00:00,,Standard
+29,329172,12,MissedShots,0.8719999694824219,0.6759999847412109,0.0583810992538929,Neal Maupay,h,3621,OpenPlay,2019,LeftFoot,11746,Brighton,Norwich,2,0,2019-11-02 15:00:00,Steven Alzate,Pass
+30,329176,37,MissedShots,0.899000015258789,0.7090000152587891,0.0428103990852832,Neal Maupay,h,3621,OpenPlay,2019,LeftFoot,11746,Brighton,Norwich,2,0,2019-11-02 15:00:00,Dan Burn,Chipped
+31,329178,46,BlockedShot,0.9519999694824218,0.4929999923706055,0.1301490068435669,Neal Maupay,h,3621,OpenPlay,2019,LeftFoot,11746,Brighton,Norwich,2,0,2019-11-02 15:00:00,,None
+32,329179,47,MissedShots,0.9290000152587892,0.549000015258789,0.5167760252952576,Neal Maupay,h,3621,OpenPlay,2019,RightFoot,11746,Brighton,Norwich,2,0,2019-11-02 15:00:00,Davy Pröpper,Pass
+33,329188,73,SavedShot,0.874000015258789,0.3979999923706054,0.091798797249794,Neal Maupay,h,3621,OpenPlay,2019,RightFoot,11746,Brighton,Norwich,2,0,2019-11-02 15:00:00,,None
+34,329189,74,BlockedShot,0.91,0.415,0.0852146968245506,Neal Maupay,h,3621,FromCorner,2019,RightFoot,11746,Brighton,Norwich,2,0,2019-11-02 15:00:00,,TakeOn
+35,329191,81,MissedShots,0.9159999847412108,0.4120000076293945,0.0599173009395599,Neal Maupay,h,3621,FromCorner,2019,RightFoot,11746,Brighton,Norwich,2,0,2019-11-02 15:00:00,Leandro Trossard,Cross
+36,331309,13,BlockedShot,0.7959999847412109,0.5279999923706055,0.0451917983591556,Neal Maupay,a,3621,OpenPlay,2019,RightFoot,11761,Manchester United,Brighton,3,1,2019-11-10 14:00:00,Steven Alzate,Pass
+37,332241,53,MissedShots,0.97,0.6880000305175781,0.0462613999843597,Neal Maupay,h,3621,OpenPlay,2019,LeftFoot,11766,Brighton,Leicester,0,2,2019-11-23 15:00:00,Adam Webster,Pass
+38,332247,72,BlockedShot,0.8430000305175781,0.3979999923706054,0.0623401999473571,Neal Maupay,h,3621,OpenPlay,2019,RightFoot,11766,Brighton,Leicester,0,2,2019-11-23 15:00:00,Aaron Mooy,Pass
+39,335196,25,MissedShots,0.9519999694824218,0.32,0.0443755015730857,Neal Maupay,a,3621,FromCorner,2019,RightFoot,11783,Arsenal,Brighton,1,2,2019-12-05 20:15:00,,None
+40,335199,32,SavedShot,0.750999984741211,0.5529999923706055,0.0225579999387264,Neal Maupay,a,3621,SetPiece,2019,LeftFoot,11783,Arsenal,Brighton,1,2,2019-12-05 20:15:00,Adam Webster,Pass
+41,335209,60,SavedShot,0.965999984741211,0.515,0.117087997496128,Neal Maupay,a,3621,OpenPlay,2019,LeftFoot,11783,Arsenal,Brighton,1,2,2019-12-05 20:15:00,Aaron Mooy,Aerial
+42,335217,78,BlockedShot,0.8490000152587891,0.4729999923706054,0.0969948023557663,Neal Maupay,a,3621,OpenPlay,2019,LeftFoot,11783,Arsenal,Brighton,1,2,2019-12-05 20:15:00,Aaron Mooy,Pass
+43,335218,79,Goal,0.9109999847412108,0.5259999847412109,0.1121520027518272,Neal Maupay,a,3621,OpenPlay,2019,Head,11783,Arsenal,Brighton,1,2,2019-12-05 20:15:00,Aaron Mooy,Cross
+44,336495,1,BlockedShot,0.9459999847412108,0.4679999923706054,0.1580410003662109,Neal Maupay,h,3621,OpenPlay,2019,RightFoot,11795,Brighton,Wolverhampton Wanderers,2,2,2019-12-08 16:30:00,,Rebound
+45,336497,3,SavedShot,0.765,0.61,0.0203108005225658,Neal Maupay,h,3621,OpenPlay,2019,RightFoot,11795,Brighton,Wolverhampton Wanderers,2,2,2019-12-08 16:30:00,,None
+46,336504,33,Goal,0.840999984741211,0.63,0.0495344996452331,Neal Maupay,h,3621,OpenPlay,2019,LeftFoot,11795,Brighton,Wolverhampton Wanderers,2,2,2019-12-08 16:30:00,Dale Stephens,Chipped
+47,336509,53,BlockedShot,0.769000015258789,0.4520000076293945,0.0293000992387533,Neal Maupay,h,3621,OpenPlay,2019,RightFoot,11795,Brighton,Wolverhampton Wanderers,2,2,2019-12-08 16:30:00,,BallRecovery
+48,336515,70,SavedShot,0.795,0.445,0.0486451983451843,Neal Maupay,h,3621,OpenPlay,2019,LeftFoot,11795,Brighton,Wolverhampton Wanderers,2,2,2019-12-08 16:30:00,Steven Alzate,TakeOn
+49,337940,53,Goal,0.88,0.5270000076293946,0.3884550034999847,Neal Maupay,a,3621,OpenPlay,2019,LeftFoot,11806,Crystal Palace,Brighton,1,1,2019-12-16 19:45:00,Pascal Groß,Pass
+50,337942,57,SavedShot,0.98,0.5320000076293945,0.8852750062942505,Neal Maupay,a,3621,FromCorner,2019,RightFoot,11806,Crystal Palace,Brighton,1,1,2019-12-16 19:45:00,,Rebound
+51,338605,32,MissedShots,0.9130000305175782,0.5729999923706055,0.0317671000957489,Neal Maupay,h,3621,OpenPlay,2019,Head,11815,Brighton,Sheffield United,0,1,2019-12-21 15:00:00,Martín Montoya,Aerial
+52,339720,6,MissedShots,0.745,0.5609999847412109,0.0400980003178119,Neal Maupay,h,3621,OpenPlay,2019,RightFoot,11834,Brighton,Bournemouth,2,0,2019-12-28 12:30:00,Aaron Mooy,Pass
+53,339721,9,MissedShots,0.8159999847412109,0.4459999847412109,0.0867917984724044,Neal Maupay,h,3621,OpenPlay,2019,LeftFoot,11834,Brighton,Bournemouth,2,0,2019-12-28 12:30:00,Aaron Mooy,Pass
+54,339722,10,MissedShots,0.784000015258789,0.685,0.0295308995991945,Neal Maupay,h,3621,OpenPlay,2019,RightFoot,11834,Brighton,Bournemouth,2,0,2019-12-28 12:30:00,Leandro Trossard,Pass
+55,339730,42,SavedShot,0.82,0.6869999694824219,0.0483146011829376,Neal Maupay,h,3621,OpenPlay,2019,LeftFoot,11834,Brighton,Bournemouth,2,0,2019-12-28 12:30:00,Leandro Trossard,Chipped
+56,339739,82,SavedShot,0.75,0.4129999923706055,0.0266366004943847,Neal Maupay,h,3621,OpenPlay,2019,RightFoot,11834,Brighton,Bournemouth,2,0,2019-12-28 12:30:00,Aaron Mooy,Pass
+57,351419,88,SavedShot,0.8909999847412109,0.5020000076293946,0.3898870050907135,Neal Maupay,h,3621,OpenPlay,2019,RightFoot,11845,Brighton,Chelsea,1,1,2020-01-01 12:30:00,Alireza Jahanbakhsh,Pass
+58,351733,52,BlockedShot,0.8369999694824218,0.54,0.0623147003352642,Neal Maupay,a,3621,OpenPlay,2019,RightFoot,11860,Everton,Brighton,1,0,2020-01-11 15:00:00,Davy Pröpper,Chipped
+59,352004,5,MissedShots,0.906999969482422,0.7019999694824218,0.0542564988136291,Neal Maupay,h,3621,OpenPlay,2019,LeftFoot,11867,Brighton,Aston Villa,1,1,2020-01-18 15:00:00,,BallRecovery
+60,352008,31,BlockedShot,0.7919999694824219,0.4559999847412109,0.0406970009207725,Neal Maupay,h,3621,OpenPlay,2019,RightFoot,11867,Brighton,Aston Villa,1,1,2020-01-18 15:00:00,Dale Stephens,Pass
+61,352009,35,BlockedShot,0.865,0.4209999847412109,0.0698112025856971,Neal Maupay,h,3621,OpenPlay,2019,LeftFoot,11867,Brighton,Aston Villa,1,1,2020-01-18 15:00:00,Leandro Trossard,None
+62,352017,87,SavedShot,0.875999984741211,0.555,0.0751617029309272,Neal Maupay,h,3621,SetPiece,2019,RightFoot,11867,Brighton,Aston Villa,1,1,2020-01-18 15:00:00,Lewis Dunk,HeadPass
+63,352146,5,SavedShot,0.7880000305175782,0.5070000076293946,0.0402157008647918,Neal Maupay,a,3621,OpenPlay,2019,RightFoot,11878,Bournemouth,Brighton,3,1,2020-01-21 19:30:00,Pascal Groß,Chipped
+64,352149,19,BlockedShot,0.8009999847412109,0.500999984741211,0.0472724996507167,Neal Maupay,a,3621,OpenPlay,2019,RightFoot,11878,Bournemouth,Brighton,3,1,2020-01-21 19:30:00,Davy Pröpper,Pass
+65,352151,27,BlockedShot,0.955999984741211,0.3829999923706054,0.0927586033940315,Neal Maupay,a,3621,OpenPlay,2019,LeftFoot,11878,Bournemouth,Brighton,3,1,2020-01-21 19:30:00,,Rebound
+66,352150,27,SavedShot,0.9619999694824218,0.3729999923706055,0.3293209969997406,Neal Maupay,a,3621,OpenPlay,2019,RightFoot,11878,Bournemouth,Brighton,3,1,2020-01-21 19:30:00,Aaron Mooy,Throughball
+67,352167,68,SavedShot,0.8,0.64,0.0295631997287273,Neal Maupay,a,3621,OpenPlay,2019,RightFoot,11878,Bournemouth,Brighton,3,1,2020-01-21 19:30:00,Aaron Mooy,Pass
+68,352170,72,BlockedShot,0.8490000152587891,0.489000015258789,0.055850300937891,Neal Maupay,a,3621,OpenPlay,2019,LeftFoot,11878,Bournemouth,Brighton,3,1,2020-01-21 19:30:00,,None
+69,352176,92,BlockedShot,0.9440000152587892,0.4779999923706055,0.5671949982643127,Neal Maupay,a,3621,FromCorner,2019,LeftFoot,11878,Bournemouth,Brighton,3,1,2020-01-21 19:30:00,,None
+70,352177,92,SavedShot,0.953000030517578,0.4970000076293945,0.1489019989967346,Neal Maupay,a,3621,FromCorner,2019,LeftFoot,11878,Bournemouth,Brighton,3,1,2020-01-21 19:30:00,,Rebound
+71,352924,29,Goal,0.965,0.5220000076293946,0.591750979423523,Neal Maupay,a,3621,SetPiece,2019,Head,11909,Sheffield United,Brighton,1,1,2020-02-22 15:00:00,Adam Webster,HeadPass
+72,352929,49,BlockedShot,0.7280000305175781,0.555,0.0208037998527288,Neal Maupay,a,3621,OpenPlay,2019,LeftFoot,11909,Sheffield United,Brighton,1,1,2020-02-22 15:00:00,Aaron Mooy,Pass
+73,352936,61,MissedShots,0.8769999694824219,0.2860000038146972,0.0436684004962444,Neal Maupay,a,3621,OpenPlay,2019,RightFoot,11909,Sheffield United,Brighton,1,1,2020-02-22 15:00:00,Aaron Mooy,BallTouch
+74,353197,2,MissedShots,0.8530000305175781,0.5970000076293945,0.0626650005578994,Neal Maupay,h,3621,OpenPlay,2019,RightFoot,11915,Brighton,Crystal Palace,0,1,2020-02-29 12:30:00,,None
+75,353200,17,SavedShot,0.8830000305175781,0.6990000152587891,0.0410742983222007,Neal Maupay,h,3621,OpenPlay,2019,RightFoot,11915,Brighton,Crystal Palace,0,1,2020-02-29 12:30:00,Martín Montoya,Pass
+76,353205,33,SavedShot,0.7930000305175782,0.3709999847412109,0.0275679007172584,Neal Maupay,h,3621,OpenPlay,2019,RightFoot,11915,Brighton,Crystal Palace,0,1,2020-02-29 12:30:00,Martín Montoya,Pass
+77,353214,54,SavedShot,0.875,0.439000015258789,0.3786230087280273,Neal Maupay,h,3621,OpenPlay,2019,RightFoot,11915,Brighton,Crystal Palace,0,1,2020-02-29 12:30:00,,None
+78,353220,68,SavedShot,0.9459999847412108,0.7030000305175781,0.0600267983973026,Neal Maupay,h,3621,OpenPlay,2019,RightFoot,11915,Brighton,Crystal Palace,0,1,2020-02-29 12:30:00,Aaron Mooy,TakeOn
+79,365486,0,BlockedShot,0.774000015258789,0.625999984741211,0.0244616996496915,Neal Maupay,h,3621,OpenPlay,2019,RightFoot,11941,Brighton,Arsenal,2,1,2020-06-20 14:00:00,Leandro Trossard,Pass
+80,365495,55,SavedShot,0.955,0.669000015258789,0.0316126011312007,Neal Maupay,h,3621,OpenPlay,2019,LeftFoot,11941,Brighton,Arsenal,2,1,2020-06-20 14:00:00,Pascal Groß,Cross
+81,365497,64,BlockedShot,0.8719999694824219,0.6840000152587891,0.054459199309349,Neal Maupay,h,3621,OpenPlay,2019,LeftFoot,11941,Brighton,Arsenal,2,1,2020-06-20 14:00:00,Yves Bissouma,Pass
+82,365506,94,Goal,0.919000015258789,0.6880000305175781,0.3150700032711029,Neal Maupay,h,3621,OpenPlay,2019,LeftFoot,11941,Brighton,Arsenal,2,1,2020-06-20 14:00:00,Aaron Connolly,Throughball
+83,366074,13,SavedShot,0.885,0.5,0.7611690163612366,Neal Maupay,a,3621,Penalty,2019,RightFoot,11945,Leicester,Brighton,0,0,2020-06-23 17:00:00,,Standard
+84,366084,46,MissedShots,0.7730000305175782,0.419000015258789,0.0298730991780757,Neal Maupay,a,3621,OpenPlay,2019,LeftFoot,11945,Leicester,Brighton,0,0,2020-06-23 17:00:00,Dale Stephens,Pass
+85,367780,75,SavedShot,0.865,0.629000015258789,0.0477331988513469,Neal Maupay,h,3621,OpenPlay,2019,LeftFoot,11956,Brighton,Manchester United,0,3,2020-06-30 19:15:00,,None
+86,368509,38,MissedShots,0.899000015258789,0.3509999847412109,0.0858912020921707,Neal Maupay,a,3621,OpenPlay,2019,RightFoot,11969,Norwich,Brighton,0,1,2020-07-04 11:30:00,Tariq Lamptey,Pass
+87,369876,26,SavedShot,0.9640000152587892,0.5790000152587891,0.4836769998073578,Neal Maupay,h,3621,OpenPlay,2019,LeftFoot,11976,Brighton,Liverpool,1,3,2020-07-08 19:15:00,Leandro Trossard,Cross
+88,369878,33,BlockedShot,0.855,0.4279999923706055,0.0841420963406562,Neal Maupay,h,3621,OpenPlay,2019,LeftFoot,11976,Brighton,Liverpool,1,3,2020-07-08 19:15:00,Davy Pröpper,Pass
+89,372146,7,MissedShots,0.89,0.4490000152587891,0.1050029993057251,Neal Maupay,a,3621,SetPiece,2019,RightFoot,12002,Southampton,Brighton,1,1,2020-07-16 19:15:00,,Rebound
+90,372145,7,BlockedShot,0.89,0.4490000152587891,0.077372096478939,Neal Maupay,a,3621,SetPiece,2019,LeftFoot,12002,Southampton,Brighton,1,1,2020-07-16 19:15:00,Dan Burn,Cross
+91,372153,16,Goal,0.865,0.4579999923706054,0.0642684996128082,Neal Maupay,a,3621,OpenPlay,2019,LeftFoot,12002,Southampton,Brighton,1,1,2020-07-16 19:15:00,Glenn Murray,HeadPass
+92,372907,59,BlockedShot,0.8480000305175781,0.57,0.0852790996432304,Neal Maupay,h,3621,OpenPlay,2019,RightFoot,12005,Brighton,Newcastle United,0,0,2020-07-20 17:00:00,Leandro Trossard,Pass
+93,372909,72,BlockedShot,0.8930000305175781,0.6819999694824219,0.0613136999309062,Neal Maupay,h,3621,OpenPlay,2019,LeftFoot,12005,Brighton,Newcastle United,0,0,2020-07-20 17:00:00,Solly March,Pass
+94,373649,23,ShotOnPost,0.911999969482422,0.53,0.0573513992130756,Neal Maupay,a,3621,OpenPlay,2019,Head,12022,Burnley,Brighton,1,2,2020-07-26 15:00:00,Tariq Lamptey,Aerial
+95,373654,32,BlockedShot,0.8080000305175781,0.544000015258789,0.0597455017268657,Neal Maupay,a,3621,OpenPlay,2019,LeftFoot,12022,Burnley,Brighton,1,2,2020-07-26 15:00:00,Lewis Dunk,Pass
+0,310297,17,Goal,0.885,0.5,0.7611690163612366,Marcus Rashford,h,556,Penalty,2019,RightFoot,11652,Manchester United,Chelsea,4,0,2019-08-11 16:30:00,,Standard
+1,310309,53,BlockedShot,0.815,0.519000015258789,0.0578434988856315,Marcus Rashford,h,556,OpenPlay,2019,RightFoot,11652,Manchester United,Chelsea,4,0,2019-08-11 16:30:00,Harry Maguire,Pass
+2,310312,66,Goal,0.8219999694824218,0.4759999847412109,0.3715749979019165,Marcus Rashford,h,556,OpenPlay,2019,RightFoot,11652,Manchester United,Chelsea,4,0,2019-08-11 16:30:00,Paul Pogba,Throughball
+3,310315,79,BlockedShot,0.84,0.6020000076293945,0.1125100031495094,Marcus Rashford,h,556,OpenPlay,2019,RightFoot,11652,Manchester United,Chelsea,4,0,2019-08-11 16:30:00,Paul Pogba,Pass
+4,311302,62,MissedShots,0.700999984741211,0.8109999847412109,0.024533299729228,Marcus Rashford,a,556,DirectFreekick,2019,RightFoot,11662,Wolverhampton Wanderers,Manchester United,1,1,2019-08-19 20:00:00,,Standard
+5,311307,76,BlockedShot,0.8159999847412109,0.534000015258789,0.0793237015604972,Marcus Rashford,a,556,OpenPlay,2019,RightFoot,11662,Wolverhampton Wanderers,Manchester United,1,1,2019-08-19 20:00:00,,TakeOn
+6,312579,14,MissedShots,0.720999984741211,0.56,0.0453955009579658,Marcus Rashford,h,556,DirectFreekick,2019,RightFoot,11669,Manchester United,Crystal Palace,1,2,2019-08-24 15:00:00,,Standard
+7,312583,25,MissedShots,0.7930000305175782,0.6029999923706054,0.0951842963695526,Marcus Rashford,h,556,DirectFreekick,2019,RightFoot,11669,Manchester United,Crystal Palace,1,2,2019-08-24 15:00:00,,Standard
+8,312594,57,SavedShot,0.7280000305175781,0.66,0.0099648004397749,Marcus Rashford,h,556,OpenPlay,2019,RightFoot,11669,Manchester United,Crystal Palace,1,2,2019-08-24 15:00:00,Paul Pogba,Chipped
+9,312595,69,ShotOnPost,0.885,0.5,0.7611690163612366,Marcus Rashford,h,556,Penalty,2019,RightFoot,11669,Manchester United,Crystal Palace,1,2,2019-08-24 15:00:00,,Standard
+10,315558,3,BlockedShot,0.9519999694824218,0.5670000076293945,0.108704999089241,Marcus Rashford,a,556,OpenPlay,2019,RightFoot,11673,Southampton,Manchester United,1,1,2019-08-31 12:30:00,,None
+11,315567,27,MissedShots,0.93,0.5429999923706055,0.3419420123100281,Marcus Rashford,a,556,FromCorner,2019,Head,11673,Southampton,Manchester United,1,1,2019-08-31 12:30:00,Daniel James,Cross
+12,315572,49,SavedShot,0.9669999694824218,0.4179999923706055,0.276991993188858,Marcus Rashford,a,556,OpenPlay,2019,RightFoot,11673,Southampton,Manchester United,1,1,2019-08-31 12:30:00,Victor Lindelöf,TakeOn
+13,315577,64,BlockedShot,0.905,0.67,0.1149049997329711,Marcus Rashford,a,556,OpenPlay,2019,LeftFoot,11673,Southampton,Manchester United,1,1,2019-08-31 12:30:00,Paul Pogba,Throughball
+14,315582,82,SavedShot,0.8969999694824219,0.6459999847412109,0.0836089998483657,Marcus Rashford,a,556,OpenPlay,2019,LeftFoot,11673,Southampton,Manchester United,1,1,2019-08-31 12:30:00,Paul Pogba,Pass
+15,315587,87,MissedShots,0.91,0.49,0.0584595017135143,Marcus Rashford,a,556,OpenPlay,2019,Head,11673,Southampton,Manchester United,1,1,2019-08-31 12:30:00,Daniel James,Chipped
+16,317282,7,Goal,0.885,0.5,0.7611690163612366,Marcus Rashford,h,556,Penalty,2019,RightFoot,11684,Manchester United,Leicester,1,0,2019-09-14 14:00:00,,Standard
+17,317294,82,ShotOnPost,0.7480000305175781,0.3729999923706055,0.0531361997127532,Marcus Rashford,h,556,DirectFreekick,2019,RightFoot,11684,Manchester United,Leicester,1,0,2019-09-14 14:00:00,,Standard
+18,323712,42,BlockedShot,0.884000015258789,0.639000015258789,0.1484670042991638,Marcus Rashford,h,556,OpenPlay,2019,LeftFoot,11712,Manchester United,Arsenal,1,1,2019-09-30 19:00:00,Paul Pogba,Throughball
+19,323726,69,MissedShots,0.8230000305175781,0.3340000152587891,0.037177100777626,Marcus Rashford,h,556,OpenPlay,2019,RightFoot,11712,Manchester United,Arsenal,1,1,2019-09-30 19:00:00,Paul Pogba,Chipped
+20,323731,90,SavedShot,0.7969999694824219,0.6359999847412109,0.0877247974276542,Marcus Rashford,h,556,DirectFreekick,2019,RightFoot,11712,Manchester United,Arsenal,1,1,2019-09-30 19:00:00,,Standard
+21,326448,35,Goal,0.9230000305175782,0.5029999923706054,0.5694850087165833,Marcus Rashford,h,556,OpenPlay,2019,RightFoot,11729,Manchester United,Liverpool,1,1,2019-10-20 16:30:00,Daniel James,Cross
+22,326451,66,MissedShots,0.7719999694824219,0.5870000076293945,0.0278712008148431,Marcus Rashford,h,556,OpenPlay,2019,RightFoot,11729,Manchester United,Liverpool,1,1,2019-10-20 16:30:00,Andreas Pereira,TakeOn
+23,328035,18,SavedShot,0.905,0.3670000076293945,0.123768001794815,Marcus Rashford,a,556,OpenPlay,2019,RightFoot,11739,Norwich,Manchester United,1,3,2019-10-27 16:30:00,Anthony Martial,Pass
+24,328038,28,SavedShot,0.885,0.5,0.7611690163612366,Marcus Rashford,a,556,Penalty,2019,RightFoot,11739,Norwich,Manchester United,1,3,2019-10-27 16:30:00,,Standard
+25,328039,29,Goal,0.865999984741211,0.54,0.3792650103569031,Marcus Rashford,a,556,OpenPlay,2019,RightFoot,11739,Norwich,Manchester United,1,3,2019-10-27 16:30:00,Daniel James,Chipped
+26,328040,32,SavedShot,0.973000030517578,0.6680000305175782,0.0909722000360488,Marcus Rashford,a,556,OpenPlay,2019,RightFoot,11739,Norwich,Manchester United,1,3,2019-10-27 16:30:00,Harry Maguire,TakeOn
+27,328055,65,MissedShots,0.895,0.53,0.0688645020127296,Marcus Rashford,a,556,OpenPlay,2019,Head,11739,Norwich,Manchester United,1,3,2019-10-27 16:30:00,Daniel James,Cross
+28,328062,92,MissedShots,0.7330000305175781,0.5659999847412109,0.0511517003178596,Marcus Rashford,a,556,DirectFreekick,2019,RightFoot,11739,Norwich,Manchester United,1,3,2019-10-27 16:30:00,,Standard
+29,328900,22,BlockedShot,0.8930000305175781,0.68,0.0893462970852851,Marcus Rashford,a,556,OpenPlay,2019,RightFoot,11745,Bournemouth,Manchester United,1,0,2019-11-02 12:30:00,Fred,Pass
+30,331310,14,SavedShot,0.840999984741211,0.629000015258789,0.05979910120368,Marcus Rashford,h,556,OpenPlay,2019,RightFoot,11761,Manchester United,Brighton,3,1,2019-11-10 14:00:00,Andreas Pereira,Pass
+31,331323,60,MissedShots,0.7369999694824219,0.6170000076293946,0.084624096751213,Marcus Rashford,h,556,OpenPlay,2019,RightFoot,11761,Manchester United,Brighton,3,1,2019-11-10 14:00:00,Daniel James,Chipped
+32,331327,65,Goal,0.889000015258789,0.5509999847412109,0.3953019976615906,Marcus Rashford,h,556,OpenPlay,2019,RightFoot,11761,Manchester United,Brighton,3,1,2019-11-10 14:00:00,Anthony Martial,Pass
+33,331328,67,MissedShots,0.9290000152587892,0.5420000076293945,0.6199489831924438,Marcus Rashford,h,556,OpenPlay,2019,RightFoot,11761,Manchester United,Brighton,3,1,2019-11-10 14:00:00,Daniel James,Pass
+34,331331,74,BlockedShot,0.8109999847412109,0.524000015258789,0.151651993393898,Marcus Rashford,h,556,DirectFreekick,2019,RightFoot,11761,Manchester United,Brighton,3,1,2019-11-10 14:00:00,,Standard
+35,331333,75,SavedShot,0.975999984741211,0.6079999923706054,0.1185870021581649,Marcus Rashford,h,556,OpenPlay,2019,RightFoot,11761,Manchester United,Brighton,3,1,2019-11-10 14:00:00,,TakeOn
+36,331336,89,MissedShots,0.93,0.669000015258789,0.2820689976215362,Marcus Rashford,h,556,OpenPlay,2019,LeftFoot,11761,Manchester United,Brighton,3,1,2019-11-10 14:00:00,Anthony Martial,Pass
+37,333038,47,MissedShots,0.7469999694824219,0.63,0.0128178996965289,Marcus Rashford,a,556,OpenPlay,2019,RightFoot,11770,Sheffield United,Manchester United,3,3,2019-11-24 16:30:00,Brandon Williams,TakeOn
+38,333046,78,Goal,0.899000015258789,0.57,0.4065969884395599,Marcus Rashford,a,556,OpenPlay,2019,LeftFoot,11770,Sheffield United,Manchester United,3,3,2019-11-24 16:30:00,Daniel James,Pass
+39,333052,94,BlockedShot,0.84,0.4820000076293945,0.0969958007335662,Marcus Rashford,a,556,OpenPlay,2019,RightFoot,11770,Sheffield United,Manchester United,3,3,2019-11-24 16:30:00,Jesse Lingard,TakeOn
+40,334494,30,MissedShots,0.906999969482422,0.5720000076293945,0.0805359035730362,Marcus Rashford,h,556,OpenPlay,2019,LeftFoot,11782,Manchester United,Aston Villa,2,2,2019-12-01 16:30:00,,None
+41,334496,41,ShotOnPost,0.955999984741211,0.524000015258789,0.4518420100212097,Marcus Rashford,h,556,FromCorner,2019,Head,11782,Manchester United,Aston Villa,2,2,2019-12-01 16:30:00,Andreas Pereira,Cross
+42,335108,5,Goal,0.87,0.7290000152587891,0.037406500428915,Marcus Rashford,h,556,OpenPlay,2019,RightFoot,11788,Manchester United,Tottenham,2,1,2019-12-04 19:30:00,,Dispossessed
+43,335110,17,MissedShots,0.7530000305175781,0.395,0.0591651983559131,Marcus Rashford,h,556,DirectFreekick,2019,RightFoot,11788,Manchester United,Tottenham,2,1,2019-12-04 19:30:00,,Standard
+44,335114,24,SavedShot,0.7530000305175781,0.6630000305175782,0.021994300186634,Marcus Rashford,h,556,OpenPlay,2019,RightFoot,11788,Manchester United,Tottenham,2,1,2019-12-04 19:30:00,Jesse Lingard,Pass
+45,335115,26,SavedShot,0.845,0.6759999847412109,0.0856574028730392,Marcus Rashford,h,556,OpenPlay,2019,RightFoot,11788,Manchester United,Tottenham,2,1,2019-12-04 19:30:00,Jesse Lingard,LayOff
+46,335119,48,Goal,0.885,0.5,0.761132001876831,Marcus Rashford,h,556,Penalty,2019,RightFoot,11788,Manchester United,Tottenham,2,1,2019-12-04 19:30:00,,Standard
+47,335126,92,BlockedShot,0.9059999847412108,0.409000015258789,0.1400479972362518,Marcus Rashford,h,556,OpenPlay,2019,RightFoot,11788,Manchester United,Tottenham,2,1,2019-12-04 19:30:00,Luke Shaw,Chipped
+48,335822,22,Goal,0.885,0.5,0.7611690163612366,Marcus Rashford,a,556,Penalty,2019,RightFoot,11797,Manchester City,Manchester United,1,2,2019-12-07 17:30:00,,Standard
+49,335825,24,MissedShots,0.8580000305175781,0.565,0.1305669993162155,Marcus Rashford,a,556,OpenPlay,2019,RightFoot,11797,Manchester City,Manchester United,1,2,2019-12-07 17:30:00,Fred,Pass
+50,335826,26,ShotOnPost,0.8230000305175781,0.5529999923706055,0.0731946974992752,Marcus Rashford,a,556,OpenPlay,2019,RightFoot,11797,Manchester City,Manchester United,1,2,2019-12-07 17:30:00,Anthony Martial,Pass
+51,337456,9,MissedShots,0.8859999847412109,0.6519999694824219,0.064961202442646,Marcus Rashford,h,556,OpenPlay,2019,LeftFoot,11809,Manchester United,Everton,1,1,2019-12-15 14:00:00,Victor Lindelöf,Pass
+52,337458,18,BlockedShot,0.7680000305175781,0.6659999847412109,0.0180990006774663,Marcus Rashford,h,556,OpenPlay,2019,RightFoot,11809,Manchester United,Everton,1,1,2019-12-15 14:00:00,Daniel James,Pass
+53,337459,25,SavedShot,0.7609999847412109,0.6519999694824219,0.0563285015523433,Marcus Rashford,h,556,DirectFreekick,2019,RightFoot,11809,Manchester United,Everton,1,1,2019-12-15 14:00:00,,Standard
+54,337468,50,MissedShots,0.7530000305175781,0.654000015258789,0.0189746003597974,Marcus Rashford,h,556,OpenPlay,2019,RightFoot,11809,Manchester United,Everton,1,1,2019-12-15 14:00:00,Anthony Martial,Pass
+55,337479,78,SavedShot,0.860999984741211,0.8540000152587891,0.0427865013480186,Marcus Rashford,h,556,DirectFreekick,2019,RightFoot,11809,Manchester United,Everton,1,1,2019-12-15 14:00:00,,Standard
+56,337484,90,SavedShot,0.870999984741211,0.8240000152587891,0.0177806001156568,Marcus Rashford,h,556,OpenPlay,2019,RightFoot,11809,Manchester United,Everton,1,1,2019-12-15 14:00:00,Juan Mata,Pass
+57,339204,71,SavedShot,0.925,0.8719999694824219,0.0465920008718967,Marcus Rashford,a,556,DirectFreekick,2019,RightFoot,11821,Watford,Manchester United,2,0,2019-12-22 14:00:00,,Standard
+58,339212,89,SavedShot,0.9030000305175782,0.534000015258789,0.3427129983901977,Marcus Rashford,a,556,OpenPlay,2019,LeftFoot,11821,Watford,Manchester United,2,0,2019-12-22 14:00:00,Anthony Martial,TakeOn
+59,339644,11,BlockedShot,0.755,0.740999984741211,0.039028599858284,Marcus Rashford,h,556,DirectFreekick,2019,RightFoot,11829,Manchester United,Newcastle United,4,1,2019-12-26 17:30:00,,Standard
+60,339649,20,BlockedShot,0.7930000305175782,0.655,0.0193911008536815,Marcus Rashford,h,556,FromCorner,2019,RightFoot,11829,Manchester United,Newcastle United,4,1,2019-12-26 17:30:00,,None
+61,339654,27,MissedShots,0.8190000152587891,0.710999984741211,0.0501671992242336,Marcus Rashford,h,556,OpenPlay,2019,RightFoot,11829,Manchester United,Newcastle United,4,1,2019-12-26 17:30:00,Anthony Martial,Pass
+62,339659,40,Goal,0.933000030517578,0.55,0.3865129947662353,Marcus Rashford,h,556,OpenPlay,2019,Head,11829,Manchester United,Newcastle United,4,1,2019-12-26 17:30:00,Aaron Wan-Bissaka,Cross
+63,339884,12,SavedShot,0.6730000305175782,0.5029999923706054,0.0304687991738319,Marcus Rashford,a,556,DirectFreekick,2019,RightFoot,11835,Burnley,Manchester United,0,2,2019-12-28 19:45:00,,Standard
+64,339886,18,ShotOnPost,0.8119999694824219,0.4129999923706055,0.0416586995124816,Marcus Rashford,a,556,OpenPlay,2019,RightFoot,11835,Burnley,Manchester United,0,2,2019-12-28 19:45:00,Andreas Pereira,Pass
+65,339888,28,BlockedShot,0.7290000152587891,0.590999984741211,0.0472100004553794,Marcus Rashford,a,556,DirectFreekick,2019,RightFoot,11835,Burnley,Manchester United,0,2,2019-12-28 19:45:00,,Standard
+66,339897,59,BlockedShot,0.7619999694824219,0.7869999694824219,0.0124926995486021,Marcus Rashford,a,556,OpenPlay,2019,RightFoot,11835,Burnley,Manchester United,0,2,2019-12-28 19:45:00,Harry Maguire,TakeOn
+67,339905,94,Goal,0.9619999694824218,0.534000015258789,0.8093510270118713,Marcus Rashford,a,556,OpenPlay,2019,RightFoot,11835,Burnley,Manchester United,0,2,2019-12-28 19:45:00,Daniel James,Pass
+68,351591,0,SavedShot,0.7080000305175781,0.5879999923706055,0.0156383998692035,Marcus Rashford,a,556,OpenPlay,2019,RightFoot,11844,Arsenal,Manchester United,2,0,2020-01-01 20:00:00,Jesse Lingard,Pass
+69,351603,63,MissedShots,0.8580000305175781,0.6940000152587891,0.0527536012232303,Marcus Rashford,a,556,OpenPlay,2019,RightFoot,11844,Arsenal,Manchester United,2,0,2020-01-01 20:00:00,Andreas Pereira,Pass
+70,351609,92,SavedShot,0.916999969482422,0.5129999923706055,0.1180699989199638,Marcus Rashford,a,556,OpenPlay,2019,RightFoot,11844,Arsenal,Manchester United,2,0,2020-01-01 20:00:00,Juan Mata,Throughball
+71,351681,26,Goal,0.973000030517578,0.5270000076293946,0.6770139932632446,Marcus Rashford,h,556,OpenPlay,2019,LeftFoot,11862,Manchester United,Norwich,4,0,2020-01-11 15:00:00,Juan Mata,Cross
+72,351684,31,SavedShot,0.87,0.75,0.0573633983731269,Marcus Rashford,h,556,OpenPlay,2019,RightFoot,11862,Manchester United,Norwich,4,0,2020-01-11 15:00:00,,TakeOn
+73,351687,51,Goal,0.885,0.5,0.7611690163612366,Marcus Rashford,h,556,Penalty,2019,RightFoot,11862,Manchester United,Norwich,4,0,2020-01-11 15:00:00,,Standard
+74,365098,21,SavedShot,0.8969999694824219,0.5970000076293945,0.3719600141048431,Marcus Rashford,a,556,OpenPlay,2019,LeftFoot,11936,Tottenham,Manchester United,1,1,2020-06-19 19:15:00,,None
+75,365107,52,MissedShots,0.8969999694824219,0.645,0.0117621999233961,Marcus Rashford,a,556,OpenPlay,2019,Head,11936,Tottenham,Manchester United,1,1,2020-06-19 19:15:00,Aaron Wan-Bissaka,Aerial
+76,366291,12,MissedShots,0.905,0.5520000076293945,0.5903360247612,Marcus Rashford,h,556,OpenPlay,2019,LeftFoot,11950,Manchester United,Sheffield United,3,0,2020-06-24 17:00:00,Anthony Martial,Pass
+77,366294,18,MissedShots,0.875,0.5359999847412109,0.1061460003256797,Marcus Rashford,h,556,OpenPlay,2019,RightFoot,11950,Manchester United,Sheffield United,3,0,2020-06-24 17:00:00,Paul Pogba,Chipped
+78,367772,38,MissedShots,0.8030000305175782,0.7240000152587891,0.0354600995779037,Marcus Rashford,a,556,OpenPlay,2019,RightFoot,11956,Brighton,Manchester United,0,3,2020-06-30 19:15:00,Harry Maguire,Pass
+79,368555,18,SavedShot,0.754000015258789,0.3179999923706054,0.0476885996758937,Marcus Rashford,h,556,DirectFreekick,2019,RightFoot,11967,Manchester United,Bournemouth,5,2,2020-07-04 14:00:00,,Standard
+80,368561,31,BlockedShot,0.77,0.6509999847412109,0.0240474008023738,Marcus Rashford,h,556,OpenPlay,2019,RightFoot,11967,Manchester United,Bournemouth,5,2,2020-07-04 14:00:00,Paul Pogba,Pass
+81,368562,34,Goal,0.885,0.5,0.7611690163612366,Marcus Rashford,h,556,Penalty,2019,RightFoot,11967,Manchester United,Bournemouth,5,2,2020-07-04 14:00:00,,Standard
+82,368572,79,MissedShots,0.991999969482422,0.3920000076293945,0.0833218991756439,Marcus Rashford,h,556,OpenPlay,2019,RightFoot,11967,Manchester United,Bournemouth,5,2,2020-07-04 14:00:00,Daniel James,Cross
+83,370227,55,BlockedShot,0.795,0.6680000305175782,0.0340441018342971,Marcus Rashford,a,556,OpenPlay,2019,RightFoot,11974,Aston Villa,Manchester United,0,3,2020-07-09 19:15:00,Paul Pogba,Pass
+84,370232,81,MissedShots,0.735999984741211,0.5120000076293946,0.0552317984402179,Marcus Rashford,a,556,DirectFreekick,2019,RightFoot,11974,Aston Villa,Manchester United,0,3,2020-07-09 19:15:00,,Standard
+85,370234,91,SavedShot,0.904000015258789,0.4,0.589169979095459,Marcus Rashford,a,556,OpenPlay,2019,RightFoot,11974,Aston Villa,Manchester United,0,3,2020-07-09 19:15:00,Paul Pogba,Throughball
+86,371240,19,Goal,0.925,0.6370000076293946,0.3406279981136322,Marcus Rashford,h,556,OpenPlay,2019,LeftFoot,11987,Manchester United,Southampton,2,2,2020-07-13 19:00:00,Anthony Martial,Pass
+87,371246,55,MissedShots,0.749000015258789,0.6959999847412109,0.0172752998769283,Marcus Rashford,h,556,OpenPlay,2019,RightFoot,11987,Manchester United,Southampton,2,2,2020-07-13 19:00:00,,None
+88,371248,67,BlockedShot,0.955999984741211,0.5520000076293945,0.6201689839363098,Marcus Rashford,h,556,OpenPlay,2019,RightFoot,11987,Manchester United,Southampton,2,2,2020-07-13 19:00:00,Anthony Martial,Pass
+89,372185,45,Goal,0.899000015258789,0.475,0.404011994600296,Marcus Rashford,a,556,OpenPlay,2019,RightFoot,11996,Crystal Palace,Manchester United,0,2,2020-07-16 19:15:00,,TakeOn
+90,372193,61,SavedShot,0.8819999694824219,0.6120000076293945,0.1376290023326873,Marcus Rashford,a,556,OpenPlay,2019,LeftFoot,11996,Crystal Palace,Manchester United,0,2,2020-07-16 19:15:00,Anthony Martial,Pass
+91,372201,92,SavedShot,0.8540000152587891,0.7559999847412109,0.0412395000457763,Marcus Rashford,a,556,OpenPlay,2019,RightFoot,11996,Crystal Palace,Manchester United,0,2,2020-07-16 19:15:00,Anthony Martial,Pass
+92,373258,36,SavedShot,0.7190000152587891,0.7140000152587891,0.0157824996858835,Marcus Rashford,h,556,OpenPlay,2019,RightFoot,12007,Manchester United,West Ham,1,1,2020-07-22 17:00:00,Harry Maguire,Pass
+93,373837,41,MissedShots,0.875999984741211,0.5429999923706055,0.082497701048851,Marcus Rashford,a,556,OpenPlay,2019,RightFoot,12018,Leicester,Manchester United,0,2,2020-07-26 15:00:00,Paul Pogba,Chipped
+94,373839,46,SavedShot,0.8909999847412109,0.3509999847412109,0.0236805006861686,Marcus Rashford,a,556,FromCorner,2019,RightFoot,12018,Leicester,Manchester United,0,2,2020-07-26 15:00:00,,Aerial
+0,310211,30,SavedShot,0.899000015258789,0.645,0.147484004497528,Pierre-Emerick Aubameyang,a,318,OpenPlay,2019,LeftFoot,11650,Newcastle United,Arsenal,0,1,2019-08-11 14:00:00,Henrikh Mkhitaryan,Throughball
+1,310213,51,BlockedShot,0.9359999847412108,0.6969999694824218,0.0487668998539447,Pierre-Emerick Aubameyang,a,318,OpenPlay,2019,LeftFoot,11650,Newcastle United,Arsenal,0,1,2019-08-11 14:00:00,Granit Xhaka,Pass
+2,310215,54,BlockedShot,0.86,0.3729999923706055,0.0774713009595871,Pierre-Emerick Aubameyang,a,318,OpenPlay,2019,RightFoot,11650,Newcastle United,Arsenal,0,1,2019-08-11 14:00:00,Matteo Guendouzi,Pass
+3,310216,57,Goal,0.9059999847412108,0.5629999923706055,0.4383290112018585,Pierre-Emerick Aubameyang,a,318,OpenPlay,2019,RightFoot,11650,Newcastle United,Arsenal,0,1,2019-08-11 14:00:00,Ainsley Maitland-Niles,Chipped
+4,310422,50,MissedShots,0.805,0.615,0.0364105999469757,Pierre-Emerick Aubameyang,h,318,OpenPlay,2019,RightFoot,11653,Arsenal,Burnley,2,1,2019-08-17 12:30:00,Nacho Monreal,Pass
+5,310426,59,SavedShot,0.9009999847412108,0.3770000076293945,0.1281079947948455,Pierre-Emerick Aubameyang,h,318,OpenPlay,2019,RightFoot,11653,Arsenal,Burnley,2,1,2019-08-17 12:30:00,Nicolas Pepe,Throughball
+6,310429,63,Goal,0.8219999694824218,0.6120000076293945,0.0506718009710311,Pierre-Emerick Aubameyang,h,318,OpenPlay,2019,RightFoot,11653,Arsenal,Burnley,2,1,2019-08-17 12:30:00,Dani Ceballos,BallRecovery
+7,312700,10,MissedShots,0.7909999847412109,0.3029999923706055,0.0185532998293638,Pierre-Emerick Aubameyang,a,318,OpenPlay,2019,RightFoot,11670,Liverpool,Arsenal,3,1,2019-08-24 17:30:00,,None
+8,312720,51,BlockedShot,0.901999969482422,0.3659999847412109,0.2634060084819793,Pierre-Emerick Aubameyang,a,318,OpenPlay,2019,RightFoot,11670,Liverpool,Arsenal,3,1,2019-08-24 17:30:00,Nicolas Pepe,Pass
+9,316425,61,BlockedShot,0.8069999694824219,0.7559999847412109,0.0203424002975225,Pierre-Emerick Aubameyang,h,318,OpenPlay,2019,RightFoot,11682,Arsenal,Tottenham,2,2,2019-09-01 16:30:00,Granit Xhaka,Pass
+10,316428,67,MissedShots,0.909000015258789,0.57,0.036329198628664,Pierre-Emerick Aubameyang,h,318,OpenPlay,2019,Head,11682,Arsenal,Tottenham,2,2,2019-09-01 16:30:00,Sead Kolasinac,Aerial
+11,316429,70,Goal,0.916999969482422,0.5129999923706055,0.385904997587204,Pierre-Emerick Aubameyang,h,318,OpenPlay,2019,RightFoot,11682,Arsenal,Tottenham,2,2,2019-09-01 16:30:00,Matteo Guendouzi,Chipped
+12,316432,82,BlockedShot,0.89,0.5279999923706055,0.1268180012702942,Pierre-Emerick Aubameyang,h,318,OpenPlay,2019,RightFoot,11682,Arsenal,Tottenham,2,2,2019-09-01 16:30:00,Henrikh Mkhitaryan,Pass
+13,318096,20,Goal,0.8640000152587891,0.580999984741211,0.0998715981841087,Pierre-Emerick Aubameyang,a,318,OpenPlay,2019,RightFoot,11691,Watford,Arsenal,2,2,2019-09-15 15:30:00,Sead Kolasinac,Pass
+14,318097,31,Goal,0.941999969482422,0.5120000076293946,0.6279090046882629,Pierre-Emerick Aubameyang,a,318,OpenPlay,2019,LeftFoot,11691,Watford,Arsenal,2,2,2019-09-15 15:30:00,Ainsley Maitland-Niles,Pass
+15,318110,61,BlockedShot,0.7469999694824219,0.654000015258789,0.0224485993385314,Pierre-Emerick Aubameyang,a,318,OpenPlay,2019,RightFoot,11691,Watford,Arsenal,2,2,2019-09-15 15:30:00,Sead Kolasinac,Pass
+16,321235,18,SavedShot,0.835,0.3039999961853027,0.0400260016322135,Pierre-Emerick Aubameyang,h,318,FromCorner,2019,LeftFoot,11702,Arsenal,Aston Villa,3,2,2019-09-22 15:30:00,Ainsley Maitland-Niles,Pass
+17,321251,70,MissedShots,0.9740000152587892,0.4120000076293945,0.3942610025405884,Pierre-Emerick Aubameyang,h,318,FromCorner,2019,RightFoot,11702,Arsenal,Aston Villa,3,2,2019-09-22 15:30:00,Sokratis,Rebound
+18,321254,74,BlockedShot,0.879000015258789,0.4159999847412109,0.0834027007222175,Pierre-Emerick Aubameyang,h,318,OpenPlay,2019,RightFoot,11702,Arsenal,Aston Villa,3,2,2019-09-22 15:30:00,Nicolas Pepe,Pass
+19,321260,83,Goal,0.799000015258789,0.5590000152587891,0.1183520033955574,Pierre-Emerick Aubameyang,h,318,DirectFreekick,2019,RightFoot,11702,Arsenal,Aston Villa,3,2,2019-09-22 15:30:00,,Standard
+20,323720,57,Goal,0.8909999847412109,0.4459999847412109,0.4128659963607788,Pierre-Emerick Aubameyang,a,318,OpenPlay,2019,LeftFoot,11712,Manchester United,Arsenal,1,1,2019-09-30 19:00:00,Bukayo Saka,Throughball
+21,324730,5,MissedShots,0.8109999847412109,0.7269999694824218,0.0233539994806051,Pierre-Emerick Aubameyang,h,318,OpenPlay,2019,RightFoot,11722,Arsenal,Bournemouth,1,0,2019-10-06 14:00:00,Bukayo Saka,Pass
+22,324735,22,BlockedShot,0.8819999694824219,0.6409999847412109,0.0514649003744125,Pierre-Emerick Aubameyang,h,318,FromCorner,2019,RightFoot,11722,Arsenal,Bournemouth,1,0,2019-10-06 14:00:00,,None
+23,324737,29,SavedShot,0.909000015258789,0.474000015258789,0.0546436011791229,Pierre-Emerick Aubameyang,h,318,OpenPlay,2019,Head,11722,Arsenal,Bournemouth,1,0,2019-10-06 14:00:00,Matteo Guendouzi,Foul
+24,324750,93,ShotOnPost,0.9540000152587892,0.46,0.6475870013237,Pierre-Emerick Aubameyang,h,318,OpenPlay,2019,LeftFoot,11722,Arsenal,Bournemouth,1,0,2019-10-06 14:00:00,Calum Chambers,Pass
+25,326709,33,BlockedShot,0.8190000152587891,0.5609999847412109,0.0893974006175994,Pierre-Emerick Aubameyang,a,318,OpenPlay,2019,RightFoot,11730,Sheffield United,Arsenal,1,0,2019-10-21 20:00:00,Calum Chambers,Pass
+26,327981,13,MissedShots,0.8159999847412109,0.3890000152587891,0.1326790004968643,Pierre-Emerick Aubameyang,h,318,OpenPlay,2019,RightFoot,11733,Arsenal,Crystal Palace,2,2,2019-10-27 16:30:00,Matteo Guendouzi,Chipped
+27,327998,87,BlockedShot,0.7809999847412109,0.6730000305175782,0.0227939002215862,Pierre-Emerick Aubameyang,h,318,OpenPlay,2019,RightFoot,11733,Arsenal,Crystal Palace,2,2,2019-10-27 16:30:00,Nicolas Pepe,Pass
+28,329139,17,SavedShot,0.879000015258789,0.710999984741211,0.0333231985569,Pierre-Emerick Aubameyang,h,318,SetPiece,2019,RightFoot,11743,Arsenal,Wolverhampton Wanderers,1,1,2019-11-02 15:00:00,,None
+29,329141,20,Goal,0.894000015258789,0.529000015258789,0.4306940138339996,Pierre-Emerick Aubameyang,h,318,OpenPlay,2019,LeftFoot,11743,Arsenal,Wolverhampton Wanderers,1,1,2019-11-02 15:00:00,Alexandre Lacazette,Pass
+30,329143,25,MissedShots,0.8130000305175781,0.4970000076293945,0.0546471998095512,Pierre-Emerick Aubameyang,h,318,OpenPlay,2019,RightFoot,11743,Arsenal,Wolverhampton Wanderers,1,1,2019-11-02 15:00:00,,Rebound
+31,330838,13,BlockedShot,0.915,0.43,0.1327999979257583,Pierre-Emerick Aubameyang,a,318,OpenPlay,2019,LeftFoot,11762,Leicester,Arsenal,2,0,2019-11-09 17:30:00,Héctor Bellerín,Pass
+32,332318,17,BlockedShot,0.889000015258789,0.4420000076293945,0.0752682015299797,Pierre-Emerick Aubameyang,h,318,OpenPlay,2019,RightFoot,11763,Arsenal,Southampton,2,2,2019-11-23 15:00:00,Kieran Tierney,Cross
+33,332328,50,SavedShot,0.9230000305175782,0.595999984741211,0.397350013256073,Pierre-Emerick Aubameyang,h,318,OpenPlay,2019,RightFoot,11763,Arsenal,Southampton,2,2,2019-11-23 15:00:00,,None
+34,334207,28,Goal,0.885,0.5,0.761132001876831,Pierre-Emerick Aubameyang,a,318,Penalty,2019,RightFoot,11781,Norwich,Arsenal,2,2,2019-12-01 14:00:00,,Standard
+35,334213,56,Goal,0.926999969482422,0.5720000076293945,0.4182760119438171,Pierre-Emerick Aubameyang,a,318,FromCorner,2019,RightFoot,11781,Norwich,Arsenal,2,2,2019-12-01 14:00:00,,Rebound
+36,335198,27,MissedShots,0.875,0.345,0.074722796678543,Pierre-Emerick Aubameyang,h,318,OpenPlay,2019,RightFoot,11783,Arsenal,Brighton,1,2,2019-12-05 20:15:00,Alexandre Lacazette,Pass
+37,335211,66,BlockedShot,0.889000015258789,0.41,0.1485279947519302,Pierre-Emerick Aubameyang,h,318,OpenPlay,2019,RightFoot,11783,Arsenal,Brighton,1,2,2019-12-05 20:15:00,Nicolas Pepe,Throughball
+38,336681,45,MissedShots,0.755,0.6179999923706054,0.0162978991866111,Pierre-Emerick Aubameyang,a,318,OpenPlay,2019,RightFoot,11802,West Ham,Arsenal,1,3,2019-12-09 20:00:00,Lucas Torreira,TakeOn
+39,336691,68,Goal,0.921999969482422,0.46,0.5078740119934082,Pierre-Emerick Aubameyang,a,318,OpenPlay,2019,RightFoot,11802,West Ham,Arsenal,1,3,2019-12-09 20:00:00,,None
+40,336694,93,BlockedShot,0.8859999847412109,0.54,0.1297650039196014,Pierre-Emerick Aubameyang,a,318,OpenPlay,2019,RightFoot,11802,West Ham,Arsenal,1,3,2019-12-09 20:00:00,,TakeOn
+41,337721,47,MissedShots,0.9230000305175782,0.499000015258789,0.0786691978573799,Pierre-Emerick Aubameyang,h,318,OpenPlay,2019,Head,11803,Arsenal,Manchester City,0,3,2019-12-15 16:30:00,Ainsley Maitland-Niles,Aerial
+42,337727,72,MissedShots,0.825999984741211,0.7380000305175781,0.0198653992265462,Pierre-Emerick Aubameyang,h,318,OpenPlay,2019,LeftFoot,11803,Arsenal,Manchester City,0,3,2019-12-15 16:30:00,Lucas Torreira,Chipped
+43,338418,50,SavedShot,0.980999984741211,0.4429999923706054,0.6293389797210693,Pierre-Emerick Aubameyang,a,318,FromCorner,2019,RightFoot,11816,Everton,Arsenal,0,0,2019-12-21 12:30:00,Calum Chambers,Rebound
+44,338419,51,SavedShot,0.8530000305175781,0.4659999847412109,0.1002039983868599,Pierre-Emerick Aubameyang,a,318,OpenPlay,2019,RightFoot,11816,Everton,Arsenal,0,0,2019-12-21 12:30:00,Lucas Torreira,Pass
+45,338422,70,MissedShots,0.909000015258789,0.369000015258789,0.0670278966426849,Pierre-Emerick Aubameyang,a,318,OpenPlay,2019,RightFoot,11816,Everton,Arsenal,0,0,2019-12-21 12:30:00,Ainsley Maitland-Niles,Cross
+46,339507,18,BlockedShot,0.865999984741211,0.5529999923706055,0.0766877010464668,Pierre-Emerick Aubameyang,a,318,OpenPlay,2019,RightFoot,11824,Bournemouth,Arsenal,1,1,2019-12-26 15:00:00,,Rebound
+47,339511,25,MissedShots,0.7619999694824219,0.4729999923706054,0.0272649005055427,Pierre-Emerick Aubameyang,a,318,OpenPlay,2019,RightFoot,11824,Bournemouth,Arsenal,1,1,2019-12-26 15:00:00,Mesut Özil,Pass
+48,339517,47,MissedShots,0.8569999694824219,0.6809999847412109,0.0463402010500431,Pierre-Emerick Aubameyang,a,318,OpenPlay,2019,RightFoot,11824,Bournemouth,Arsenal,1,1,2019-12-26 15:00:00,Mesut Özil,Pass
+49,339518,60,BlockedShot,0.958000030517578,0.4109999847412109,0.0872064977884292,Pierre-Emerick Aubameyang,a,318,OpenPlay,2019,LeftFoot,11824,Bournemouth,Arsenal,1,1,2019-12-26 15:00:00,,None
+50,339521,62,Goal,0.9159999847412108,0.5879999923706055,0.3833410143852234,Pierre-Emerick Aubameyang,a,318,OpenPlay,2019,RightFoot,11824,Bournemouth,Arsenal,1,1,2019-12-26 15:00:00,,Rebound
+51,339910,12,Goal,0.95,0.4590000152587891,0.3603990077972412,Pierre-Emerick Aubameyang,h,318,FromCorner,2019,Head,11833,Arsenal,Chelsea,1,2,2019-12-29 14:00:00,Calum Chambers,None
+52,339912,42,MissedShots,0.943000030517578,0.6840000152587891,0.0832182019948959,Pierre-Emerick Aubameyang,h,318,OpenPlay,2019,LeftFoot,11833,Arsenal,Chelsea,1,2,2019-12-29 14:00:00,Bukayo Saka,Pass
+53,351593,9,MissedShots,0.8959999847412109,0.5670000076293945,0.1046539992094039,Pierre-Emerick Aubameyang,h,318,OpenPlay,2019,RightFoot,11844,Arsenal,Manchester United,2,0,2020-01-01 20:00:00,Nicolas Pepe,Cross
+54,351653,11,Goal,0.899000015258789,0.46,0.4340870082378387,Pierre-Emerick Aubameyang,a,318,OpenPlay,2019,RightFoot,11859,Crystal Palace,Arsenal,1,1,2020-01-11 12:30:00,Alexandre Lacazette,Pass
+55,352602,13,MissedShots,0.8830000305175781,0.634000015258789,0.3045650124549866,Pierre-Emerick Aubameyang,a,318,OpenPlay,2019,RightFoot,11884,Burnley,Arsenal,0,0,2020-02-02 14:00:00,David Luiz,Throughball
+56,352608,36,SavedShot,0.906999969482422,0.5729999923706055,0.305323988199234,Pierre-Emerick Aubameyang,a,318,OpenPlay,2019,RightFoot,11884,Burnley,Arsenal,0,0,2020-02-02 14:00:00,Granit Xhaka,Chipped
+57,352624,75,MissedShots,0.909000015258789,0.534000015258789,0.1065440028905868,Pierre-Emerick Aubameyang,a,318,OpenPlay,2019,Head,11884,Burnley,Arsenal,0,0,2020-02-02 14:00:00,Alexandre Lacazette,Cross
+58,352829,31,SavedShot,0.9030000305175782,0.7340000152587891,0.0366391018033027,Pierre-Emerick Aubameyang,h,318,OpenPlay,2019,LeftFoot,11893,Arsenal,Newcastle United,4,0,2020-02-16 16:30:00,Mesut Özil,Pass
+59,352832,38,BlockedShot,0.715,0.489000015258789,0.0164586994796991,Pierre-Emerick Aubameyang,h,318,OpenPlay,2019,RightFoot,11893,Arsenal,Newcastle United,4,0,2020-02-16 16:30:00,Mesut Özil,Pass
+60,352836,46,MissedShots,0.8590000152587891,0.4429999923706054,0.0763283967971801,Pierre-Emerick Aubameyang,h,318,OpenPlay,2019,RightFoot,11893,Arsenal,Newcastle United,4,0,2020-02-16 16:30:00,Dani Ceballos,Chipped
+61,352838,53,Goal,0.93,0.5670000076293945,0.4105120003223419,Pierre-Emerick Aubameyang,h,318,OpenPlay,2019,Head,11893,Arsenal,Newcastle United,4,0,2020-02-16 16:30:00,Nicolas Pepe,Aerial
+62,353117,32,Goal,0.88,0.5740000152587891,0.3379339873790741,Pierre-Emerick Aubameyang,h,318,OpenPlay,2019,RightFoot,11903,Arsenal,Everton,3,2,2020-02-23 16:30:00,David Luiz,Throughball
+63,353122,45,Goal,0.906999969482422,0.5,0.1033990010619163,Pierre-Emerick Aubameyang,h,318,OpenPlay,2019,Head,11903,Arsenal,Everton,3,2,2020-02-23 16:30:00,Nicolas Pepe,Cross
+64,353510,77,BlockedShot,0.7880000305175782,0.629000015258789,0.0255478993058204,Pierre-Emerick Aubameyang,h,318,OpenPlay,2019,RightFoot,11923,Arsenal,West Ham,1,0,2020-03-07 15:00:00,Bukayo Saka,Pass
+65,364855,24,MissedShots,0.730999984741211,0.62,0.0150020001456141,Pierre-Emerick Aubameyang,a,318,OpenPlay,2019,RightFoot,11917,Manchester City,Arsenal,3,0,2020-06-17 19:15:00,Eddie Nketiah,Pass
+66,364873,97,MissedShots,0.914000015258789,0.4870000076293945,0.3723640143871307,Pierre-Emerick Aubameyang,a,318,OpenPlay,2019,RightFoot,11917,Manchester City,Arsenal,3,0,2020-06-17 19:15:00,,None
+67,365485,0,MissedShots,0.955999984741211,0.5379999923706055,0.134676992893219,Pierre-Emerick Aubameyang,a,318,OpenPlay,2019,RightFoot,11941,Brighton,Arsenal,2,1,2020-06-20 14:00:00,Nicolas Pepe,Cross
+68,365487,4,MissedShots,0.784000015258789,0.509000015258789,0.038111001253128,Pierre-Emerick Aubameyang,a,318,OpenPlay,2019,LeftFoot,11941,Brighton,Arsenal,2,1,2020-06-20 14:00:00,,BallRecovery
+69,365494,47,SavedShot,0.845,0.725,0.1143219992518425,Pierre-Emerick Aubameyang,a,318,OpenPlay,2019,LeftFoot,11941,Brighton,Arsenal,2,1,2020-06-20 14:00:00,Dani Ceballos,TakeOn
+70,365496,59,BlockedShot,0.750999984741211,0.7230000305175781,0.0172095000743865,Pierre-Emerick Aubameyang,a,318,SetPiece,2019,RightFoot,11941,Brighton,Arsenal,2,1,2020-06-20 14:00:00,Dani Ceballos,Pass
+71,365498,65,SavedShot,0.91,0.6609999847412109,0.0607451982796192,Pierre-Emerick Aubameyang,a,318,OpenPlay,2019,LeftFoot,11941,Brighton,Arsenal,2,1,2020-06-20 14:00:00,,None
+72,365502,79,SavedShot,0.76,0.6530000305175782,0.0224312003701925,Pierre-Emerick Aubameyang,a,318,FromCorner,2019,RightFoot,11941,Brighton,Arsenal,2,1,2020-06-20 14:00:00,Shkodran Mustafi,Pass
+73,365504,82,BlockedShot,0.875,0.610999984741211,0.0649091973900795,Pierre-Emerick Aubameyang,a,318,OpenPlay,2019,RightFoot,11941,Brighton,Arsenal,2,1,2020-06-20 14:00:00,,Rebound
+74,366547,6,SavedShot,0.7219999694824218,0.46,0.0105598997324705,Pierre-Emerick Aubameyang,a,318,OpenPlay,2019,RightFoot,11952,Southampton,Arsenal,0,2,2020-06-25 17:00:00,Dani Ceballos,Aerial
+75,366548,9,ShotOnPost,0.96,0.62,0.2895820140838623,Pierre-Emerick Aubameyang,a,318,OpenPlay,2019,RightFoot,11952,Southampton,Arsenal,0,2,2020-06-25 17:00:00,Kieran Tierney,Chipped
+76,366565,92,SavedShot,0.7959999847412109,0.705999984741211,0.0363308005034923,Pierre-Emerick Aubameyang,a,318,OpenPlay,2019,RightFoot,11952,Southampton,Arsenal,0,2,2020-06-25 17:00:00,Bukayo Saka,Pass
+77,367992,9,SavedShot,0.8590000152587891,0.6619999694824219,0.0533048994839191,Pierre-Emerick Aubameyang,h,318,OpenPlay,2019,RightFoot,11953,Arsenal,Norwich,4,0,2020-07-01 17:00:00,Granit Xhaka,Pass
+78,367993,18,SavedShot,0.9080000305175782,0.5179999923706055,0.0486784987151622,Pierre-Emerick Aubameyang,h,318,OpenPlay,2019,Head,11953,Arsenal,Norwich,4,0,2020-07-01 17:00:00,Reiss Nelson,Aerial
+79,367999,32,Goal,0.9280000305175782,0.3189999961853027,0.3079209923744201,Pierre-Emerick Aubameyang,h,318,OpenPlay,2019,RightFoot,11953,Arsenal,Norwich,4,0,2020-07-01 17:00:00,,Tackle
+80,368008,66,Goal,0.8669999694824219,0.5159999847412109,0.4181309938430786,Pierre-Emerick Aubameyang,h,318,OpenPlay,2019,RightFoot,11953,Arsenal,Norwich,4,0,2020-07-01 17:00:00,,BallRecovery
+81,368708,25,SavedShot,0.9519999694824218,0.4270000076293945,0.1137290000915527,Pierre-Emerick Aubameyang,a,318,FromCorner,2019,RightFoot,11972,Wolverhampton Wanderers,Arsenal,0,2,2020-07-04 16:30:00,,None
+82,369528,19,BlockedShot,0.8569999694824219,0.66,0.0549640990793705,Pierre-Emerick Aubameyang,h,318,OpenPlay,2019,RightFoot,11973,Arsenal,Leicester,1,1,2020-07-07 19:15:00,Granit Xhaka,Pass
+83,369530,20,Goal,0.93,0.5540000152587891,0.5042440295219421,Pierre-Emerick Aubameyang,h,318,OpenPlay,2019,RightFoot,11973,Arsenal,Leicester,1,1,2020-07-07 19:15:00,Bukayo Saka,Pass
+84,370899,39,MissedShots,0.740999984741211,0.5890000152587891,0.0537508018314838,Pierre-Emerick Aubameyang,a,318,DirectFreekick,2019,RightFoot,11990,Tottenham,Arsenal,2,1,2020-07-12 15:30:00,,Standard
+85,370906,58,ShotOnPost,0.906999969482422,0.6,0.1166440024971962,Pierre-Emerick Aubameyang,a,318,OpenPlay,2019,LeftFoot,11990,Tottenham,Arsenal,2,1,2020-07-12 15:30:00,Alexandre Lacazette,Pass
+86,370911,78,SavedShot,0.8580000305175781,0.639000015258789,0.0472785010933876,Pierre-Emerick Aubameyang,a,318,OpenPlay,2019,RightFoot,11990,Tottenham,Arsenal,2,1,2020-07-12 15:30:00,,Rebound
+87,373043,53,BlockedShot,0.9159999847412108,0.4929999923706055,0.0922171026468277,Pierre-Emerick Aubameyang,a,318,OpenPlay,2019,LeftFoot,12003,Aston Villa,Arsenal,1,0,2020-07-21 19:15:00,,None
+88,373045,67,MissedShots,0.88,0.53,0.0354574993252754,Pierre-Emerick Aubameyang,a,318,OpenPlay,2019,Head,12003,Aston Villa,Arsenal,1,0,2020-07-21 19:15:00,Nicolas Pepe,Chipped
+89,373616,4,Goal,0.885,0.5,0.761132001876831,Pierre-Emerick Aubameyang,h,318,Penalty,2019,RightFoot,12014,Arsenal,Watford,3,2,2020-07-26 15:00:00,,Standard
+90,373619,10,BlockedShot,0.754000015258789,0.545,0.0252356994897127,Pierre-Emerick Aubameyang,h,318,OpenPlay,2019,RightFoot,12014,Arsenal,Watford,3,2,2020-07-26 15:00:00,Nicolas Pepe,Pass
+91,373626,32,Goal,0.950999984741211,0.5459999847412109,0.1452980041503906,Pierre-Emerick Aubameyang,h,318,OpenPlay,2019,RightFoot,12014,Arsenal,Watford,3,2,2020-07-26 15:00:00,Kieran Tierney,Pass
+92,373642,74,SavedShot,0.9130000305175782,0.634000015258789,0.3965069949626922,Pierre-Emerick Aubameyang,h,318,OpenPlay,2019,RightFoot,12014,Arsenal,Watford,3,2,2020-07-26 15:00:00,Eddie Nketiah,Pass
+0,310458,66,MissedShots,0.784000015258789,0.4620000076293945,0.0398055985569953,Danny Ings,h,986,OpenPlay,2019,LeftFoot,11658,Southampton,Liverpool,1,2,2019-08-17 15:00:00,Nathan Redmond,TakeOn
+1,310464,82,Goal,0.8969999694824219,0.4809999847412109,0.078456699848175,Danny Ings,h,986,OpenPlay,2019,RightFoot,11658,Southampton,Liverpool,1,2,2019-08-17 15:00:00,,None
+2,310465,85,MissedShots,0.9540000152587892,0.4609999847412109,0.5636339783668518,Danny Ings,h,986,OpenPlay,2019,RightFoot,11658,Southampton,Liverpool,1,2,2019-08-17 15:00:00,Yan Valery,Cross
+3,310466,91,BlockedShot,0.9619999694824218,0.575999984741211,0.0829240977764129,Danny Ings,h,986,SetPiece,2019,RightFoot,11658,Southampton,Liverpool,1,2,2019-08-17 15:00:00,James Ward-Prowse,End
+4,312531,67,MissedShots,0.7480000305175781,0.5879999923706055,0.0186810996383428,Danny Ings,a,986,FromCorner,2019,RightFoot,11666,Brighton,Southampton,0,2,2019-08-24 15:00:00,Jannik Vestergaard,Pass
+5,315569,34,MissedShots,0.7190000152587891,0.3390000152587891,0.0150632001459598,Danny Ings,h,986,OpenPlay,2019,RightFoot,11673,Southampton,Manchester United,1,1,2019-08-31 12:30:00,Pierre-Emile Højbjerg,Pass
+6,315574,57,SavedShot,0.9230000305175782,0.61,0.0301258005201816,Danny Ings,h,986,FromCorner,2019,Head,11673,Southampton,Manchester United,1,1,2019-08-31 12:30:00,James Ward-Prowse,Cross
+7,320120,81,MissedShots,0.894000015258789,0.4879999923706055,0.0296238008886575,Danny Ings,h,986,OpenPlay,2019,Head,11693,Southampton,Bournemouth,1,3,2019-09-20 19:00:00,Cédric Soares,Aerial
+8,320122,85,BlockedShot,0.81,0.534000015258789,0.0392503999173641,Danny Ings,h,986,OpenPlay,2019,RightFoot,11693,Southampton,Bournemouth,1,3,2019-09-20 19:00:00,James Ward-Prowse,Pass
+9,320123,87,BlockedShot,0.9030000305175782,0.6609999847412109,0.0549702011048793,Danny Ings,h,986,OpenPlay,2019,LeftFoot,11693,Southampton,Bournemouth,1,3,2019-09-20 19:00:00,,Dispossessed
+10,320124,92,BlockedShot,0.8119999694824219,0.4970000076293945,0.0167046003043651,Danny Ings,h,986,OpenPlay,2019,RightFoot,11693,Southampton,Bournemouth,1,3,2019-09-20 19:00:00,,Aerial
+11,322676,4,MissedShots,0.855999984741211,0.740999984741211,0.0262042991816997,Danny Ings,a,986,OpenPlay,2019,RightFoot,11704,Tottenham,Southampton,2,1,2019-09-28 14:00:00,Jannik Vestergaard,Pass
+12,322689,38,Goal,0.9669999694824218,0.5220000076293946,0.4928990006446838,Danny Ings,a,986,OpenPlay,2019,LeftFoot,11704,Tottenham,Southampton,2,1,2019-09-28 14:00:00,,Tackle
+13,324684,29,Goal,0.968000030517578,0.484000015258789,0.6185309886932373,Danny Ings,h,986,OpenPlay,2019,LeftFoot,11718,Southampton,Chelsea,1,4,2019-10-06 14:00:00,,None
+14,324689,45,BlockedShot,0.8830000305175781,0.3709999847412109,0.3002490103244781,Danny Ings,h,986,OpenPlay,2019,RightFoot,11718,Southampton,Chelsea,1,4,2019-10-06 14:00:00,,BallRecovery
+15,324697,78,MissedShots,0.916999969482422,0.4409999847412109,0.0527230016887187,Danny Ings,h,986,OpenPlay,2019,Head,11718,Southampton,Chelsea,1,4,2019-10-06 14:00:00,James Ward-Prowse,Chipped
+16,325667,14,SavedShot,0.955999984741211,0.6940000152587891,0.1113609969615936,Danny Ings,a,986,OpenPlay,2019,LeftFoot,11732,Wolverhampton Wanderers,Southampton,1,1,2019-10-19 15:00:00,Ryan Bertrand,Throughball
+17,325669,23,BlockedShot,0.953000030517578,0.359000015258789,0.0470933988690376,Danny Ings,a,986,SetPiece,2019,RightFoot,11732,Wolverhampton Wanderers,Southampton,1,1,2019-10-19 15:00:00,James Ward-Prowse,Cross
+18,325671,30,MissedShots,0.933000030517578,0.56,0.0991872027516365,Danny Ings,a,986,FromCorner,2019,RightFoot,11732,Wolverhampton Wanderers,Southampton,1,1,2019-10-19 15:00:00,James Ward-Prowse,Cross
+19,325672,37,MissedShots,0.9640000152587892,0.5729999923706055,0.1097709983587265,Danny Ings,a,986,OpenPlay,2019,RightFoot,11732,Wolverhampton Wanderers,Southampton,1,1,2019-10-19 15:00:00,,None
+20,325675,45,SavedShot,0.860999984741211,0.499000015258789,0.0882646963000297,Danny Ings,a,986,OpenPlay,2019,RightFoot,11732,Wolverhampton Wanderers,Southampton,1,1,2019-10-19 15:00:00,,BallRecovery
+21,325676,52,Goal,0.9030000305175782,0.479000015258789,0.4385069906711578,Danny Ings,a,986,OpenPlay,2019,RightFoot,11732,Wolverhampton Wanderers,Southampton,1,1,2019-10-19 15:00:00,,BallRecovery
+22,326842,35,MissedShots,0.745999984741211,0.475,0.0186270996928215,Danny Ings,h,986,OpenPlay,2019,RightFoot,11740,Southampton,Leicester,0,9,2019-10-25 20:00:00,,BallRecovery
+23,329210,43,SavedShot,0.735999984741211,0.425,0.0217128004878759,Danny Ings,a,986,OpenPlay,2019,RightFoot,11749,Manchester City,Southampton,2,1,2019-11-02 15:00:00,Nathan Redmond,Pass
+24,330672,49,Goal,0.965999984741211,0.5029999923706054,0.6642559766769409,Danny Ings,h,986,FromCorner,2019,LeftFoot,11758,Southampton,Everton,1,2,2019-11-09 15:00:00,,None
+25,332314,7,Goal,0.911999969482422,0.6430000305175781,0.2789910137653351,Danny Ings,a,986,SetPiece,2019,RightFoot,11763,Arsenal,Southampton,2,2,2019-11-23 15:00:00,Ryan Bertrand,Pass
+26,332316,13,MissedShots,0.8540000152587891,0.4640000152587891,0.1006750017404556,Danny Ings,a,986,OpenPlay,2019,RightFoot,11763,Arsenal,Southampton,2,2,2019-11-23 15:00:00,Michael Obafemi,Pass
+27,332322,37,MissedShots,0.7780000305175782,0.469000015258789,0.0418713986873626,Danny Ings,a,986,OpenPlay,2019,LeftFoot,11763,Arsenal,Southampton,2,2,2019-11-23 15:00:00,Michael Obafemi,LayOff
+28,333805,26,SavedShot,0.8719999694824219,0.55,0.0191548001021146,Danny Ings,h,986,OpenPlay,2019,Head,11778,Southampton,Watford,2,1,2019-11-30 17:30:00,Pierre-Emile Højbjerg,Aerial
+29,333814,77,Goal,0.99,0.455,0.8595190048217773,Danny Ings,h,986,OpenPlay,2019,RightFoot,11778,Southampton,Watford,2,1,2019-11-30 17:30:00,Moussa Djenepo,Pass
+30,335086,21,Goal,0.9769999694824218,0.545,0.6286370158195496,Danny Ings,h,986,SetPiece,2019,Head,11790,Southampton,Norwich,2,1,2019-12-04 19:30:00,James Ward-Prowse,Cross
+31,335089,33,BlockedShot,0.8480000305175781,0.4409999847412109,0.0339497998356819,Danny Ings,h,986,FromCorner,2019,LeftFoot,11790,Southampton,Norwich,2,1,2019-12-04 19:30:00,Shane Long,TakeOn
+32,335090,41,BlockedShot,0.785,0.4659999847412109,0.0703328996896743,Danny Ings,h,986,OpenPlay,2019,RightFoot,11790,Southampton,Norwich,2,1,2019-12-04 19:30:00,Pierre-Emile Højbjerg,Pass
+33,335099,63,MissedShots,0.8680000305175781,0.624000015258789,0.0882252976298332,Danny Ings,h,986,OpenPlay,2019,LeftFoot,11790,Southampton,Norwich,2,1,2019-12-04 19:30:00,Nathan Redmond,Chipped
+34,336304,51,Goal,0.906999969482422,0.345,0.0656585991382598,Danny Ings,a,986,OpenPlay,2019,RightFoot,11798,Newcastle United,Southampton,2,1,2019-12-08 14:00:00,Jack Stephens,Pass
+35,336316,78,MissedShots,0.914000015258789,0.4629999923706054,0.1181550025939941,Danny Ings,a,986,OpenPlay,2019,Head,11798,Newcastle United,Southampton,2,1,2019-12-08 14:00:00,Cédric Soares,Cross
+36,337172,69,ShotOnPost,0.911999969482422,0.639000015258789,0.0591381005942821,Danny Ings,h,986,OpenPlay,2019,LeftFoot,11811,Southampton,West Ham,0,1,2019-12-14 17:30:00,Moussa Djenepo,Cross
+37,338686,20,Goal,0.931999969482422,0.499000015258789,0.5648180246353149,Danny Ings,a,986,OpenPlay,2019,LeftFoot,11813,Aston Villa,Southampton,1,3,2019-12-21 15:00:00,,Rebound
+38,338697,50,Goal,0.9569999694824218,0.62,0.1031349971890449,Danny Ings,a,986,OpenPlay,2019,LeftFoot,11813,Aston Villa,Southampton,1,3,2019-12-21 15:00:00,,None
+39,338709,83,SavedShot,0.884000015258789,0.580999984741211,0.1348289996385574,Danny Ings,a,986,OpenPlay,2019,RightFoot,11813,Aston Villa,Southampton,1,3,2019-12-21 15:00:00,Pierre-Emile Højbjerg,Pass
+40,339791,45,BlockedShot,0.8569999694824219,0.4570000076293945,0.0707938000559806,Danny Ings,h,986,OpenPlay,2019,RightFoot,11840,Southampton,Crystal Palace,1,1,2019-12-28 15:00:00,,Rebound
+41,339790,45,BlockedShot,0.8580000305175781,0.4470000076293945,0.0701436996459961,Danny Ings,h,986,OpenPlay,2019,RightFoot,11840,Southampton,Crystal Palace,1,1,2019-12-28 15:00:00,,None
+42,339796,57,BlockedShot,0.916999969482422,0.3179999923706054,0.0492607988417148,Danny Ings,h,986,OpenPlay,2019,RightFoot,11840,Southampton,Crystal Palace,1,1,2019-12-28 15:00:00,,None
+43,339798,73,Goal,0.8430000305175781,0.479000015258789,0.2850410044193268,Danny Ings,h,986,OpenPlay,2019,RightFoot,11840,Southampton,Crystal Palace,1,1,2019-12-28 15:00:00,,BallRecovery
+44,339800,79,SavedShot,0.9519999694824218,0.5840000152587891,0.0825781002640724,Danny Ings,h,986,FromCorner,2019,Head,11840,Southampton,Crystal Palace,1,1,2019-12-28 15:00:00,James Ward-Prowse,Cross
+45,339802,81,MissedShots,0.9159999847412108,0.5729999923706055,0.0854265019297599,Danny Ings,h,986,OpenPlay,2019,Head,11840,Southampton,Crystal Palace,1,1,2019-12-28 15:00:00,Moussa Djenepo,Cross
+46,351479,0,BlockedShot,0.8619999694824219,0.5370000076293945,0.0771944969892501,Danny Ings,h,986,OpenPlay,2019,RightFoot,11851,Southampton,Tottenham,1,0,2020-01-01 15:00:00,,None
+47,351483,16,Goal,0.914000015258789,0.4640000152587891,0.4444800019264221,Danny Ings,h,986,OpenPlay,2019,LeftFoot,11851,Southampton,Tottenham,1,0,2020-01-01 15:00:00,Jack Stephens,TakeOn
+48,351701,5,SavedShot,0.9030000305175782,0.544000015258789,0.4177649915218353,Danny Ings,a,986,OpenPlay,2019,RightFoot,11861,Leicester,Southampton,1,2,2020-01-11 15:00:00,,BallRecovery
+49,351702,5,SavedShot,0.885,0.5379999923706055,0.1021770015358924,Danny Ings,a,986,OpenPlay,2019,RightFoot,11861,Leicester,Southampton,1,2,2020-01-11 15:00:00,,Rebound
+50,351707,24,MissedShots,0.9590000152587892,0.5659999847412109,0.0800556018948555,Danny Ings,a,986,OpenPlay,2019,Head,11861,Leicester,Southampton,1,2,2020-01-11 15:00:00,Ryan Bertrand,Aerial
+51,351713,42,ShotOnPost,0.855,0.6530000305175782,0.0478348992764949,Danny Ings,a,986,FromCorner,2019,RightFoot,11861,Leicester,Southampton,1,2,2020-01-11 15:00:00,,Rebound
+52,351712,42,MissedShots,0.909000015258789,0.7030000305175781,0.0320664010941982,Danny Ings,a,986,FromCorner,2019,LeftFoot,11861,Leicester,Southampton,1,2,2020-01-11 15:00:00,Jack Stephens,BallTouch
+53,351711,42,ShotOnPost,0.9640000152587892,0.4079999923706054,0.1066719964146614,Danny Ings,a,986,OpenPlay,2019,RightFoot,11861,Leicester,Southampton,1,2,2020-01-11 15:00:00,Stuart Armstrong,Cross
+54,351715,47,SavedShot,0.901999969482422,0.45,0.0650565028190612,Danny Ings,a,986,OpenPlay,2019,Head,11861,Leicester,Southampton,1,2,2020-01-11 15:00:00,Stuart Armstrong,Cross
+55,351718,80,Goal,0.8219999694824218,0.6309999847412109,0.3140330016613006,Danny Ings,a,986,OpenPlay,2019,RightFoot,11861,Leicester,Southampton,1,2,2020-01-11 15:00:00,Che Adams,Throughball
+56,351719,82,SavedShot,0.8619999694824219,0.549000015258789,0.4875789880752563,Danny Ings,a,986,OpenPlay,2019,RightFoot,11861,Leicester,Southampton,1,2,2020-01-11 15:00:00,Nathan Redmond,Pass
+57,351948,49,BlockedShot,0.901999969482422,0.5420000076293945,0.131521001458168,Danny Ings,h,986,OpenPlay,2019,LeftFoot,11870,Southampton,Wolverhampton Wanderers,2,3,2020-01-18 15:00:00,Ryan Bertrand,Cross
+58,352548,39,BlockedShot,0.8959999847412109,0.4229999923706055,0.1387930065393448,Danny Ings,a,986,OpenPlay,2019,LeftFoot,11887,Liverpool,Southampton,4,0,2020-02-01 15:00:00,,TakeOn
+59,352552,44,SavedShot,0.9230000305175782,0.3029999923706055,0.0569401010870933,Danny Ings,a,986,OpenPlay,2019,RightFoot,11887,Liverpool,Southampton,4,0,2020-02-01 15:00:00,Shane Long,HeadPass
+60,352553,45,BlockedShot,0.960999984741211,0.4009999847412109,0.0185762997716665,Danny Ings,a,986,FromCorner,2019,Head,11887,Liverpool,Southampton,4,0,2020-02-01 15:00:00,James Ward-Prowse,Aerial
+61,352556,57,BlockedShot,0.855999984741211,0.3959999847412109,0.0720093995332717,Danny Ings,a,986,OpenPlay,2019,RightFoot,11887,Liverpool,Southampton,4,0,2020-02-01 15:00:00,Shane Long,Pass
+62,352744,17,Goal,0.8030000305175782,0.4540000152587891,0.042493499815464,Danny Ings,h,986,OpenPlay,2019,RightFoot,11901,Southampton,Burnley,1,2,2020-02-15 12:30:00,,TakeOn
+63,353002,17,SavedShot,0.915,0.6020000076293945,0.36564901471138,Danny Ings,h,986,OpenPlay,2019,RightFoot,11908,Southampton,Aston Villa,2,0,2020-02-22 15:00:00,,TakeOn
+64,353008,47,BlockedShot,0.789000015258789,0.6959999847412109,0.0330679006874561,Danny Ings,h,986,FromCorner,2019,RightFoot,11908,Southampton,Aston Villa,2,0,2020-02-22 15:00:00,Stuart Armstrong,Pass
+65,353010,52,BlockedShot,0.8590000152587891,0.4540000152587891,0.0650106966495513,Danny Ings,h,986,FromCorner,2019,RightFoot,11908,Southampton,Aston Villa,2,0,2020-02-22 15:00:00,,None
+66,353315,85,BlockedShot,0.8480000305175781,0.3659999847412109,0.061480700969696,Danny Ings,a,986,OpenPlay,2019,RightFoot,11922,West Ham,Southampton,3,1,2020-02-29 15:00:00,James Ward-Prowse,Pass
+67,353456,2,BlockedShot,0.953000030517578,0.4059999847412109,0.0221512001007795,Danny Ings,h,986,FromCorner,2019,Head,11930,Southampton,Newcastle United,0,1,2020-03-07 15:00:00,Ryan Bertrand,Aerial
+68,365027,17,BlockedShot,0.8980000305175782,0.67,0.1143670007586479,Danny Ings,a,986,OpenPlay,2019,LeftFoot,11937,Norwich,Southampton,0,3,2020-06-19 17:00:00,,BallRecovery
+69,365030,33,ShotOnPost,0.8730000305175781,0.6509999847412109,0.3175469934940338,Danny Ings,a,986,OpenPlay,2019,RightFoot,11937,Norwich,Southampton,0,3,2020-06-19 17:00:00,Jack Stephens,Pass
+70,365034,48,Goal,0.85,0.6419999694824219,0.0569785982370376,Danny Ings,a,986,OpenPlay,2019,RightFoot,11937,Norwich,Southampton,0,3,2020-06-19 17:00:00,Stuart Armstrong,Pass
+71,365039,58,BlockedShot,0.926999969482422,0.4309999847412109,0.0744886994361877,Danny Ings,a,986,FromCorner,2019,Head,11937,Norwich,Southampton,0,3,2020-06-19 17:00:00,James Ward-Prowse,Cross
+72,366545,0,MissedShots,0.905,0.654000015258789,0.0442276000976562,Danny Ings,h,986,OpenPlay,2019,RightFoot,11952,Southampton,Arsenal,0,2,2020-06-25 17:00:00,Ryan Bertrand,Cross
+73,366550,12,BlockedShot,0.8530000305175781,0.4,0.067606396973133,Danny Ings,h,986,OpenPlay,2019,RightFoot,11952,Southampton,Arsenal,0,2,2020-06-25 17:00:00,,BallRecovery
+74,366558,62,MissedShots,0.8930000305175781,0.5020000076293946,0.0986445024609565,Danny Ings,h,986,OpenPlay,2019,RightFoot,11952,Southampton,Arsenal,0,2,2020-06-25 17:00:00,Shane Long,Chipped
+75,367398,15,Goal,0.7759999847412109,0.4909999847412109,0.0389332994818687,Danny Ings,a,986,OpenPlay,2019,RightFoot,11961,Watford,Southampton,1,3,2020-06-28 15:30:00,William Smallbone,TakeOn
+76,367408,69,Goal,0.904000015258789,0.3340000152587891,0.0805400013923645,Danny Ings,a,986,OpenPlay,2019,RightFoot,11961,Watford,Southampton,1,3,2020-06-28 15:30:00,,BallRecovery
+77,369227,43,MissedShots,0.9080000305175782,0.475,0.3340969979763031,Danny Ings,h,986,OpenPlay,2019,LeftFoot,11970,Southampton,Manchester City,1,0,2020-07-05 18:00:00,Kyle Walker-Peters,Chipped
+78,370079,26,SavedShot,0.96,0.59,0.0726073011755943,Danny Ings,a,986,FromCorner,2019,Head,11978,Everton,Southampton,1,1,2020-07-09 17:00:00,James Ward-Prowse,Cross
+79,370083,30,Goal,0.9669999694824218,0.4829999923706055,0.7669090032577515,Danny Ings,a,986,OpenPlay,2019,LeftFoot,11978,Everton,Southampton,1,1,2020-07-09 17:00:00,Stuart Armstrong,Rebound
+80,370086,44,MissedShots,0.9059999847412108,0.5790000152587891,0.0646082982420921,Danny Ings,a,986,OpenPlay,2019,Head,11978,Everton,Southampton,1,1,2020-07-09 17:00:00,Ryan Bertrand,Cross
+81,370096,82,BlockedShot,0.8519999694824218,0.605999984741211,0.0906705036759376,Danny Ings,a,986,OpenPlay,2019,RightFoot,11978,Everton,Southampton,1,1,2020-07-09 17:00:00,,TakeOn
+82,371245,51,BlockedShot,0.9180000305175782,0.624000015258789,0.0950421020388603,Danny Ings,a,986,OpenPlay,2019,RightFoot,11987,Manchester United,Southampton,2,2,2020-07-13 19:00:00,,TakeOn
+83,372155,39,BlockedShot,0.8930000305175781,0.3070000076293945,0.05049280077219,Danny Ings,h,986,OpenPlay,2019,RightFoot,12002,Southampton,Brighton,1,1,2020-07-16 19:15:00,William Smallbone,Pass
+84,372160,55,ShotOnPost,0.8480000305175781,0.7090000152587891,0.0359751991927623,Danny Ings,h,986,OpenPlay,2019,RightFoot,12002,Southampton,Brighton,1,1,2020-07-16 19:15:00,James Ward-Prowse,Pass
+85,372164,64,BlockedShot,0.93,0.45,0.1294099986553192,Danny Ings,h,986,SetPiece,2019,Head,12002,Southampton,Brighton,1,1,2020-07-16 19:15:00,James Ward-Prowse,Cross
+86,372166,65,Goal,0.9030000305175782,0.629000015258789,0.2604860067367553,Danny Ings,h,986,OpenPlay,2019,LeftFoot,12002,Southampton,Brighton,1,1,2020-07-16 19:15:00,Nathan Redmond,Pass
+87,372168,72,MissedShots,0.953000030517578,0.4879999923706055,0.1325969994068145,Danny Ings,h,986,FromCorner,2019,Head,12002,Southampton,Brighton,1,1,2020-07-16 19:15:00,James Ward-Prowse,Cross
+88,372431,40,Goal,0.8180000305175781,0.5570000076293945,0.0594815984368324,Danny Ings,a,986,OpenPlay,2019,RightFoot,12004,Bournemouth,Southampton,0,2,2020-07-19 13:00:00,Nathan Redmond,Pass
+89,372432,46,MissedShots,0.7830000305175782,0.415,0.0410461984574794,Danny Ings,a,986,OpenPlay,2019,RightFoot,12004,Bournemouth,Southampton,0,2,2020-07-19 13:00:00,Oriol Romeu,Pass
+90,372437,58,SavedShot,0.885,0.5,0.7611690163612366,Danny Ings,a,986,Penalty,2019,RightFoot,12004,Bournemouth,Southampton,0,2,2020-07-19 13:00:00,,Standard
+91,373796,33,BlockedShot,0.8519999694824218,0.4429999923706054,0.0590592995285987,Danny Ings,h,986,OpenPlay,2019,LeftFoot,12015,Southampton,Sheffield United,3,1,2020-07-26 15:00:00,,None
+92,373807,83,Goal,0.885,0.5,0.7611690163612366,Danny Ings,h,986,Penalty,2019,RightFoot,12015,Southampton,Sheffield United,3,1,2020-07-26 15:00:00,,Standard
