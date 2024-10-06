@@ -2,8 +2,6 @@
 #Need to study and learn more about tkinter!
 from tkinter import *
 from tkinter import ttk
-import asyncio
-import aiohttp
 import pandas as pd
 import matplotlib.pyplot as plt
 from matplotlib.backends.backend_tkagg import FigureCanvasTkAgg
@@ -18,25 +16,33 @@ class heatMapWindow(Toplevel):
         self.figs = figs
         self.names = names
         self.geometry('900x900')
-        players_frame = Frame(self, bg='grey')
-        players_frame.pack(side=LEFT)
-        players_frame.pack_propagate(False)
-        players_frame.configure(width=100, height=400)
+        self.main_frame = Frame(self, bg='white')
+        self.main_frame.pack(side=RIGHT)
+        self.players_frame = Frame(self, bg='white')
+        self.players_frame.pack(side=LEFT)
+        #players_frame.pack_propagate(False)
+        self.players_frame.configure(width=100, height=900)
 
         #need to make this display and delete old plots
-        for player in self.names:
-            playerButton = Button(players_frame, text=player, font=('Bold', 8), bd=0, bg='grey')
+        for i in range(10):
+            playerButton = Button(self.players_frame, text=names[i], font=('Bold', 8), bd=0, bg='white', 
+                                  command=lambda i=i: make_canvas(figs[i], self.main_frame))
             playerButton.pack()
+        
+        make_canvas(figs[0], self.main_frame)
+
 
         #this is how to make a plot appear!
-        canvas = FigureCanvasTkAgg(self.figs[0], master = self)
-        canvas.draw()
-        canvas.get_tk_widget().pack()
+        #canvas = FigureCanvasTkAgg(self.figs[0], master = self)
+        #canvas.draw()
+        #canvas.get_tk_widget().pack()
         
-        
-
-def test():
-    year_label.config(text=year_combo.get())
+def make_canvas(fig, master):
+    for frame in master.winfo_children():
+        frame.destroy()
+    canvas = FigureCanvasTkAgg(fig, master=master)
+    canvas.draw()
+    canvas.get_tk_widget().pack()
 
 def shotPlot(data, name):
     #data['X'] = data['X'] * 100
@@ -345,8 +351,6 @@ def call():
         figs.append(shotPlot(shotData[i], top_player_names[i]))
     # build new window with buttons of players
     new_window = heatMapWindow(figs, top_player_names)
-
-
 
 root = Tk()
 root.title("Premier League Shooters!")
