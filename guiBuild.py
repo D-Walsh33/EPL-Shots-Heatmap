@@ -354,7 +354,7 @@ def call():
 
 root = Tk()
 root.title("Premier League Shooters!")
-root.geometry('600x400')
+root.geometry('200x200')
 
 # Create a ComboBox
 year_list = [2015, 2016, 2017,
@@ -373,5 +373,6 @@ year_label.pack(pady=20)
 
 year_button = Button(root, text='Submit', command=call)
 year_button.pack(pady=20)
+
 
 root.mainloop()
