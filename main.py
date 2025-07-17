@@ -5,7 +5,7 @@ import pandas as pd
 
 data = None
 players = None
-
+player_buttons = []
 window = Tk()
 window.title('Premier League Shots Heatmap')
 
@@ -13,10 +13,13 @@ select_label = Label(text='Select a year:', font=('Arial', 25, 'bold'))
 select_label.pack()
 
 def generate_buttons(data, players):
+    global player_buttons
+    for button in player_buttons:
+        button.destroy()
     for player in players:
-        player_data = data[data['player'] == player]
-        new_button = Button(text=player, command=lambda player=player: shotPlot.shotPlot(player_data, player))
+        new_button = Button(text=player, command=lambda player=player: shotPlot.shotPlot(data[data['player']== player], player))
         new_button.pack()
+        player_buttons.append(new_button)
 
 
 def year_combo_selected(event):
@@ -29,7 +32,7 @@ def year_combo_selected(event):
 
 
 
-years = [str(year) for year in range(2025, 2010, -1)]
+years = [str(year) for year in range(2024, 2014, -1)]
 yearvar = StringVar()
 year_combo = ttk.Combobox(textvariable=yearvar)
 year_combo.bind('<<ComboboxSelected>>', year_combo_selected, )
