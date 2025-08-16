@@ -1,54 +1,11 @@
-#Building the GUI.
-#Need to study and learn more about tkinter!
-from tkinter import *
-from tkinter import ttk
-import pandas as pd
 import matplotlib.pyplot as plt
-from matplotlib.backends.backend_tkagg import FigureCanvasTkAgg
-
-from understat import Understat
+import matplotlib.font_manager as font_manager
 from mplsoccer import VerticalPitch
 
-class heatMapWindow(Toplevel):
-    def __init__(self, figs, names):
-        super().__init__()
-        self.title('Heat Map Window')
-        self.figs = figs
-        self.names = names
-        self.geometry('900x900')
-        self.main_frame = Frame(self, bg='white')
-        self.main_frame.pack(side=RIGHT)
-        self.players_frame = Frame(self, bg='white')
-        self.players_frame.pack(side=LEFT)
-        #players_frame.pack_propagate(False)
-        self.players_frame.configure(width=100, height=900)
-
-        #need to make this display and delete old plots
-        for i in range(10):
-            playerButton = Button(self.players_frame, text=names[i], font=('Bold', 8), bd=0, bg='white', 
-                                  command=lambda i=i: make_canvas(figs[i], self.main_frame))
-            playerButton.pack()
-        
-        make_canvas(figs[0], self.main_frame)
-
-
-        #this is how to make a plot appear!
-        #canvas = FigureCanvasTkAgg(self.figs[0], master = self)
-        #canvas.draw()
-        #canvas.get_tk_widget().pack()
-        
-def make_canvas(fig, master):
-    for frame in master.winfo_children():
-        frame.destroy()
-    canvas = FigureCanvasTkAgg(fig, master=master)
-    canvas.draw()
-    canvas.get_tk_widget().pack()
-
 def shotPlot(data, name):
-    #data['X'] = data['X'] * 100
-    #data['Y'] = data['Y'] * 100
-    data.loc[:, 'X'] *= 100
-    data.loc[:, 'Y'] *= 100
+    data.loc[:, 'X'] = data['X'] * 100
+    data.loc[:, 'Y'] = data['Y'] * 100
+
     total_shots = data.shape[0]
     total_goals = data[data['result'] == 'Goal'].shape[0]
     total_xG = data['xG'].sum()
@@ -57,7 +14,6 @@ def shotPlot(data, name):
     actual_avg_dist = 120 - (data['X'] * 1.2).mean()
 
     background_color = '#0C0D0E'
-    import matplotlib.font_manager as font_manager
     font_path = './fonts/Arvo-Regular.ttf'
     font_props = font_manager.FontProperties(fname = font_path)
 
@@ -332,47 +288,4 @@ def shotPlot(data, name):
         color='red',
         ha='center'
     )
-    #plt.show()
-    return fig
-
-
-def call():
-    shotDataDF = pd.read_csv(f'./data/topShooters{year_combo.get()}.csv')
-    shotDataDF[['xG', 'X', 'Y']] = shotDataDF[['xG', 'X', 'Y']].apply(pd.to_numeric)
-    top_player_names = []
-    shotData = []
-    figs = []
-    # list of top 10 shooters dataFrames
-    for i in range(10):
-        df = shotDataDF[shotDataDF['player'] == shotDataDF['player'].value_counts().index[i]]
-        name = shotDataDF['player'].value_counts().index[i]
-        shotData.append(df)
-        top_player_names.append(name)    
-        figs.append(shotPlot(shotData[i], top_player_names[i]))
-    # build new window with buttons of players
-    new_window = heatMapWindow(figs, top_player_names)
-
-root = Tk()
-root.title("Premier League Shooters!")
-root.geometry('200x200')
-
-# Create a ComboBox
-year_list = [2015, 2016, 2017,
-            2018, 2019,
-             2020, 2021,
-             2022, 2023,
-             2024]
-year_combo = ttk.Combobox(root, values=year_list, state='readonly')
-year_combo.pack(pady=20)
-
-#set default year
-year_combo.set(2024)
-
-year_label = Label(root, text='', font=("Helvetica", 18))
-year_label.pack(pady=20)
-
-year_button = Button(root, text='Submit', command=call)
-year_button.pack(pady=20)
-
-
-root.mainloop()
+    plt.show()
