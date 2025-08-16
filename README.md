@@ -1,27 +1,17 @@
 # EPL-Shots-Heatmap
 
-This is a small project to better understand using tkinter to create a GUI for python.
-When this project is completed the user will be able to create nice graphs to visualize Premier League shots.
+I have created a simple script for getting shot data from Understat and creating a visual of the top 10 players with the most shots.
+
+I made a simple Gui interface using Tkinter to help generate these visualizations.
 
 <img src='./fodenAllShots.png' height='700' width='400'>
-
-I have created a simple GUI for the user to select which year they would like to look at and they can cycle through the top 10 players:
-
-<img src='updatedGUI.gif'>
-
-# My Project
-
-A brief description of your project goes here.
-
----
 
 ## Setup & Installation
 
 ### 1. Clone the repository
 
 ```bash
-git clone <your-repo-url>
-cd my_project
+git clone https://github.com/D-Walsh33/EPL-Shots-Heatmap
 ```
 
 ---
