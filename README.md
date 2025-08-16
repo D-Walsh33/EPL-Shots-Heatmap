@@ -44,10 +44,19 @@ pip install -r requirements.txt
 ### 4. Run your scripts
 
 ```bash
-python src/main.py
+python main.py
 ```
 
-- Replace `src/main.py` with the path to your main script.
+---
+
+### 4. Update Data
+
+```bash
+python getData.py
+```
+
+- In getData.py you can change which year or years you would like to get data for.
+- If you add new files to the data folder, Edit main.py to reflect the new files.
 
 ---
 
@@ -84,3 +93,4 @@ alias activate_myproject='source ~/my_project/venv/Scripts/activate'
 
 - This setup works for Windows Bash, Linux, and macOS with minor path adjustments.
 - Ensure Python 3.11 is used for compatibility with `understat`.
+-
