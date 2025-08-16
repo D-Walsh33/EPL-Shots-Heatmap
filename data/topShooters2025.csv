@@ -1,0 +1,27 @@
+,id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+0,637500,2,SavedShot,0.7619999694824219,0.6990000152587891,0.0146010080352425,Hugo Ekitike,h,8995,OpenPlay,2025,RightFoot,28778,Liverpool,Bournemouth,4,2,2025-08-15 19:00:00,Cody Gakpo,Pass
+1,637507,36,Goal,0.8909999847412109,0.524000015258789,0.404091328382492,Hugo Ekitike,h,8995,OpenPlay,2025,RightFoot,28778,Liverpool,Bournemouth,4,2,2025-08-15 19:00:00,Alexis Mac Allister,TakeOn
+2,637508,38,MissedShots,0.941999969482422,0.4829999923706055,0.534849226474762,Hugo Ekitike,h,8995,OpenPlay,2025,Head,28778,Liverpool,Bournemouth,4,2,2025-08-15 19:00:00,Cody Gakpo,Cross
+3,637513,46,MissedShots,0.960999984741211,0.5209999847412109,0.1347046047449112,Hugo Ekitike,h,8995,FromCorner,2025,OtherBodyPart,28778,Liverpool,Bournemouth,4,2,2025-08-15 19:00:00,Florian Wirtz,Aerial
+0,637503,5,MissedShots,0.9080000305175782,0.444000015258789,0.3169209659099579,Antoine Semenyo,a,11363,OpenPlay,2025,RightFoot,28778,Liverpool,Bournemouth,4,2,2025-08-15 19:00:00,Adrien Truffert,Cross
+1,637519,63,Goal,0.9080000305175782,0.5129999923706055,0.4259942471981048,Antoine Semenyo,a,11363,OpenPlay,2025,LeftFoot,28778,Liverpool,Bournemouth,4,2,2025-08-15 19:00:00,David Brooks,Cross
+2,637523,75,Goal,0.825,0.4829999923706055,0.0955900996923446,Antoine Semenyo,a,11363,OpenPlay,2025,LeftFoot,28778,Liverpool,Bournemouth,4,2,2025-08-15 19:00:00,Hamed Junior Traore,Pass
+0,637501,3,SavedShot,0.855999984741211,0.3129999923706055,0.0426560491323471,Mohamed Salah,h,1250,OpenPlay,2025,LeftFoot,28778,Liverpool,Bournemouth,4,2,2025-08-15 19:00:00,Hugo Ekitike,Pass
+1,637511,47,BlockedShot,0.85,0.4270000076293945,0.1133756041526794,Mohamed Salah,h,1250,OpenPlay,2025,LeftFoot,28778,Liverpool,Bournemouth,4,2,2025-08-15 19:00:00,Cody Gakpo,Pass
+2,637528,93,Goal,0.899000015258789,0.6129999923706054,0.1389048248529434,Mohamed Salah,h,1250,OpenPlay,2025,RightFoot,28778,Liverpool,Bournemouth,4,2,2025-08-15 19:00:00,Wataru Endo,BallRecovery
+0,637514,48,Goal,0.850999984741211,0.4920000076293945,0.0957067683339119,Cody Gakpo,h,11296,OpenPlay,2025,RightFoot,28778,Liverpool,Bournemouth,4,2,2025-08-15 19:00:00,Hugo Ekitike,Pass
+1,637520,69,SavedShot,0.8519999694824218,0.7609999847412109,0.0329975113272666,Cody Gakpo,h,11296,OpenPlay,2025,RightFoot,28778,Liverpool,Bournemouth,4,2,2025-08-15 19:00:00,Dominik Szoboszlai,Pass
+2,637526,87,MissedShots,0.909000015258789,0.624000015258789,0.0700523033738136,Cody Gakpo,h,11296,SetPiece,2025,RightFoot,28778,Liverpool,Bournemouth,4,2,2025-08-15 19:00:00,,None
+0,637517,53,MissedShots,0.7090000152587891,0.5570000076293945,0.0145673053339123,Dominik Szoboszlai,h,9788,OpenPlay,2025,RightFoot,28778,Liverpool,Bournemouth,4,2,2025-08-15 19:00:00,,None
+1,637524,79,MissedShots,0.855,0.4420000076293945,0.0939060449600219,Dominik Szoboszlai,h,9788,OpenPlay,2025,LeftFoot,28778,Liverpool,Bournemouth,4,2,2025-08-15 19:00:00,Curtis Jones,Pass
+2,637525,80,SavedShot,0.865,0.3359999847412109,0.0511729903519153,Dominik Szoboszlai,h,9788,OpenPlay,2025,RightFoot,28778,Liverpool,Bournemouth,4,2,2025-08-15 19:00:00,Mohamed Salah,Pass
+0,637504,9,MissedShots,0.9490000152587892,0.4109999847412109,0.071727454662323,Evanilson,a,12963,FromCorner,2025,Head,28778,Liverpool,Bournemouth,4,2,2025-08-15 19:00:00,David Brooks,Cross
+1,637512,48,MissedShots,0.8769999694824219,0.6559999847412109,0.0973141565918922,Evanilson,a,12963,OpenPlay,2025,LeftFoot,28778,Liverpool,Bournemouth,4,2,2025-08-15 19:00:00,David Brooks,Pass
+2,637522,70,MissedShots,0.911999969482422,0.595,0.0532196760177612,Evanilson,a,12963,OpenPlay,2025,Head,28778,Liverpool,Bournemouth,4,2,2025-08-15 19:00:00,Marcos Senesi,Cross
+0,637502,4,MissedShots,0.914000015258789,0.505,0.2579754292964935,Virgil van Dijk,h,833,FromCorner,2025,Head,28778,Liverpool,Bournemouth,4,2,2025-08-15 19:00:00,Mohamed Salah,Cross
+1,637505,30,SavedShot,0.911999969482422,0.5320000076293945,0.0776621475815773,Virgil van Dijk,h,833,FromCorner,2025,Head,28778,Liverpool,Bournemouth,4,2,2025-08-15 19:00:00,Florian Wirtz,Cross
+0,637509,41,BlockedShot,0.855,0.685,0.0386302769184112,David Brooks,a,6820,OpenPlay,2025,RightFoot,28778,Liverpool,Bournemouth,4,2,2025-08-15 19:00:00,,None
+1,637521,70,BlockedShot,0.8959999847412109,0.63,0.0770909711718559,David Brooks,a,6820,OpenPlay,2025,LeftFoot,28778,Liverpool,Bournemouth,4,2,2025-08-15 19:00:00,Marcus Tavernier,TakeOn
+0,637506,34,SavedShot,0.87,0.5209999847412109,0.3510007560253143,Marcus Tavernier,a,10741,OpenPlay,2025,RightFoot,28778,Liverpool,Bournemouth,4,2,2025-08-15 19:00:00,Adam Smith,Pass
+1,637510,46,BlockedShot,0.75,0.315,0.0455425083637237,Marcus Tavernier,a,10741,DirectFreekick,2025,LeftFoot,28778,Liverpool,Bournemouth,4,2,2025-08-15 19:00:00,,Standard
+0,637527,87,Goal,0.8980000305175782,0.534000015258789,0.0990132465958595,Federico Chiesa,h,1433,OpenPlay,2025,RightFoot,28778,Liverpool,Bournemouth,4,2,2025-08-15 19:00:00,,None
