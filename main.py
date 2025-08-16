@@ -32,7 +32,7 @@ def year_combo_selected(event):
 
 
 
-years = [str(year) for year in range(2024, 2014, -1)]
+years = [str(year) for year in range(2025, 2014, -1)]
 yearvar = StringVar()
 year_combo = ttk.Combobox(textvariable=yearvar)
 year_combo.bind('<<ComboboxSelected>>', year_combo_selected, )
