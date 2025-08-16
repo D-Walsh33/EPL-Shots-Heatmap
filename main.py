@@ -8,7 +8,7 @@ players = None
 player_buttons = []
 window = Tk()
 window.title('Premier League Shots Heatmap')
-
+window.geometry("400x450")
 select_label = Label(text='Select a year:', font=('Arial', 25, 'bold'))
 select_label.pack()
 
