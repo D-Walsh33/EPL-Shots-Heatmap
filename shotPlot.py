@@ -2,7 +2,7 @@ import matplotlib.pyplot as plt
 import matplotlib.font_manager as font_manager
 from mplsoccer import VerticalPitch
 
-def shotPlot(data, name):
+def shotPlot(data, name, year):
     data.loc[:, 'X'] = data['X'] * 100
     data.loc[:, 'Y'] = data['Y'] * 100
 
@@ -39,7 +39,7 @@ def shotPlot(data, name):
     ax1.text(
         x=.5,
         y=.70,
-        s= 'All shots in the Premier League 2024 Season',
+        s= f'All shots in the Premier League {year} Season',
         fontsize=14,
         fontproperties=font_props,
         fontweight='bold',
